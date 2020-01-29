@@ -1,1 +1,1 @@
-Sitemap: http://awwwry.com/sitemap.xml
+Sitemap: https://awwwry.com/sitemap.xml

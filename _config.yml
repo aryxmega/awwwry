@@ -3,7 +3,7 @@ logo:  # you can add own logo.
 description: American-Indonesian father, fiancé, product designer and front-end engineer from Los Angeles, California.
 keywords: Ary Mega, American-Indonesian, Balinese, Product Designer, UX Designer, Front-End Engineer, Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://awwwry.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://awwwry.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
