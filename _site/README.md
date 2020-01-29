@@ -2,6 +2,8 @@
 
 A supes simps theme for Jekyll, currently being used and reused on my personal blog, [https://awwwry.com](url-awwwry).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ca6a802-8b98-491e-9aeb-e41597f4694f/deploy-status)](https://app.netlify.com/sites/awwwry/deploys)
+
 * * *
 
 Table of Contents

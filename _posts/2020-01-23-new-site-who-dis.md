@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New site, who dis?"
+title:  "New Site, Who Dis?"
 image:  'https://media.giphy.com/media/3o85xrhcwk5SnS8bvi/source.gif'
 tags:   [jekyll, life]
 ---
