@@ -3,12 +3,17 @@
 */
 
 .highlight {
-  background: #f8f8f8;
+  background: $black;
+  border-radius: 10px;
+
+  code {
+    color: $white;
+  }
 
   .highlighter-rouge & {
-    background: #f8f8f8;
+    background: $black;
     margin-bottom: 15px;
-    color: $black;
+    color: $white;
   }
 
   .c     { color: #998; font-style: italic } // Comment
