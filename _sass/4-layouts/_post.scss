@@ -50,9 +50,11 @@
     line-height: 1.6;
     color: $gray;
     font-family: $sans-serif;
-    code{
-      background-color: $gray-white;
-      color: $primary-color;
+    code {
+      background-color: $black;
+      color: $white;
+      padding: 2px 8px;
+      border-radius: 4px;
     }
     img {
       margin: 0 0 15px;
@@ -71,8 +73,10 @@
     line-height: 2;
     color: $dark;
     code {
-      background-color: $gray-white;
-      color: $primary-color;
+      background-color: $black;
+      color: $white;
+      padding: 2px 8px;
+      border-radius: 4px;
     }
     &::before {
       background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23EF3340' d='M3.8 10.8l7-7L12.3 5l-7.1 7z'/%3E%3Cpath fill='%23EF3340' d='M5.2 3.8l7 7-1.4 1.5-7-7z'/%3E%3C/svg%3E");
