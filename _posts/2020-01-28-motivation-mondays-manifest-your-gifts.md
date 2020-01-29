@@ -10,6 +10,4 @@ tags:   [life, youtube, motivation]
 **URL:** [http://www.youtube.com/watch?v=1PcS24EgOLY][url-youtube]  
 **Duration:** ~30 minutes
 
-[![Manifest your Gifts with Dr. Myles, Munroe, Steve Harvey, Denzel Washington](http://img.youtube.com/vi/1PcS24EgOLY/0.jpg)](http://www.youtube.com/watch?v=1PcS24EgOLY "Manifest your Gifts with Dr. Myles, Munroe, Steve Harvey, Denzel Washington")
-
 [url-youtube]: http://www.youtube.com/watch?v=1PcS24EgOLY
