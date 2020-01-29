@@ -1,9 +1,13 @@
 <div class="container">
   <footer class="footer">
     <div class="footer__inner">
+      <iframe src="https://open.spotify.com/embed/playlist/0hvGuO3GFmX3zNWxaK17sZ" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="margin-bottom: 60px;"></iframe>
+
       <div class="contact">
-        <div class="contact__title">Questions? <a href="mailto:{{site.author.email}}">Holler at me</a>.</div>
         <ul class="contact__list list-reset">
+          <li class="contact__item">
+            <a class="contact__link" href="mailto:{{site.author.email}}">Email</a>
+          </li>
           {% for contact in site.contact %}
           <li class="contact__item">
             <a class="contact__link" href="{{contact.link}}" target="_blank">{{contact.name}}</a>
