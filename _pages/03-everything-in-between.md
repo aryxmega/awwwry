@@ -4,19 +4,15 @@ title: Everything in between.
 permalink: /everything-in-between/
 ---
 
-### Changelog
+### [Changelog][url-changelog]
 
 > A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
-
-[View Cangelog][url-changelog]
 
 ***
 
-### Questions & Answers
+### [Questions & Answers][url-qa]
 
 > A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
-
-[View Questions & Answers][url-qa]
 
 ***
 
