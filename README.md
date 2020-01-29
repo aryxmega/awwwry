@@ -8,7 +8,7 @@ Table of Contents
 -----------------
 *   [Features](#features)
 *   [Preview](#preview)
-*   [Development & Deployment](#development&deployment)
+*   [Development](#development)
 *   [Create Posts](#CreatePosts)
 *   [Google Analytics](#GoogleAnalytics)
 *   [Update Favicon](#UpdateFavicon)
@@ -34,7 +34,7 @@ Check it in action: [https://awwwry.com][url-awwwry]
 
 * * *
 
-### Development & Deployment
+### Development
 
 To run the theme locally, go to the theme's directory and run `bundle install` in Terminal (or any command line interface) to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to fire-up the Jekyll server.
 
