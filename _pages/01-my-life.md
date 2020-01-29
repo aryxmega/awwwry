@@ -5,7 +5,7 @@ permalink: /my-life/
 image: '/assets/img/ary-mega-my-life.jpg'
 ---
 
-### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California.
+### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California 🤙
 
 During business hours, I'm a [product designer and front-end developer][url-my-work] to clients in various industries, but my main jam is with advertising agencies, automotive businesses, fashion brands and financial tech companies.
 
