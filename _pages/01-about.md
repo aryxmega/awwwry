@@ -13,11 +13,13 @@ After hours, you can catch me spending time with my adventure partner, bedroom l
 
 ***
 
-### I used to brap around on a '99 Harley-Davidson Sportster...
+**Why 'AWWWRY'?**
+
+People usually pronounce my name as `/air-ee/`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
 
 ![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-harley-davidson-sportster.jpg)
 
-...but sold it because:
+I used to brap around on a '99 Harley-Davidson Sportster, but sold it because:
 
 * After Arro was born, I only had time to brap around the city about once a month
 * Was seeing/reading more and more accidents on my feed
@@ -29,25 +31,27 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and c
 
 ***
 
-### About the site:
+### About this site 🤓
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
-- Powered by my bro-dawg, [Jekyll][url-jekyll]
-- Hostin' it with the don, [GoDaddy][url-godaddy]
+- Powered by the main dawg, [Jekyll][url-jekyll]
+- Hostin' with the don, [GoDaddy][url-godaddy]
 - Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
 - Deployed automatically using the MVP, [Netlify][url-netlify]
 
 ***
 
-### If you want to holler:
+### Need to holler?
 
-- Use Grammarly before sendin' that [Email][url-email]
-- Let's commit and fork on [GitHub][url-github]
-- Tag me on [Instagram][url-instagram]
-- Connect with me on [LinkedIn][url-linkedin]
-- Upvote my posts on [Reddit][url-reddit]
-- Follow my playlists on [Spotify][url-spotify]
-- Read my jokes on [Twitter][url-twitter]
+Method | Link
+--- | ---
+Email | [arymega@gmail][url-email]
+GitHub | [/awwwry][url-github]
+Instagram | [@awwwry][url-instagram]
+LinkedIn | [/in/awwwry][url-linkedin]
+Reddit | [/u/awwwry][url-reddit]
+Spotify | [@awwwry][url-spotify]
+Twitter | [@awwwry][url-twitter]
 
 [url-career]: /career/
 [url-vsc]: https://code.visualstudio.com/

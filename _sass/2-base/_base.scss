@@ -131,3 +131,36 @@ hr {
   border: 0;
   background: $white;
 }
+
+table {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+
+  th, td {
+    padding: 15px 20px;
+    border: 1px dashed $gray-medium;
+    vertical-align: middle;
+
+    code {
+      background-color: $black;
+      color: $white;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+  }
+
+  th {
+    font-size: 14px;
+    text-transform: uppercase;
+    background-color: $black;
+    color: $white;
+    border: $black;
+  }
+
+  tr:nth-child(even) {
+    background-color: $gray-white;
+  }
+}
