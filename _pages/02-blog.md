@@ -1,6 +1,9 @@
 ---
 layout: blog
 title: Blog.
-image: 'https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif'
 permalink: /blog/
 ---
+
+### This is where I share stories about my life, progress on my work and everything in between.
+
+***

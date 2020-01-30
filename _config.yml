@@ -9,7 +9,7 @@ url: "https://awwwry.com" # the base hostname & protocol for your site, e.g. htt
 # Author Settings
 author:
   name: '@AWWWRY'
-  image: '/assets/img/ary-mega.jpg'
+  image: https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif
   job: Just your typical Balinese web designer and developer who listens to country music in a Ford F-150.
   bio: American-Indonesian father, fiancé, product designer and front-end developer from Los Angeles, California.
   email: arymega@gmail.com

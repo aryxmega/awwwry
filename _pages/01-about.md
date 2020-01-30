@@ -2,7 +2,6 @@
 layout: page
 title: About.
 permalink: /about/
-image: '/assets/img/ary-mega-my-life.jpg'
 ---
 
 ### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California 🤙
@@ -11,13 +10,9 @@ During business hours, I'm a [product designer and front-end developer][url-care
 
 After hours, you can catch me spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
 
-***
+So why 'AWWWRY'? People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
 
-**Why 'AWWWRY'?**
-
-People usually pronounce my name as `/air-ee/`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
-
-![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-harley-davidson-sportster.jpg)
+![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-my-life.jpg)
 
 I used to brap around on a '99 Harley-Davidson Sportster, but sold it because:
 
@@ -31,7 +26,7 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and c
 
 ***
 
-### About this site 🤓
+### About this site
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
 - Powered by the main dawg, [Jekyll][url-jekyll]
@@ -41,17 +36,9 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and c
 
 ***
 
-### Need to holler?
-
-Method | Link
---- | ---
-Email | [arymega@gmail][url-email]
-GitHub | [/awwwry][url-github]
-Instagram | [@awwwry][url-instagram]
-LinkedIn | [/in/awwwry][url-linkedin]
-Reddit | [/u/awwwry][url-reddit]
-Spotify | [@awwwry][url-spotify]
-Twitter | [@awwwry][url-twitter]
+<div class="author__more">
+    <a href="{{site.baseurl}}/blog/" class="say-hello">Read my blog →</a>
+</div>
 
 [url-career]: /career/
 [url-vsc]: https://code.visualstudio.com/

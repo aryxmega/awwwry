@@ -25,6 +25,7 @@
 }
 
 .author__job {
+  margin-top: 15px;
   margin-bottom: 30px;
   font-size: 36px;
   text-align: left;
@@ -42,6 +43,7 @@
 }
 
 .author__more {
+  margin: 15px 0 0;
   text-align: left;
 }
 
@@ -53,7 +55,7 @@ a.say-hello {
   font-weight: 700;
   text-align: center;
   border-radius: 4px;
-  color: #fff;
+  color: $white;
   background-color: $primary-color;
   transition: all 150ms ease-in-out;
   text-decoration: none;

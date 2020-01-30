@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Career.
-image: 'https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif'
 permalink: /career/
 ---
 
@@ -73,6 +72,12 @@ They're available upon request while I redesign my portfolio site. <a href="mail
 ### Are you available for freelance work?
 
 I'll be available for freelance work starting **Monday, February 17, 2020**. If you're interested to get rowdy, you can <a href="mailto:{{site.author.email}}">holler at me through email</a> or send a message on [LinkedIn][url-linkedin].
+
+***
+
+<div class="author__more">
+    <a href="{{site.baseurl}}/" class="say-hello">Let's head home →</a>
+</div>
 
 [url-vimby]: https://vimby.com
 [url-mirum]: https://www.mirumagency.com/en/home
