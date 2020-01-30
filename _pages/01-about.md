@@ -1,0 +1,65 @@
+---
+layout: page
+title: About.
+permalink: /about/
+image: '/assets/img/ary-mega-my-life.jpg'
+---
+
+### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California 🤙
+
+During business hours, I'm a [product designer and front-end developer][url-career] who's worked with advertising agencies, automotive businesses, fashion brands and financial tech companies.
+
+After hours, you can catch me spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
+
+***
+
+### I used to brap around on a '99 Harley-Davidson Sportster...
+
+![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-harley-davidson-sportster.jpg)
+
+...but sold it because:
+
+* After Arro was born, I only had time to brap around the city about once a month
+* Was seeing/reading more and more accidents on my feed
+* Needed the money at the time — this ninja had mad bills and shit
+
+Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and compact parking spots. I still have a few more mods to do, but for now she's hella thicc.
+
+![Black 2017 Ford F-150](https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb)
+
+***
+
+### About the site:
+
+- Coded using the homie, [Visual Studio Code][url-vsc]
+- Powered by my bro-dawg, [Jekyll][url-jekyll]
+- Hostin' it with the don, [GoDaddy][url-godaddy]
+- Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
+- Deployed automatically using the MVP, [Netlify][url-netlify]
+
+***
+
+### If you want to holler:
+
+- Use Grammarly before sendin' that [Email][url-email]
+- Let's commit and fork on [GitHub][url-github]
+- Tag me on [Instagram][url-instagram]
+- Connect with me on [LinkedIn][url-linkedin]
+- Upvote my posts on [Reddit][url-reddit]
+- Follow my playlists on [Spotify][url-spotify]
+- Read my jokes on [Twitter][url-twitter]
+
+[url-career]: /career/
+[url-vsc]: https://code.visualstudio.com/
+[url-jekyll]: https://jekyllrb.com/
+[url-godaddy]: https://www.godaddy.com/
+[url-github]: https://github.com/
+[url-netlify]: https://www.netlify.com/
+[url-instagram]: https://www.instagram.com/awwwry
+[url-email]: mailto:arymega@gmail.com
+[url-github]: https://www.github.com/awwwry
+[url-instagram]: https://www.github.com/awwwry
+[url-linkedin]: https://www.linkedin.com/in/awwwry
+[url-reddit]: https://www.reddit.com/u/awwwry
+[url-spotify]: https://open.spotify.com/playlist/0hvGuO3GFmX3zNWxaK17sZ
+[url-twitter]: https://www.twitter.com/awwwry

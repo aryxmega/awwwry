@@ -1,6 +1,6 @@
-title: '@AWWWRY - My life. My work. And everything in between.'
+title: '@AWWWRY'
 logo:  # you can add own logo.
-description: American-Indonesian father, fiancé, product designer and front-end engineer from Los Angeles, California.
+description: American-Indonesian father, fiancé, product designer and front-end developer from Los Angeles, California.
 keywords: Ary Mega, American-Indonesian, Balinese, Product Designer, UX Designer, Front-End Engineer, Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://awwwry.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,8 +10,8 @@ url: "https://awwwry.com" # the base hostname & protocol for your site, e.g. htt
 author:
   name: '@AWWWRY'
   image: '/assets/img/ary-mega.jpg'
-  job: Just your typical Balinese web developer and designer who listens to country music in a Ford F-150.
-  bio: American-Indonesian father, fiancé, product designer and front-end engineer from Los Angeles, California.
+  job: Just your typical Balinese web designer and developer who listens to country music in a Ford F-150.
+  bio: American-Indonesian father, fiancé, product designer and front-end developer from Los Angeles, California.
   email: arymega@gmail.com
 
 

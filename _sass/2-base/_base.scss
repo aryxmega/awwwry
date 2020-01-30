@@ -53,9 +53,6 @@ h2 {
 
 h3 {
   font-size: 24px;
-  &::before {
-    content: '# ';
-  }
 }
 
 h4 {
@@ -97,6 +94,7 @@ img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  border: 20px solid $gray-white;
   &+em {
     text-align: center;
     display: block;
