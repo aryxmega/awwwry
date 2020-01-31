@@ -76,7 +76,7 @@ I'll be available for freelance work starting **Monday, February 17, 2020**. If 
 ***
 
 <div class="author__more">
-    <a href="{{site.baseurl}}/" class="say-hello">Let's head home →</a>
+    <a href="{{site.baseurl}}/" class="say-hello">Last call, time to go home →</a>
 </div>
 
 [url-vimby]: https://vimby.com
