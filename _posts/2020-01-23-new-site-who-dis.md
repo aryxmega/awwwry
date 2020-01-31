@@ -2,7 +2,7 @@
 layout: post
 title:  "New Site, Who Dis?"
 image:  'https://media.giphy.com/media/3o85xrhcwk5SnS8bvi/source.gif'
-tags:   [jekyll, life]
+tags:   [life, jekyll]
 ---
 
 > Oh, yes, it's Ary's Night and the feeling's right. Oh, yes, it's Ary's Night. Oh, what a night (oh, what a night).
@@ -84,8 +84,10 @@ Alexandra and I recently took engagement photos with my homie, [David Bowles](ur
 
 ![Engagement photo of Alexandra and Ary](/assets/img/engagement-photos-preview.jpg)
 
-**Currently listening to:**
-[The Death Set - Negative Thinking.mp3][url-music]
+***
+
+**Currently listening to:**  
+<iframe src="https://open.spotify.com/embed/playlist/0hvGuO3GFmX3zNWxaK17sZ" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="border: 20px solid #f8f8f8; box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3); margin-bottom: 30px;"></iframe>
 
 [url-jekyll]: https://jekyllrb.com
 [url-hugo]: https://gohugo.io
