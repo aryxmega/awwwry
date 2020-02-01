@@ -37,7 +37,7 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and c
 ***
 
 <div class="author__more">
-    <a href="{{site.baseurl}}/blog/" class="say-hello">Read my blog, dawg →</a>
+    <a href="{{site.baseurl}}/blog/" class="say-hello">My blog →</a>
 </div>
 
 [url-career]: /career/
