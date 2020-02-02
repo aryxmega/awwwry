@@ -20,7 +20,7 @@ I used to brap around on a '99 Harley-Davidson Sportster, but sold it because:
 * Was seeing/reading more and more accidents on my feed
 * Needed the money at the time — this ninja had mad bills and shit
 
-Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and compact parking spots. I still have a few more mods to do, but for now she's hella thicc.
+Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and compact parking spaces. I still have a few more mods to do, but for now she's hella thicc.
 
 ![Black 2017 Ford F-150](https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb)
 
@@ -37,7 +37,7 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and c
 ***
 
 <div class="author__more">
-    <a href="{{site.baseurl}}/blog/" class="say-hello">Read my blog →</a>
+    <a href="{{site.baseurl}}/blog/" class="say-hello">My blog →</a>
 </div>
 
 [url-career]: /career/
