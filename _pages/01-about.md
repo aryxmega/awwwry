@@ -8,19 +8,15 @@ permalink: /about/
 
 During business hours, I'm a [product designer and front-end developer][url-career] who's worked with advertising agencies, automotive businesses, fashion brands and financial tech companies.
 
-After hours, you can catch me spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
+After hours, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, and our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
 
-So why 'AWWWRY'? People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
+**Why 'AWWWRY'?** People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
 
 ![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-my-life.jpg)
 
-I used to brap around on a '99 Harley-Davidson Sportster, but sold it because:
+I used to brap around on a '99 Harley-Davidson Sportster, but sold it because after Arro was born, I only had time to jam around the city about once a month, I was seeing/reading more and more accidents on my feed and, straight up, I needed the money at the time — this ninja had mad bills and shit.
 
-* After Arro was born, I only had time to brap around the city about once a month
-* Was seeing/reading more and more accidents on my feed
-* Needed the money at the time — this ninja had mad bills and shit
-
-Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and compact parking spaces. I still have a few more mods to do, but for now she's hella thicc.
+Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and in compact parking spaces. I have a few more mods to do, but for now she's hella thicc.
 
 ![Black 2017 Ford F-150](https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb)
 

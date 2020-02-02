@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2020/01/23/new-site-who-dis/</loc>
+<loc>https://awwwry.com/2020/01/23/new-site-who-dis/</loc>
 <lastmod>2020-01-23T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/01/30/3-reasons-why-i-love-fatherhood/</loc>
-<lastmod>2020-01-30T19:37:12-08:00</lastmod>
+<loc>https://awwwry.com/2020/02/02/engagement-photos/</loc>
+<lastmod>2020-02-02T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>https://awwwry.com/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>https://awwwry.com/blog/</loc>
+</url>
+<url>
+<loc>https://awwwry.com/career/</loc>
 </url>
 <url>
 <loc>https://awwwry.com/campfest/</loc>
@@ -21,15 +24,12 @@
 <loc>https://awwwry.com/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://awwwry.com/tag/life/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/life/</loc>
+<loc>https://awwwry.com/tag/jekyll/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/jekyll/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tag/parenthood/</loc>
+<loc>https://awwwry.com/tag/relationship/</loc>
 </url>
 </urlset>

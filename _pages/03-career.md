@@ -6,6 +6,8 @@ permalink: /career/
 
 ### During business hours, I'm a [product designer](#whats-a-product-designer) and [front-end developer](#whats-a-front-end-developer).
 
+![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
+
 I've had the opportunity work with advertising agencies, automotive businesses, fashion brands and financial tech companies.
 
 Previously, I was the Sr. UX Designer at [Fabletics][url-fabletics] before I ventured off to started my own business, [CVMPUS][url-cvmpus], which I closed in 2019.
@@ -24,42 +26,8 @@ Currently, I freelance and do contract work during the day and smash on my newes
 * 2015 - 2018, **Sr. UX Designer** at [Fabletics][url-fabletics]
 * 2018 - 2019, **Founder & Owner** of [CVMPUS][url-cvmpus]**
 
-*Formerly known as Lunchbox  
+*Known as Lunchbox at the time  
 **Closed due to personal matters
-
-***
-
-### What's a product designer?
-
-A product designer is responsible for the user experience of a product, usually taking direction(s) on the business goals and key initiatives from product managers. Product designers can sometimes play a role in the information architecture and system design of a product as well.
-
-A lot of product designers have a number of responsibilities they may deliver as part of their job, including (but not limited to):
-
-* Prototypes
-* Wireframes
-* Mockups
-* User Journey Maps
-
-Product designers typically take the reins for prototyping and user testing, as their goal is to create an excellent product experience. They may also do some coding (typically more with front-end languages, such as HTML, CSS and JavaScript) and create digital assets such as logos, icons and buttons, along with helping write the text used in the product.
-
-![Product designer](https://media.giphy.com/media/CbSGut2wzWKZy/giphy.gif)
-
-***
-
-### What's a front-end developer?
-
-A front-end developer installs and tests the user interface elements of a web site and/or app. The front-end developer focuses on the look and feel of the site, along with its functionality.
-
-Typical responsibilities for a front-end developer include:
-
-* Working with clients and employers to develop ideas for a new web site/app or renovating an existing web site/app
-* Understanding  the information that a site will contain and help develop a plan for structuring and presenting that information throughout the site
-* Selecting, optimizing and, in some cases, creating graphic elements for a site
-* Developing prototypes for a site that can be shown to employers and clients for their consideration and approval
-* Coding a site and then testing functionality
-* Monitoring sites to determine whether they are performing as expected and making corrections and adjustments as necessary
-
-![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
 ***
 
