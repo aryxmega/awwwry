@@ -5,9 +5,9 @@ image:  'https://media.giphy.com/media/l3mZp1EDTPwLgsXyo/giphy.gif'
 tags:   [life, relationship]
 ---
 
-Alexandra and I met up with my buddy, [David][url-david-bowles], and his wife, Nia, to have our engagement photos taken. David did an amazing job; he really knew how and when to capture a moment.
+Alexandra and I met up with my buddy, [David][url-david-bowles], and his wife, Nia, to have our engagement photos taken. They both did an amazing job making us feel comfortable, giving directions during the shoot and capturing each moment.
 
-I couldn't pick 'em all, so here are my favorite photos from the .zip file:
+A few of my favorites:
 
 ![Ary Mega, Alexandra Mega Engagement Shoot](/assets/img/ary-mega-alexandra-lambros-engagement-01.JPG)
 

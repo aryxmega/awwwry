@@ -25,12 +25,13 @@
 }
 
 .author__job {
+  font-family: $monospace;
   margin-top: 15px;
   margin-bottom: 30px;
   font-size: 36px;
   text-align: left;
   color: $dark;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .author__bio {

@@ -10,7 +10,8 @@ During business hours, I'm a [product designer and front-end developer][url-care
 
 After hours, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, and our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
 
-**Why 'AWWWRY'?** People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
+**Why 'AWWWRY'?**  
+People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
 
 ![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-my-life.jpg)
 
