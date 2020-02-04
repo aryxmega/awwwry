@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "New Site, Who Dis?"
+title:  "New Site, Who Dis? 💅"
 image:  'https://media.giphy.com/media/3o85xrhcwk5SnS8bvi/source.gif'
 tags:   [life, jekyll]
 ---
-
-> Oh, yes, it's Ary's Night and the feeling's right. Oh, yes, it's Ary's Night. Oh, what a night (oh, what a night).
 
 ### New year, same ol' me.
 
