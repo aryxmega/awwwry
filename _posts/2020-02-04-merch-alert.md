@@ -11,7 +11,7 @@ Made some [merch for shits and gigs][url-teespring]; planning to make more whene
 
 ### WEBSIIITE
 
-Enough heartaches and [Jira tickets][url-jira]. Let's squash the bugs and end the beef. Designers, developers unite. `#WEBSIIITE`
+> Enough heartaches and [Jira tickets][url-jira]. Let's squash the bugs and end the beef. Designers, developers unite. `#WEBSIIITE`
 
 [![Websiiite t-shirt in white](https://vangogh.teespring.com/v3/image/6fE4ldqZA0jxBaZCRchi6hGj_wI/480/560.jpg)](https://teespring.com/websiiite-000000?pid=2)
 
@@ -25,7 +25,7 @@ Enough heartaches and [Jira tickets][url-jira]. Let's squash the bugs and end th
 
 ### Don't @ Me If U Ain't Nasty
 
-If you ain't finna get ratchet on a Tuesday and twerk your way to work, slide on patnah. Slide on. `#NoNewFriends` `#NoDMs`
+> If you ain't finna get ratchet on a Tuesday and twerk your way to work, slide on patnah. Slide on. `#NoNewFriends` `#NoDMs`
 
 [![Don't at me if you ain't nasty sweatshirt in black](https://vangogh.teespring.com/v3/image/KxcUNxr9-AyoO8iLQeJE3JyfkcQ/480/560.jpg)](https://teespring.com/dont-at-me-ffffff?pid=345&cid=6354)
 
