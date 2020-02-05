@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Engagement Photos 📸"
+title:  "Engagement photos 📸"
 image:  'https://media.giphy.com/media/l3mZp1EDTPwLgsXyo/giphy.gif'
 tags:   [life, relationship]
 ---

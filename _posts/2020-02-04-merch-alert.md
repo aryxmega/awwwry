@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Merch Alert 🚨"
+title:  "Merch alert 🚨"
 image:  'https://media.giphy.com/media/1AePCIT6mFG42z996i/giphy.gif'
 tags:   [life, ecommerce]
 ---

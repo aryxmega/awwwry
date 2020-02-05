@@ -49,6 +49,7 @@ h1 {
 
 h2 {
   font-size: 30px;
+  line-height: 1;
 }
 
 h3 {
@@ -96,7 +97,7 @@ img {
   width: 100%;
   height: auto;
   vertical-align: middle;
-  border: 20px solid $gray-white;
+  // border: 20px solid $gray-white;
   box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3);
   margin: 0 0 15px;
   &+em {
