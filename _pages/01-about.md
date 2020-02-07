@@ -6,12 +6,10 @@ permalink: /about/
 
 ### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California 🤙
 
-During business hours, I'm a [product designer and front-end developer][url-career] who's worked with advertising agencies, automotive businesses, fashion brands and financial tech companies.
-
-After hours, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, and our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
+During business hours, I'm a [product designer and front-end developer][url-career]. After hours, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, and our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
 
 **Why 'AWWWRY'?**  
-People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because I'm such a nerd that I needed the initials from world wide web sandwiched in my name.
+People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because, being a nerd, I needed the initials from world wide web sandwiched in my name.
 
 ![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-my-life.jpg)
 
