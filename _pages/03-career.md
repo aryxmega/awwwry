@@ -4,7 +4,7 @@ title: Career.
 permalink: /career/
 ---
 
-### During business hours, I'm a [product designer](#whats-a-product-designer) and [front-end developer](#whats-a-front-end-developer).
+### During business hours, I'm a product designer and front-end developer.
 
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
