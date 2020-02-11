@@ -90,29 +90,6 @@ permalink: /campfest/
 
 ***
 
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-
-***
-
 **Currently listening to:**  
 <iframe src="https://open.spotify.com/embed/playlist/0hvGuO3GFmX3zNWxaK17sZ" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="border: 20px solid #f8f8f8; box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3); margin-bottom: 30px;"></iframe>
 
