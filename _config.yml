@@ -1,9 +1,9 @@
 title: '@AWWWRY'
-logo:  # you can add own logo.
+logo: 
 description: American-Indonesian father, fiancé, product designer and front-end developer from Los Angeles, California.
 keywords: Ary Mega, American-Indonesian, Balinese, Product Designer, UX Designer, Front-End Engineer, Web Developer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://awwwry.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://awwwry.com"
 
 
 # Author Settings
@@ -34,11 +34,11 @@ contact:
 
 
 # Comment Section (Disqus)
-disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:
 
 
 # Google Analytics
-google-analytics: UA-64088985-1 # add your identifier. For example UA-99631805-1.
+google-analytics: UA-64088985-1
 
 
 # Build settings
@@ -69,7 +69,7 @@ sass:
   sourcemap: never
 
 
-# Exclude from processing.
+# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock

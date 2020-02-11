@@ -35,7 +35,7 @@
 }
 
 .page__content {
-  margin-bottom: 45px;
+  margin-bottom: 60px;
   p {
     font-size: 20px;
     line-height: 1.6;
@@ -46,6 +46,7 @@
       box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3);
       // border: 20px solid $gray-white;
       width: 100%;
+      border-radius: 8px;
     }
   }
   ul li,
