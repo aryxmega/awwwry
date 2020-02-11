@@ -35,6 +35,8 @@ Previously, I was the Sr. UX Designer at [Fabletics][url-fabletics] before I ven
 
 They're available upon request while I redesign my portfolio site. <a href="mailto:{{site.author.email}}">Just send me a quick email</a> and I'll holler back with a phat PDF of my recently projects.
 
+![Thicc oatmeal](https://media.giphy.com/media/GMdcBivU0d1ni/giphy.gif)
+
 ***
 
 ### Am I available for freelance work?
