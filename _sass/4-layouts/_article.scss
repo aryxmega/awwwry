@@ -17,7 +17,6 @@
   display: block;
   width: 100px;
   height: 100px;
-  // border: 10px solid $gray-white;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -33,10 +32,9 @@
     font-weight: 700;
     line-height: 1.6;
     transition: color 250ms;
-    color: $primary-color;
+    color: $black;
     &:hover {
-      color: $dark;
-      text-decoration: line-through;
+      color: $primary-color;
     }
   }
 }
