@@ -43,7 +43,7 @@
     font-family: $sans-serif;
     img {
       margin: 0 0 15px;
-      box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3);
+      box-shadow: 0 10px 20px -4px rgba(0, 0, 0, 1);
       // border: 20px solid $gray-white;
       width: 100%;
       border-radius: 8px;
@@ -54,7 +54,7 @@
     margin-bottom: 5px;
     line-height: 2;
     list-style: none;
-    color: $dark;
+    color: $white;
     code {
       background-color: $black;
       color: $white;
@@ -63,7 +63,7 @@
     }
     &::before {
       content: '—';
-      color: $dark;
+      color: $primary-color;
       padding-right: 10px;
     }
   }

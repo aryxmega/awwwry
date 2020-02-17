@@ -13,7 +13,7 @@
   font-family: $sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: $dark;
+  color: $white;
   text-decoration: none;
   letter-spacing: 1px;
 }
@@ -27,7 +27,7 @@
   margin-left: 30px;
   .nav__link {
     font-family: $sans-serif;
-    color: $dark;
+    color: $white;
     text-decoration: none;
     line-height: 1.6;
     font-weight: 500;
@@ -75,7 +75,7 @@
     visibility: hidden;
     opacity: 0;
     z-index: 10;
-    background-color: $white;
+    background-color: $black;
     transition: 400ms ease-in-out;
     &.visible {
       visibility: visible;

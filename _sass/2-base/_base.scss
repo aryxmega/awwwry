@@ -5,8 +5,8 @@
 body {
   font-family: $sans-serif;
   font-size: 16px;
-  color: $dark;
-  background-color: #fff;
+  color: $white;
+  background-color: $black;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   input, textarea {
@@ -134,7 +134,7 @@ hr {
   margin: 30px auto;
   border-radius: 50%;
   border: 0;
-  background: $white;
+  background: transparent;
 }
 
 table {
