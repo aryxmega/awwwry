@@ -60,7 +60,7 @@
     img {
       margin: 0 0 15px;
       width: 100%;
-      box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3);
+      box-shadow: 0 10px 20px -4px rgba(0, 0, 0, 1);
     }
     em {
       font-style: normal;
@@ -71,7 +71,7 @@
     margin-bottom: 5px;
     list-style: none;
     line-height: 2;
-    color: $dark;
+    color: $white;
     code {
       background-color: $black;
       color: $white;
@@ -80,7 +80,7 @@
     }
     &::before {
       content: '—';
-      color: $dark;
+      color: $primary-color;
       padding-right: 10px;
     }
   }
@@ -270,6 +270,7 @@
   font-size: 14px;
   line-height: 24px;
   color: $primary-color;
+  text-decoration: none;
   &:hover {
      color: $gray-lighten;
   }
