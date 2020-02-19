@@ -46,6 +46,14 @@ You may be thinking, **"Why don't you just use Shopify's online editor?"** It's 
 
 ***
 
+### Tools I use.
+
+- Shout out to [Visual Studio Code][url-vsc] for always havin' my back in the code editor game
+- Big ups to [SourceTree][url-sourcetree] for helpin' a ninja pull, commit and push nasty ass files
+- [Bitbucket][url-bitbucket], I see you dawg — thanks for hostin' the party
+
+***
+
 ### And that's about it.
 
 ![What kind of foolishness...](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
@@ -55,3 +63,6 @@ If you have any questions, please don't hesitate to holler via email at **no-rep
 ***
 
 [url-theme-kit]: https://shopify.github.io/themekit/
+[url-sourcetree]: https://www.sourcetreeapp.com/
+[url-vsc]: https://code.visualstudio.com/
+[url-bitbucket]: https://bitbucket.org/product/
