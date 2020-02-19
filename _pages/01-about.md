@@ -4,27 +4,27 @@ title: About.
 permalink: /about/
 ---
 
-### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California 🤙
+### I'm Ary &mdash; an American-Indonesian father and fianc&eacute; from Los Angeles, California.
 
-During business hours, I'm a [product designer and front-end developer][url-career]. After hours, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homey, Alexandra, and our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
+During business hours, I'm a product designer and front-end developer. After hours, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, Alexandra, and our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
 
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
 I've had the opportunity work with advertising agencies, automotive businesses, fashion brands and financial tech companies.
 
-Previously, I was the Sr. UX Designer at [Fabletics][url-fabletics] before I ventured off to started my own business, [CVMPUS][url-cvmpus], which I closed in 2019.
+Previously, I was the Sr. UX Designer at [Fabletics][url-fabletics] before I ventured off to start my own business, [CVMPUS][url-cvmpus], which I closed in 2019.
 
 ***
 
 ### What was I doing before?
 
-* 2002 - 2006, **Student** at Cleveland High School
-* 2005 - 2007, **Barista** at Starbucks
-* 2007 - 2009, **Web Producer** at [VIMBY][url-vimby]
-* 2009 - 2012, **Web Developer** at [Mirum Agency][url-mirum]*
-* 2013 - 2015, **UX Designer** at [ShoeDazzle][url-shoedazzle]
-* 2015 - 2018, **Sr. UX Designer** at [Fabletics][url-fabletics]
-* 2018 - 2019, **Founder & Owner** of [CVMPUS][url-cvmpus]**
+* 2002 — 2006, **Student** at Cleveland High School
+* 2005 — 2007, **Barista** at Starbucks
+* 2007 — 2009, **Web Producer** at [VIMBY][url-vimby]
+* 2009 — 2012, **Web Developer** at [Mirum Agency][url-mirum]*
+* 2013 — 2015, **UX Designer** at [ShoeDazzle][url-shoedazzle]
+* 2015 — 2018, **Sr. UX Designer** at [Fabletics][url-fabletics]
+* 2018 — 2019, **Founder & Owner** of [CVMPUS][url-cvmpus]**
 
 *Known as Lunchbox at the time  
 **Closed due to personal matters
@@ -51,17 +51,17 @@ People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the wo
 
 ***
 
-### How I get around
+### How I get around.
 
-I used to brap around on a '99 Harley-Davidson Sportster, but sold it because after Arro was born, I only had time to jam around the city about once a month, I was seeing/reading more and more accidents on my feed and, straight up, I needed the money at the time — this ninja had mad bills and shit.
+I used to brap around on a '99 Harley-Davidson Sportster, but sold it because after Arro was born, I only had time to jam around the city about once a month, I was seeing/reading more and more accidents on my social feed and, straight up, I needed the money at the time — this ninja had mad bills to pay.
 
 ![1999 Harley-Davidson Sportster 883](/assets/img/ary-mega-my-life.jpg)
 
-Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and in compact parking spaces. I have a few more mods to do, but for now she's hella thicc.
+Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and in compact parking spaces. I have a few more mods to do, but for now she's hella thicc to me.
 
 ![Black 2017 Ford F-150](https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb)
 
-### About this site
+### About this site.
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
 - Powered by the main dawg, [Jekyll][url-jekyll]

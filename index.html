@@ -7,31 +7,36 @@ layout: default
     <div class="author__inner">
       <h1 class="author__job">{{ site.author.job }}</h1>
       <div class="author__more">
-        <a href="{{site.baseurl}}/about/" class="say-hello">Learn more →</a>
+        <a href="{{site.baseurl}}/about/" class="say-hello">About me →</a>
       </div>
     </div>
   </section>
 </div>
 
 <div class="container">
-  {% if site.posts.size > 0 %}
-    {% for post in site.posts %}
-    <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-      {% if post.image %}
-      <div class="article__image-box">
-        <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
-      </div>
+  <article class="page">
+      <div class="page__contet" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-delay="100" data-aos-duration="700">
+      {% if site.posts.size > 0 %}
+          {% for post in site.posts %}
+          <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
+              {% if post.image %}
+              <div class="article__image-box">
+                  <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
+              </div>
+              {% endif %}
+
+              <div class="article__content">
+                  <h2 class="article__title">
+                      <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+                  </h2>
+
+                  <div class="article__meta">
+                      <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+                  </div>
+              </div>
+          </div>
+          {% endfor %}
       {% endif %}
-      <div class="article__content">
-        <h2 class="article__title">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-        </h2>
-        <div class="article__meta">
-          <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
-        </div>
-        <!--<a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read story</a>-->
       </div>
-    </div>
-    {% endfor %}
-  {% endif %}
+  </article>
 </div>
