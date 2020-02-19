@@ -16,6 +16,14 @@
   color: $white;
   text-decoration: none;
   letter-spacing: 1px;
+
+  &::before {
+    content: '@';
+  }
+
+  &:hover::before {
+    content: '🏠';
+  }
 }
 
 .logo__image {
