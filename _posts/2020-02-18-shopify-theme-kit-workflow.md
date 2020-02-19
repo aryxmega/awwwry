@@ -5,7 +5,7 @@ image:  'https://media.giphy.com/media/wZmCr7odNxKP6/giphy.gif'
 tags:   [work, technology, shopify]
 ---
 
-### Straight up, Theme Kit is a tool used to create and fuck up Shopify themes, not to mention:
+### Straight up, Theme Kit is a tool used to create and remix Shopify themes, not to mention:
 
 - Download and upload theme files from multiple environments at speeds beyond your nasty imagination
 - Watch for saved changes on your computer and automatically upload 'em to your Shopify theme
@@ -17,7 +17,7 @@ You may be thinking, **"Why don't you just use Shopify's online editor?"** It's 
 
 ***
 
-### How I fuck shit up.
+### Round one, fight.
 
 - Create a new branch with `git checkout -b <feature_name>`
 - Mosey over to the Shopify store and duplicate the active theme and rename it to `<feature_name>`
