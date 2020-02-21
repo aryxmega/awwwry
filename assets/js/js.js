@@ -35,6 +35,44 @@ $(document).ready(function() {
 
 
   /* ================================
+  // Progress Scroll
+  ================================ */
+  const progress_line = document.querySelector('.progress_bar');
+
+  function progress() {
+      const window_height    = window.innerHeight;
+      const page_height      = document.body.clientHeight;
+      const scrolled        = window.scrollY;
+      const scroll_percentage = (scrolled / (page_height - window_height)) * 100;
+
+      progress_line.style.width = `${scroll_percentage}%`;
+  }
+
+  window.addEventListener('scroll', debounce(progress));
+
+  function debounce(func, wait = 15, immediate) {
+      var timeout;
+
+      return function() {
+          var context = this, args = arguments;
+          var later = function() {
+              timeout = null;
+              
+              if (!immediate) func.apply(context, args);
+          };
+
+          var callNow = immediate && !timeout;
+
+          clearTimeout(timeout);
+          
+          timeout = setTimeout(later, wait);
+          
+          if (callNow) func.apply(context, args);
+      };
+  }
+
+
+  /* ================================
   // AOS - Animate On Scroll Library
   ================================ */
   AOS.init();

@@ -334,3 +334,14 @@
   background-color: transparent;
   cursor: pointer;
 }
+
+
+/* Progress Bar */
+.progress_bar {
+  background: $primary-color;
+  height: 8px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  transition: 0.5s cubic-bezier(0.072, 0.80, 0.164, 1) width;
+}
