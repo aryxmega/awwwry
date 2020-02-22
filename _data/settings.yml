@@ -66,12 +66,12 @@ color_settings:
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
   accent_color: '#EF3340'
-  border_color: '#EF3340'
+  border_color: '#ddd'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Roboto+Mono:400,700" rel="stylesheet">'
-  title_font: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Barlow:400,500,700|Roboto+Mono:400,700" rel="stylesheet">'
+  title_font: '"Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
   body_font: '"Roboto Mono", monospace'
   regular_weight: 400
   bold_weight: 700
