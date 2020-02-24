@@ -1,100 +1,56 @@
 ---
 title: Grid System
-subtitle: A supes simps fluid grid system template for all your nasty desires.
+subtitle: A super-fluid grid system template for all your nasty desires.
 date: 2020-02-10
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: demo.jpg
-accent_color: '#3399ff'
+description: '#Front-End #HTML #SCSS'
+featured_image: grid-system/grid-system-desktop.png
+accent_color: '#2D8EFF'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - grid-system/grid-system-desktop.png
+  - grid-system/desktop-mobile.png
+  - grid-system/files.png
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+#### **Supes Simps Grid Sys** (aka SSGS) is a a super simple grid system that's mad easy to customize to fit your millennial needs.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices — especially on the [T-Mobile Sidekick][url-tmobile-sidekick].
 
-![](/images/demo.jpg)
+#### Gettin' started is supes eaze
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+You can either clone the repo or download the latest `.zip` file:
 
-You can create lists:
+- Clone: [https://github.com/awwwry/supes-simps-grids-sys.git][url-git-clone]
+- Download latest .zip file: [https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip][url-git-zip]
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+Then, you'll need to link-up the stylesheet to that `<head>` of yours:
 
-And:
+{% highlight html %}
+<link rel="stylesheet" type="text/css" href="style/sheet.css">
+{% endhighlight %}
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+#### Structurin' your layout is ever so simple
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+{% highlight html %}
+<div class="wrap">
+	<div class="block-3">Content here</div>
+	<div class="block-3">Content here</div>
+	<div class="block-3">Content here</div>
+</div>
+{% endhighlight %}
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+**For example:** in order to create a three-column layout or section, hug your `.block-` children with a parent `.wrap` to clear the left floats associated with `.block-`.
 
-The theme also supports markdown tables:
+#### Customizin' your grid
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+But maybe you want to kick it ol' school and create a two-column section where one column has a 25% width and the other a 75% width. As long as the `.block-` classes equal 100%, it'll be fire 🔥
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+{% highlight html %}
+<div class="wrap">
+    <div class="block-25">Some rad content here</div>
+    <div class="block-75">Some dope content here</div>
+</div>
+{% endhighlight %}
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
-***
-
-#### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg"
-%}
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-{% include post-components/gallery.html
-	columns = 1
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
-	"
-%}
-
-#### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
-
-### Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
-
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
+[url-tmobile-sidekick]: https://www.t-mobile.com/brand/sidekick
+[url-git-clone]: https://github.com/awwwry/supes-simps-grids-sys.git
+[url-git-zip]: https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip
