@@ -5,7 +5,7 @@ description: This is a demo post that shows what you can do inside portfolio and
 featured_image: '/images/demo.jpg'
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+#### This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 

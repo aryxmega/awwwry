@@ -6,8 +6,6 @@
 
     <div class="about__image">
       <img src="{{ '/images/profile.jpg' | relative_url }}" alt="">
-
-      {% include component-socials.html %}
     </div>
 
     <div class="about__content">
@@ -15,11 +13,13 @@
 
       <p class="subtitle subtitle--light">An American-Indonesian from Los Angeles, California.</p>
 
-      <p>During business hours, I'm a product designer and developer for advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.</p>
+      <p>During business hours, I'm a <strong>product designer and developer</strong> primarily for advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.</p>
 
-      <p>After hours, I'm either dedicating my time to my adventure partner, bedroom lover and best homie, Alexandra, and our son, Arro, or working on my latest project, Candy.</p>
+      <p>After hours, I'm either dedicating my time to my adventure partner, bedroom lover and best homie, <strong>Alexandra</strong>, and our son, <strong>Arro</strong>, or working on my latest project, <a href="https://www.instagram.com/candymotor.co" target="_blank" title="Candy on Intagram">Candy.</a></p>
 
-      <a href="#" class="cta button--fill contact-trigger js-contact">Holler</a>
+      <p>I'm around, if you need to holler:</p>
+
+      {% include component-socials.html %}
     </div>
   </div>
 </section>

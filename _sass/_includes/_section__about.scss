@@ -42,6 +42,17 @@
 
     p {
       margin-bottom: 16px;
+
+      a {
+        border-bottom: 2px solid $accent-color;
+        color: $accent-color;
+        text-decoration: none;
+
+        &:hover {
+          color: $text-dark-color;
+          border-bottom: 2px solid $text-dark-color;
+        }
+      }
     }
 
     .cta {
