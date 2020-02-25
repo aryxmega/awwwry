@@ -19,12 +19,10 @@ h6,
 .subtitle {
   font-family: $title-font;
   color: $text-dark-color;
-  line-height: 1.4 !important;
 }
 
 h1,
 .h1 {
-  font-family: $body-font;
   font-size: $h1-size-small;
   letter-spacing: $h1-spacing-small;
   line-height: $h1-lineheight-small;
@@ -67,7 +65,6 @@ h3,
 
 h4,
 .h4 {
-  font-family: $body-font;
   font-size: $h4-size-small;
   font-weight: $h4-weight;
   line-height: $h4-lineheight;
@@ -231,7 +228,7 @@ time {
 }
 
 code {
-  font-family: $title-font;
+  font-family: $body-font;
 }
 
 ::selection {

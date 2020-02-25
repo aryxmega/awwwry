@@ -6,11 +6,10 @@
 
 .page-post {
   .post__header {
-    padding-bottom: 0 /*48px*/;
+    padding-bottom: 48px;
   }
 
   .post__title {
-    font-family: $body-font;
     margin-bottom: 16px;
   }
 
@@ -35,46 +34,16 @@
 
     p {
       margin-bottom: 16px;
-
-      a {
-        border-bottom: 1px dashed $accent-color;
-        color: $accent-color;
-        text-decoration: none;
-
-        &:hover {
-          border-bottom: 1px solid $accent-color;
-        }
-      }
-
-      strong {
-        color: $text-dark-color;
-        font-weight: 700;
-      }
     }
 
     ul,
     ol {
       margin-bottom: 24px;
       padding-left: 16px;
-      list-style: none;
     }
 
     li {
       @extend .body;
-
-      &::before {
-        content: '— ';
-      }
-
-      a {
-        border-bottom: 1px dashed $accent-color;
-        color: $accent-color;
-        text-decoration: none;
-
-        &:hover {
-          border-bottom: 1px solid $accent-color;
-        }
-      }
     }
 
     p img {
@@ -284,7 +253,7 @@
 
   @include mq(tabletp) {
     .post__header {
-      padding-bottom: 0 /*80px*/;
+      padding-bottom: 80px;
     }
 
     .post__title {

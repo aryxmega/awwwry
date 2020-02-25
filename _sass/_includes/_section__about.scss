@@ -32,7 +32,6 @@
     max-width: 456px;
 
     .title {
-      font-family: $body-font;
       margin-bottom: 16px;
     }
 
@@ -42,17 +41,6 @@
 
     p {
       margin-bottom: 16px;
-
-      a {
-        border-bottom: 2px solid $accent-color;
-        color: $accent-color;
-        text-decoration: none;
-
-        &:hover {
-          color: $text-dark-color;
-          border-bottom: 2px solid $text-dark-color;
-        }
-      }
     }
 
     .cta {
@@ -78,7 +66,7 @@
 		}
 		
 		.about__content {
-			margin-top: 48px;
+			margin-top: 64px;
 
 			.subtitle {
 				margin-bottom: 24px;

@@ -1,7 +1,7 @@
 ---
 layout: default
-overtitle: "Yo! I'm Ary Mega (noun):"
-title: I help design and code ratchet digital products 👨🏽‍💻
+overtitle: Made is a Jekyll theme
+title: For designers and web developers
 description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
 featured_image: /images/social.jpg
 ---
@@ -20,7 +20,7 @@ featured_image: /images/social.jpg
 			</div>
 
 			<p class="intro subtitle--light">
-				<!--{{ page.description }}-->
+				{{ page.description }}
 				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
 			</p>
 		</div>
@@ -46,9 +46,9 @@ featured_image: /images/social.jpg
 					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
 					<p class="project__description --small">
 						{{ project.description }}
+						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
 					</p>
-					<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Project</a>
 				</div>
 			</article>
 
