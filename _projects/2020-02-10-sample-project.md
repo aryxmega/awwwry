@@ -1,21 +1,21 @@
 ---
-title: Mobile app
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
-date: 2019-07-24 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: demo.jpg
+title: Sample Project
+subtitle: A super-flexible grid system template to fulfill all of your nasty desires.
+date: 2020-02-10 00:00:00
+description: "#Front-End #HTML #SCSS"
+featured_image: grid-system/desktop.png
 accent_color: '#4C60E6'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - grid-system/desktop.png
+  - grid-system/desktop-mobile.png
+  - grid-system/files.png
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-![](/images/demo.jpg)
+![](/images/projects/grid-system/desktop.png)
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -51,7 +51,7 @@ And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
 You can throw in some horizontal rules too:
 
----
+***
 
 #### Image galleries
 
@@ -60,7 +60,7 @@ Here's a really neat custom feature we added – galleries:
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
+	images = "/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png
 	"
 %}
 
@@ -71,7 +71,7 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
+	images = "/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png,
 	"
 %}
 ```
@@ -91,7 +91,7 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
+	images = "/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop.png
 	"
 %}
 
