@@ -60,7 +60,7 @@ Here's a really neat custom feature we added – galleries:
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
+	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
 	"
 %}
 
