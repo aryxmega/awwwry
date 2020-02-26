@@ -17,8 +17,11 @@ It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile device
 
 #### Installation is supes eaze
 
--   Clone: https://github.com/awwwry/supes-simps-grids-sys.git
--   Download latest .zip file: https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip
+You can either clone the repo:  
+[https://github.com/awwwry/supes-simps-grids-sys.git](https://github.com/awwwry/supes-simps-grids-sys.git)
+
+Or download latest .zip file:  
+[https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip](https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip)
 
 
 #### Getting started is cake

@@ -19,10 +19,12 @@ h6,
 .subtitle {
   font-family: $title-font;
   color: $text-dark-color;
+  line-height: 1.4 !important;
 }
 
 h1,
 .h1 {
+  font-family: $body-font;
   font-size: $h1-size-small;
   letter-spacing: $h1-spacing-small;
   line-height: $h1-lineheight-small;
@@ -182,12 +184,12 @@ blockquote {
 
 a {
   text-decoration: none;
-  color: $text-dark-color;
+  color: $accent-color;
   font-weight: $bold-weight;
   @include transition(all 120ms ease-in-out);
 
   &:hover {
-    color: $accent-color;
+    color: $text-dark-color;
   }
 }
 

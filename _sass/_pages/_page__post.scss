@@ -34,7 +34,7 @@
     margin-bottom: 80px;
 
     p {
-      margin-bottom: 16px;
+      margin-bottom: 24px;
     }
 
     ul,
@@ -45,6 +45,13 @@
 
     li {
       @extend .body;
+      list-style: none;
+
+      &::before {
+        content: '— ';
+        color: $accent-color;
+        padding-left: 4px;
+      }
     }
 
     p img {

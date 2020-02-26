@@ -7,7 +7,11 @@
 		</a>
 		{% else %}
 		<a href="{{ site.baseurl }}/" class="footer__title">
+			{%- comment -%}
 			{{ site.data.settings.basic_settings.site_title }}
+			{%- endcomment -%}
+
+			&copy; {{ "now" | date: "%Y" }}
 		</a>
 		{% endif %}
 

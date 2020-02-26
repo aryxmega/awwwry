@@ -20,6 +20,7 @@
     align-items: center;
 
     img {
+      border-radius: 8px;
       margin-bottom: 24px;
     }
   }
@@ -67,7 +68,7 @@
 		}
 		
 		.about__content {
-			margin-top: 64px;
+			margin-top: 0 /*64px*/;
 
 			.subtitle {
 				margin-bottom: 24px;
