@@ -32,6 +32,15 @@
     .gallery--carousel .owl-dot.active::after {
       background: var(--accent);
     }
+
+    p {
+      a {
+        border-color: var(--accent);
+        border-style: solid;
+        border-width: 0 0 2px;
+        color: var(--accent);
+      }
+    }
   }
 
   @include mq(tabletp) {

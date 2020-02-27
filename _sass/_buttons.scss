@@ -77,8 +77,9 @@
 
   &--fill {
     @extend .button--text;
-    color: white;
+    color: white !important;
     background-color: $accent-color;
+    border-width: 0 !important;
     padding: 13px 20px 14px;
     border-radius: 40px;
 

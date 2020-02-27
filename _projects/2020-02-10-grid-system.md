@@ -4,14 +4,14 @@ subtitle: A super-flexible grid system template to fulfill all of your nasty des
 date: 2020-02-10 00:00:00
 description: "#Front-End #HTML #SCSS"
 featured_image: grid-system/desktop.png
-accent_color: '#4C60E6'
+accent_color: '#2D8EFF'
 gallery_images:
   - grid-system/desktop.png
   - grid-system/desktop-mobile.png
   - grid-system/files.png
 ---
 
-#### Supes Simps Grid Sys (aka SSGS) is a a super simple grid system that's mad easy to customize to fit your millennial needs
+#### Supes Simps Grid Sys (aka SSGS) is a super simple grid system that's mad easy to customize to fit your millennial needs.
 
 It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices.
 
@@ -24,9 +24,9 @@ Or download latest .zip file:
 [https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip](https://github.com/awwwry/supes-simps-grids-sys/archive/master.zip)
 
 
-#### Getting started is cake
+#### Getting started is a piece of 🎂
 
-First you need to link the stylesheet:
+First, you need to link-up the stylesheet:
 
 {% raw %}
 ```html
@@ -34,7 +34,7 @@ First you need to link the stylesheet:
 ```
 {% endraw %}
 
-#### Structuring your layouts
+Then, you can structure your layout like so:
 
 {% raw %}
 ```html
@@ -46,10 +46,10 @@ First you need to link the stylesheet:
 ```
 {% endraw %}
 
-Creating a three-column layout is supes simps (this will scale each column down to 100% width on mobile). Wrap the .block's in a .wrap class to clear the left floats.
+Creating a three-column layout is supes simps (this will scale each column down to 100% width on mobile). Wrap the `.block`'s in a `.wrap` class to clear the left floats that floatin' around `.block`.
 
 #### Customizing your grid
-Maybe you want to kick-it old school and create a two-column layout — it's mad simps. All you need to know is basic math (as long as the .block- classes equal 100%, it will be fire).
+Maybe you want to kick-it old school and create a two-column layout based on percentage. It's mad simps. All you need to know is basic math. As long as the `.block-` classes equal 100%, shit'll be fire, son.
 
 {% raw %}
 ```html
@@ -69,13 +69,6 @@ Creating the css is also simps:
 ```
 {% endraw %}
 
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
@@ -83,9 +76,4 @@ A nice little feature: the carousel only advances when it is in view, so your vi
 	"
 %}
 
-#### Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
-
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
+<a href="https://github.com/awwwry/supes-simps-grid-sys" class="button--fill">Git it on GitHub</a>

@@ -22,9 +22,10 @@
     margin-bottom: 32px;
 
     a {
+      color: var(--accent);
 
       &:hover {
-        color: var(--accent);
+        color: $text-dark-color;
       }
     }
   }
