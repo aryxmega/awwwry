@@ -191,12 +191,12 @@
 
     .highlight {
       display: block;
-      font-size: $p-size-small;
+      font-size: $p-small-size;
       line-height: $p-lineheight;
       overflow: auto;
 
       @include mq(tabletp) {
-        font-size: $p-size;
+        font-size: $p-small-size;
       }
 
       .highlight {

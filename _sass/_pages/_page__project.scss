@@ -38,7 +38,12 @@
         border-color: var(--accent);
         border-style: solid;
         border-width: 0 0 2px;
-        color: var(--accent);
+        color: $text-dark-color;
+        transition: all 500ms;
+
+        &:hover {
+          color: var(--accent);
+        }
       }
     }
   }

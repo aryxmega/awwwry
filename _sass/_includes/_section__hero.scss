@@ -15,7 +15,17 @@
 
 	.title {
 		margin-bottom: 24px;
-		max-width: 380px;
+		max-width: 420px;
+
+		h1 {
+			span {
+				color: $accent-color;
+				display: inline-block;
+				font-family: 'Lacquer', $body-font;
+				text-decoration: line-through;
+				transform: rotate(-4deg);
+			}
+		}
 	}
 
 	.title .subtitle {

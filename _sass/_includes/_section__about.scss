@@ -21,7 +21,7 @@
 
     img {
       border-radius: 8px;
-      box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
+      //box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
       margin-bottom: 24px;
     }
   }
@@ -44,6 +44,10 @@
 
     p {
       margin-bottom: 16px;
+
+      strong {
+        color: $text-dark-color;
+      }
     }
 
     .cta {
@@ -103,12 +107,13 @@
   width: 26px;
   height: 26px;
   border-radius: 100%;
-  background: $text-dark-color;
+  background: $accent-color;
   font-size: 16px;
   color: $background-color;
+  transition: all 500ms;
 
   &:hover {
-    background: $accent-color;
+    background: $text-dark-color;
     color: $background-color;
   }
 
