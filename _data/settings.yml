@@ -33,8 +33,8 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  twitter_url: 'https://www.twitter.com/awwwry'
+  instagram_url: 'https://www.instagram.com/awwwry'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -49,15 +49,15 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: ''
-  reddit_url: ''
+  github_url: 'https://www.github.com/awwwry'
+  reddit_url: 'https://www.reddit.com'
   flickr_url: ''
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
-  spotify_url: ''
+  spotify_url: 'https://open.spotify.com/user/awwwry'
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/awwwry'
 
 color_settings:
   background_color: '#ffffff'
@@ -65,7 +65,7 @@ color_settings:
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
-  accent_color: '#4C60E6'
+  accent_color: '#D81E1E'
   border_color: '#ECEDEF'
   error_color: '#D64541'
 
@@ -117,7 +117,7 @@ font_settings:
     weight: 500
     letter_spacing: -1
     letter_spacing_small: -0.6
-    line_height: 36
+    line_height: 45
   h5:
     small_size: 17
     medium_size: 20
@@ -147,7 +147,7 @@ font_settings:
     weight: 400
     letter_spacing: 0.04
     letter_spacing_small: 0
-    line_height: 28
+    line_height: 32
   p_small:
     size: 16
     size_small: 15

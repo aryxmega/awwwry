@@ -2,13 +2,13 @@
 title: Grid System
 subtitle: A supes-flexible grid template for all of your millenial needs and desires.
 date: 2019-07-24 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: demo.jpg
-accent_color: '#4C60E6'
+description: Supes Simps Grid Sys (aka SSGS) is a a super simple grid system that’s mad easy to customize to fit your millennial needs.
+featured_image: '/grid-system/desktop.png'
+accent_color: '#2D8EFF'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - /grid-system/desktop.png
+  - /grid-system/desktop-mobile.png
+  - /grid-system/files.png
 ---
 
 Supes Simps Grid Sys (aka SSGS) is a a super simple grid system that's mad easy to customize to fit your millennial needs. It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices.
@@ -43,6 +43,13 @@ Maybe you want to kick-it old school and create a two-column layout based on per
     <div class="block-25">Some informational content here</div>
 </div>
 ```
+
+{% include post-components/gallery.html
+	columns = 1
+	full_width = true
+	images = "/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop-mobile.png,/images/projects/grid-system/files.png
+	"
+%}
 
 #### That's it.
 

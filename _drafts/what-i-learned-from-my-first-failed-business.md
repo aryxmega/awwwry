@@ -1,6 +1,6 @@
 ---
 title: What I learned from my first failed business
-date: 2019-06-30 00:00:00
+date: 2020-03-01 00:00:00
 description: A story how I left my 9-to-5 office job to open my first business, only to fail and soak in what I learned from the entire experience for my next venture.
 featured_image: '/images/demo.jpg'
 ---

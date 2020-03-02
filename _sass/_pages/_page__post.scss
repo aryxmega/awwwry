@@ -33,11 +33,15 @@
     margin-bottom: 80px;
 
     p {
-      margin-bottom: 16px;
+      margin-bottom: 32px;
 
       em {
         color: $text-light-color;
         font-style: normal;
+      }
+
+      a {
+        border-bottom: 2px solid $accent-color;
       }
     }
 
@@ -49,6 +53,11 @@
 
     li {
       @extend .body;
+      margin-bottom: 24px;
+
+      a {
+        border-bottom: 2px solid $accent-color;
+      }
     }
 
     p img {
