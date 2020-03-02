@@ -7,7 +7,7 @@
 
 .hero {
 	position: relative;
-	padding: 40px 0;
+	padding: 40px 0 160px;
 
 	.wrap {
 		grid-gap: 0;
@@ -15,17 +15,7 @@
 
 	.title {
 		margin-bottom: 24px;
-		max-width: 420px;
-
-		h1 {
-			span {
-				color: $accent-color;
-				display: inline-block;
-				font-family: 'Lacquer', $body-font;
-				text-decoration: line-through;
-				transform: rotate(-4deg);
-			}
-		}
+		max-width: 380px;
 	}
 
 	.title .subtitle {

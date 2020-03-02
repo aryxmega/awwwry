@@ -18,11 +18,9 @@
   }
 
   .project__title {
-    font-family: $body-font;
     margin-bottom: 32px;
 
     a {
-      color: $text-dark-color;
 
       &:hover {
         color: var(--accent);

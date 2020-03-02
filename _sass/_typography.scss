@@ -19,12 +19,10 @@ h6,
 .subtitle {
   font-family: $title-font;
   color: $text-dark-color;
-  line-height: 1.4 !important;
 }
 
 h1,
 .h1 {
-  font-family: $body-font;
   font-size: $h1-size-small;
   letter-spacing: $h1-spacing-small;
   line-height: $h1-lineheight-small;
@@ -67,7 +65,6 @@ h3,
 
 h4,
 .h4 {
-  font-family: $body-font;
   font-size: $h4-size-small;
   font-weight: $h4-weight;
   line-height: $h4-lineheight;
@@ -162,7 +159,7 @@ ol {
 
 blockquote {
   margin-top: 16px;
-  border-left: 8px solid $accent-color;
+  border-left: 2px solid $text-dark-color;
   padding: 10px 0 10px 32px;
 
   p {
@@ -183,10 +180,9 @@ blockquote {
 }
 
 a {
-  text-decoration: none;
   color: $accent-color;
-  font-weight: $bold-weight;
-  @include transition(all 120ms ease-in-out);
+  text-decoration: none;
+  @include transition(all 500ms ease-in-out);
 
   &:hover {
     color: $text-dark-color;
@@ -231,7 +227,12 @@ time {
 }
 
 code {
+  background-color: $accent-color;
+  color: white;
   font-family: $body-font;
+  padding: 2px 4px;
+  border-radius: 2px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, .2);
 }
 
 ::selection {

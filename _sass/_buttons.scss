@@ -9,13 +9,14 @@
 
 .button {
   &--text {
-    font-family: $body-font;
+    font-family: $title-font;
     line-height: 18px;
     display: inline-block;
     font-size: 13px;
     color: $text-dark-color;
     font-weight: $button-weight;
     letter-spacing: $button-spacing;
+    text-transform: uppercase;
     cursor: pointer;
 
     &.--right {
@@ -76,9 +77,8 @@
 
   &--fill {
     @extend .button--text;
-    color: white !important;
+    color: white;
     background-color: $accent-color;
-    border-width: 0 !important;
     padding: 13px 20px 14px;
     border-radius: 40px;
 

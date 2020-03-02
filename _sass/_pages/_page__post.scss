@@ -10,7 +10,6 @@
   }
 
   .post__title {
-    font-family: $body-font;
     margin-bottom: 16px;
   }
 
@@ -34,7 +33,7 @@
     margin-bottom: 80px;
 
     p {
-      margin-bottom: 24px;
+      margin-bottom: 16px;
     }
 
     ul,
@@ -45,13 +44,6 @@
 
     li {
       @extend .body;
-      list-style: none;
-
-      &::before {
-        content: '— ';
-        color: $accent-color;
-        padding-left: 4px;
-      }
     }
 
     p img {
@@ -191,12 +183,12 @@
 
     .highlight {
       display: block;
-      font-size: $p-small-size;
+      font-size: $p-size-small;
       line-height: $p-lineheight;
       overflow: auto;
 
       @include mq(tabletp) {
-        font-size: $p-small-size;
+        font-size: $p-size;
       }
 
       .highlight {

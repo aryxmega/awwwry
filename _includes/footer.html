@@ -7,11 +7,11 @@
 		</a>
 		{% else %}
 		<a href="{{ site.baseurl }}/" class="footer__title">
-			{%- comment -%}
+			{% comment %}
 			{{ site.data.settings.basic_settings.site_title }}
-			{%- endcomment -%}
+			{% endcomment %}
 
-			&copy; {{ "now" | date: "%Y" }}
+			&copy; {{ 'now' | date: "%Y" }}
 		</a>
 		{% endif %}
 
@@ -19,6 +19,7 @@
 			{% if site.data.settings.footer_settings.tagline %}
 			<p>{{ site.data.settings.footer_settings.tagline }}</p>
 			{% endif %}
+			<span class="footnote">Powered by <a href="https://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="https://github.com/" title="GitHub" target="_blank">GithHub</a> &amp; <a href="https://www.netlify.com/" title="Netlify" target="_blank">Netlify</a></span>
 		</div>
 
 	</div>
