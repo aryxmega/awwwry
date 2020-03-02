@@ -114,7 +114,7 @@ font_settings:
   h4:
     size: 32
     size_small: 28
-    weight: 700
+    weight: 500
     letter_spacing: -1
     letter_spacing_small: -0.6
     line_height: 36

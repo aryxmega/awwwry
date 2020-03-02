@@ -34,6 +34,11 @@
 
     p {
       margin-bottom: 16px;
+
+      em {
+        color: $text-light-color;
+        font-style: normal;
+      }
     }
 
     ul,
@@ -178,6 +183,11 @@
 
       p {
         margin: 0;
+
+        em {
+          color: $accent-color;
+          font-style: normal;
+        }
       }
     }
 
@@ -229,6 +239,12 @@
 
       &:first-child {
         margin-top: 0;
+      }
+
+      img {
+        border-radius: 8px;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
+        width: 100%;
       }
     }
 
