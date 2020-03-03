@@ -70,10 +70,10 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Roboto+Mono:400,700" rel="stylesheet">'
-  title_font: 'Rubik, sans-serif'
-  body_font: '"Roboto Mono", monospace'
-  regular_weight: 400
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&family=Roboto+Mono&family=Rubik:wght@400;700&display=swap" rel="stylesheet">'
+  title_font: '"IBM Plex Sans", sans-serif'
+  body_font: '"Rubik", sans-serif'
+  regular_weight: 500
   bold_weight: 700
   site_title:
     small_size: 30
@@ -114,7 +114,7 @@ font_settings:
   h4:
     size: 32
     size_small: 28
-    weight: 500
+    weight: 700
     letter_spacing: -1
     letter_spacing_small: -0.6
     line_height: 45
@@ -143,15 +143,15 @@ font_settings:
     line_height_small: 28
   p:
     size: 18
-    size_small: 17
-    weight: 400
+    size_small: 16
+    weight: 500
     letter_spacing: 0.04
     letter_spacing_small: 0
-    line_height: 32
+    line_height: 28.8
   p_small:
     size: 16
-    size_small: 15
-    weight: 400
+    size_small: 14
+    weight: 500
     letter_spacing: 0
     line_height: 24
   label:

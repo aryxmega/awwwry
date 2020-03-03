@@ -11,7 +11,8 @@ gallery_images:
   - /grid-system/files.png
 ---
 
-Supes Simps Grid Sys (aka SSGS) is a a super simple grid system that's mad easy to customize to fit your millennial needs. It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices.
+Supes Simps Grid Sys (aka SSGS) is a a super simple grid system I whipped up that's mad easy to customize to fit your millennial needs. It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices.
+{: .lead}
 
 #### Installation is supes eaze:
 
@@ -33,10 +34,12 @@ Supes Simps Grid Sys (aka SSGS) is a a super simple grid system that's mad easy 
     <div class="block-3">Content here</div>
 </div>
 ```
-Creating a three-column layout is supes simps (this will scale each column down to 100% width on mobile). Wrap the `.block`'s in a `.wrap` class to clear the left floats.
+Creating a three-column layout, for example, is supes simps. Wrap the `.block`'s in a `.wrap` class to clear the left floats.
+
+**Note:** this will scale each column down to 100% width on mobile.
 
 #### Gettin' fluid widdit.
-Maybe you want to kick-it old school and create a two-column layout based on percentage. It's mad simps — you just need to know basic math (as long as the `.block-` classes equal 100%, it will be fire 🔥).
+Maybe you want to kick-it old school and create a two-column layout based on percentage. It's mad simps. As long as the `.block-` classes equal 100%, shit'll will be fire 🔥
 ```html
 <div class="wrap">
     <div class="block-75">Some rad content here</div>
