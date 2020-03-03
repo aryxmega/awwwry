@@ -64,4 +64,6 @@ Premium subscribers are people who pay a monthly fee to access Whitepages' locke
 The process takes about 72 hours and, unfortunately, it doesn't remove it from public records. But it's one less destination where someone can find your information.
 
 #### Hope this helps.
-Be safe out there.
+Sometimes I scare myself how fast and easy I can find information on people. It's best to educate yourself on digital vulnerabilities because the last thing you'd want is to be [social engineered](https://www.imperva.com/learn/application-security/social-engineering-attack/) by someone. More on that in a future post.
+
+Be safe out there, my dudes.
