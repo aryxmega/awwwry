@@ -150,6 +150,11 @@ p,
   @include mq(tabletp) {
     font-size: $p-size;
   }
+
+  &.lead {
+    font-size: 20px;
+    line-height: 1.6;
+  }
 }
 
 ul,

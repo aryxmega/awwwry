@@ -53,7 +53,7 @@
 
     li {
       @extend .body;
-      margin-bottom: 24px;
+      margin-bottom: 16px;
 
       a {
         border-bottom: 2px solid $accent-color;
@@ -205,6 +205,7 @@
       font-size: $p-size-small;
       line-height: $p-lineheight;
       overflow: auto;
+      border-radius: 8px;
 
       @include mq(tabletp) {
         font-size: $p-size;

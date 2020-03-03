@@ -18,24 +18,26 @@ If a person doesn't have a city to input, they can easily Google your first and/
 From there, they can look you up on a search engine, such as [Whitepages](https://www.whitepages.com/) and social media: Instagram, Twitter, Reddit, Twitch, etc.
 
 #### No name? No problem.
-If a person wants to find out your name, one option would be to do a reverse address look-up *(this is only if they know your address)*. They can simply type in your address into Whitepages, do a cross-reference of when you live(d) there and boom — there's your name with all your information.
+If a person wants to find out your name, one option would be to do a reverse address look-up *(this only works if they know your address; one option is to look at street view on Google Maps to grab your street address if they know what street you live on)*. They can simply type in your address into Whitepages, do a cross-reference of when you live(d) there and boom — there's your name with all your information.
 
 ![Whitepages home page](/images/blog/white-pages-01.png)
 
 #### Now they know where you live, now what?
 Now, they can look up your home address into [Zillow](https://www.zillow.com/) where, most of the time, your residence information will be available. Particularly useful if you live in a house — shows number of bedrooms, bathrooms, history, etc.
 
-They can also look up your address on [Google Maps](https://www.google.com/maps), go into satellite view and do recon of your house and neighborhood, which can let 'em know if you live in a cul-de-sac, apartment complex, etc.  
+They can also look up your address on [Google Maps](https://www.google.com/maps), go into satellite view and do recon *(AKA creep mode)* of your house and neighborhood, which can let 'em know if you live in a cul-de-sac, apartment complex and more if they're tryna be malicious.
 
 #### Why does this matter?
 Finding your address is one thing — people can come by and creep, or worse — but finding your cell phone number is another.
 
 There's a story about a 20-year-old college student who stole [$5 million in cryptocurrency by hijacking the phone numbers](https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison) of 40 victims.
 
-You can read the full story here:  
+**You can read the full story here:**  
 [https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison](https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison)
 
-He basically did a [SIM swap](https://www.vice.com/en_us/article/vbqax3/hackers-sim-swapping-steal-phone-numbers-instagram-bitcoin) that allowed him to gain access to phone numbers, which is an essential gateway to 2-step authentications.
+He basically did a [SIM swap](https://www.vice.com/en_us/article/vbqax3/hackers-sim-swapping-steal-phone-numbers-instagram-bitcoin) that allowed him to gain access to phone numbers, which is an essential gateway for 2-step authentications.
+
+![Creeper](https://media.giphy.com/media/QvEGdxylSLTk4/giphy.gif)
 
 #### What can you do to protect yourself.
 First, call your phone company to make sure that your number is unlisted. Then search online directories, such as Whitepages, and see if your contact information is available, contact them to have you get unlisted.
@@ -60,3 +62,6 @@ Premium subscribers are people who pay a monthly fee to access Whitepages' locke
 4. Select **"I need to edit or remove a listing"** from the dropdown menu and fill out the form. You'll need to provide your first, middle initial (if you have one), last name, city, state and listing URL.
 
 The process takes about 72 hours and, unfortunately, it doesn't remove it from public records. But it's one less destination where someone can find your information.
+
+#### Hope this helps.
+Be safe out there.
