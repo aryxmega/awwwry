@@ -1,40 +1,37 @@
-<header class="header--main">
+<div class="container">
+  <header class="header">
 
-	<div class="wrap grid__2-col">
+    <div class="logo">
+      <a class="logo__link" href="{{ site.baseurl }}/">
+      {%if site.logo %}
+        <img class="logo__image" src="{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }}">
+      {% else %}
+        {{ site.author.name }}
+      {% endif %}
+      </a>
+    </div>
 
-		{% if site.data.settings.header_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="header__logo">
-			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
-		</a>
-		{% else %}
-		<a href="{{ site.baseurl }}/" class="header__title">
-			{{ site.data.settings.basic_settings.site_title }}
-		</a>
-		{% endif %}
+    <nav class="main-nav">
+      <span class="main-nav__open">Menu</span>
 
-		<div class="menu__toggle js-menu-toggle">
-			<div class="menu__toggle__icon"><span></span></div>
-		</div>
+      <div class="main-nav__box">
+        <span class="main-nav__close">Close</span>
 
-		<nav class="header__menu">
-			<div class="menu__wrap">
-				<ul class="menu__list">
-					{% for item in site.data.settings.menu_settings.menu_items %}
-					<li class="menu__list__item">
-						<a href="{{ item.url | relative_url }}" class="menu__list__item__link button--text">{{ item.title }}</a>
-					</li>
-					{% endfor %}
+        <ul class="nav__list list-reset">
+          {% for page in site.pages %}
+            {% unless page.name == '404.html' or page.name == 'campfest.md' %}
+          {% if page.title %}
+          <li class="nav__item">
+            <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+          </li>
+          {% endif %}
+            {% endunless %}
+          {% endfor %}
+        </ul>
 
-					{% comment %}
-					<li class="menu__cta">
-						<a href="#" class="menu__cta__link button--text contact-trigger js-contact">Get In Touch</a>
-					</li>
-					{% endcomment %}
-				</ul>
-			</div>
-		</nav>
+      </div>
 
-		<a href="https://www.google.com/search?sxsrf=ALeKk00IwGUmQE9Y-hJSstVeLIrysRnptg%3A1583135503972&source=hp&ei=D7tcXv-NOdb3-gSCz4CIBA&q=awwwry&oq=awwwry&gs_l=psy-ab.3..35i39l2j0i10l8.406.1256..1343...1.0..0.159.467.4j1......0....1..gws-wiz.......0i131j0.P6nl9yRwUrA&ved=0ahUKEwi_0d-qp_vnAhXWu54KHYInAEEQ4dUDCAc&uact=5" class="header__cta button--fill">Find me online</a>
-	</div>
+    </nav>
 
-</header>
+  </header>
+</div>
