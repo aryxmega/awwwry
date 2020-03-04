@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "They know where you live, your phone number and your person information 👨‍💻"
-image:  'https://media.giphy.com/media/wZmCr7odNxKP6/giphy.gif'
+image:  'https://media.giphy.com/media/yR4xZagT71AAM/giphy.gif'
 tags:   [personal, technology]
 ---
 
