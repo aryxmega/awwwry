@@ -2,7 +2,7 @@
 layout: post
 title:  "They know where you live, your phone number and your person information 👨‍💻"
 image:  'https://media.giphy.com/media/wZmCr7odNxKP6/giphy.gif'
-tags:   [work, technology, shopify]
+tags:   [personal, technology]
 ---
 
 ### Finding almost anyone is gettin' easier these days because of the internet.
