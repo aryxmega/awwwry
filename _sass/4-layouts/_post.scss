@@ -51,6 +51,11 @@
     line-height: 1.6;
     color: $gray;
     font-family: $sans-serif;
+
+    a {
+      border-bottom: 2px solid;
+    }
+
     code {
       background-color: $black;
       color: $primary-color;
