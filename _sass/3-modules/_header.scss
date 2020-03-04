@@ -12,17 +12,13 @@
 .logo__link {
   font-family: $sans-serif;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 500;
   color: $white;
   text-decoration: none;
   letter-spacing: 1px;
 
-  &::before {
-    content: '@';
-  }
-
-  &:hover::before {
-    content: '🏠';
+  &:hover {
+    color: $primary-color;
   }
 }
 
@@ -40,7 +36,7 @@
     line-height: 1.6;
     font-weight: 500;
     &:hover {
-      color: $dark;
+      color: $primary-color;
     }
   }
 }

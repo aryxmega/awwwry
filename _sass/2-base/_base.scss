@@ -26,7 +26,7 @@ body {
 }
 
 *::selection {
-  color: #fff;
+  color: $black;
   background-color: $primary-color;
 }
 
@@ -56,7 +56,7 @@ h2 {
 
 h3 {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 h4 {
@@ -113,11 +113,10 @@ img {
 }
 
 a {
-    text-decoration: underline;
-    text-underline-position: under;
+    text-decoration: none;
     color: $primary-color;
     transition: color 250ms;
-    font-weight: 700;
+    font-weight: 500;
 
     &:hover {
         color: $white;
@@ -167,6 +166,6 @@ table {
   }
 
   tr:nth-child(even) {
-    background-color: $gray-white;
+    //background-color: $black;
   }
 }

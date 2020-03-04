@@ -16,7 +16,7 @@
   margin-bottom: 30px;
   font-size: 48px;
   line-height: 1.4;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .page-image {
@@ -41,6 +41,17 @@
     line-height: 1.6;
     color: $gray;
     font-family: $sans-serif;
+
+    a {
+      border-bottom: 2px solid;
+      transition: all 500ms;
+
+      &:hover {
+        background: $primary-color;
+        color: $black;
+      }
+    }
+
     img {
       margin: 0 0 15px;
       box-shadow: 0 10px 20px -4px rgba(0, 0, 0, 1);
@@ -62,7 +73,7 @@
       border-radius: 4px;
     }
     &::before {
-      background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23EF3340' d='M3.8 10.8l7-7L12.3 5l-7.1 7z'/%3E%3Cpath fill='%23EF3340' d='M5.2 3.8l7 7-1.4 1.5-7-7z'/%3E%3C/svg%3E");
+      background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23ffcc00' d='M3.8 10.8l7-7L12.3 5l-7.1 7z'/%3E%3Cpath fill='%23ffcc00' d='M5.2 3.8l7 7-1.4 1.5-7-7z'/%3E%3C/svg%3E");
       content: "";
       width: 16px;
       height: 16px;

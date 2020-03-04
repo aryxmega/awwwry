@@ -38,4 +38,10 @@
   font-size: 16px;
   color: $white;
   font-weight: 500;
+  border-bottom: 2px solid;
+  transition: all 500ms;
+
+  &:hover {
+    color: $primary-color;
+  }
 }

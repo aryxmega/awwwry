@@ -58,7 +58,6 @@ permalink: /campfest/
 | Bryan | [@brolinger][url-brolinger]
 | Chris | [@seablack][url-seablack]
 | Dennis | [@mace_spades][url-mace-spades]
-| Fernando | [@fernandovtpjr][url-fernandovtpjr]
 | Michael | [@michaeljbal][url-michaeljbal]
 | Saul | [@sauli66][url-sauli66]
 
