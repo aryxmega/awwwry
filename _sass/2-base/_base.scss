@@ -1,0 +1,171 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $sans-serif;
+  font-size: 16px;
+  color: $white;
+  background-color: $black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  input, textarea {
+    border: 1px solid #f9f9f9;
+    outline: none;
+    &:focus:required:invalid {
+      border-color: #e02f40;
+    }
+    &:required:valid {
+      border-color: #34a74e;
+    }
+    }
+}
+
+::placeholder {
+	color: #666;
+}
+
+*::selection {
+  color: $black;
+  background-color: $primary-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 45px 0 15px;
+  font-family: $sans-serif;
+  line-height: 1.6;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+h1 {
+  font-family: $monospace;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 1;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+blockquote {
+  padding-left: 30px;
+  font-family: $monospace;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.6;
+  border-left: 4px solid $primary-color;
+  color: $gray-dark;
+  p {
+    color: $white !important;
+  }
+}
+
+pre {
+  overflow: auto;
+  padding: 20px;
+  margin-bottom: 0;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+  // border: 20px solid $gray-white;
+  box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3);
+  margin: 0 0 15px;
+  &+em {
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    color: $gray-dark;
+  }
+}
+
+a {
+    text-decoration: none;
+    color: $primary-color;
+    transition: color 250ms;
+    font-weight: 500;
+
+    &:hover {
+        color: $white;
+    }
+}
+
+h2 a {
+  text-decoration: none;
+}
+
+hr {
+  display: block;
+  width: 6px;
+  height: 6px;
+  margin: 30px auto;
+  border-radius: 50%;
+  border: 0;
+  background: transparent;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+
+  th, td {
+    padding: 15px 20px;
+    border: 1px dashed $gray-medium;
+    vertical-align: middle;
+
+    code {
+      background-color: $black;
+      color: $white;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+  }
+
+  th {
+    font-size: 14px;
+    text-transform: uppercase;
+    background-color: $black;
+    color: $white;
+    border: $black;
+  }
+
+  tr:nth-child(even) {
+    //background-color: $black;
+  }
+}

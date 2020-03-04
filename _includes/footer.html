@@ -1,25 +1,17 @@
-<footer class="footer">
-	<div class="wrap grid">
+<div class="container">
+  <footer class="footer">
+    <div class="footer__inner">
+      <!--<iframe src="https://open.spotify.com/embed/playlist/0hvGuO3GFmX3zNWxaK17sZ" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="border: 20px solid #f8f8f8; box-shadow: 0 10px 20px -4px rgba(30,28,122,0.3); margin-bottom: 60px;"></iframe>-->
 
-		{% if site.data.settings.footer_settings.logo_image %}
-		<a href="{{ site.baseurl }}/" class="footer__logo">
-			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img">
-		</a>
-		{% else %}
-		<a href="{{ site.baseurl }}/" class="footer__title">
-			{% comment %}
-			{{ site.data.settings.basic_settings.site_title }}
-			{% endcomment %}
-
-			&copy; {{ 'now' | date: "%Y" }}
-		</a>
-		{% endif %}
-
-		<div class="footer__copyright">
-			{% if site.data.settings.footer_settings.tagline %}
-			<p>{{ site.data.settings.footer_settings.tagline }}</p>
-			{% endif %}
-			<span class="footnote">Powered by <a href="https://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="https://github.com/" title="GitHub" target="_blank">GithHub</a> &amp; <a href="https://www.netlify.com/" title="Netlify" target="_blank">Netlify</a></span>
-		</div>
-
-	</div>
+      <div class="contact">
+        <ul class="contact__list list-reset">
+          {% for contact in site.contact %}
+          <li class="contact__item">
+            <a class="contact__link" href="{{contact.link}}" target="_blank">{{contact.name}}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
