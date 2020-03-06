@@ -16,7 +16,7 @@ Previously, I was the Sr. UX Designer at [Fabletics][url-fabletics] before I ven
 
 ***
 
-### What was I doing before?
+### Timeline
 
 * 2002 — 2006, **Student** at Cleveland High School
 * 2005 — 2007, **Barista** at Starbucks
@@ -31,27 +31,27 @@ Previously, I was the Sr. UX Designer at [Fabletics][url-fabletics] before I ven
 
 ***
 
-### Do I have samples of my work?
+### Work samples
 
-They're available upon request while I redesign my portfolio site. <a href="mailto:{{site.author.email}}">Just send me a quick email</a> and I'll holler back with a phat PDF of my recently projects.
+They're available upon request while I redesign my [portfolio site](https://arymega.com). <a href="mailto:{{site.author.email}}">Just send me a quick email</a> and I'll holler back with a phat PDF of my recently projects.
 
 ![Thicc oatmeal](https://media.giphy.com/media/GMdcBivU0d1ni/giphy.gif)
 
 ***
 
-### Am I available for freelance work?
+### Freelance work availability
 
 I'll be available for freelance work starting **Monday, February 17, 2020**. If you're interested to get rowdy, you can <a href="mailto:{{site.author.email}}">holler at me through email</a> or send a message on [LinkedIn][url-linkedin].
 
 ***
 
-### Why 'AWWWRY'?
+### The reasoning behind 'AWWWRY'
 
 People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because, being a nerd, I needed the initials from world wide web sandwiched in my name.
 
 ***
 
-### How I get around.
+### How I get around
 
 I used to brap around on a '99 Harley-Davidson Sportster, but sold it because after Arro was born, I only had time to jam around the city about once a month, I was seeing/reading more and more accidents on my social feed and, straight up, I needed the money at the time — this ninja had mad bills to pay.
 
@@ -61,13 +61,21 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and i
 
 ![Black 2017 Ford F-150](https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb)
 
-### About this site.
+### About this site
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
 - Powered by the main dawg, [Jekyll][url-jekyll]
 - Hostin' with the don, [GoDaddy][url-godaddy]
 - Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
 - Deployed automatically using the MVP, [Netlify][url-netlify]
+
+***
+
+### Brands I fuck with
+
+- [GitHub][url-github]
+- [Mozilla][url-mozilla]
+- [Vans][url-vans]
 
 ***
 
@@ -97,3 +105,5 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and i
 [url-cvmpus]: https://www.instagram.com/cvmpus
 [url-ary-mega]: http://arymega.com
 [url-linkedin]: https://www.linkedin.com/in/awwwry
+[url-vans]: https://www.vans.com
+[url-mozilla]: https://www.mozilla.org/en-US/
