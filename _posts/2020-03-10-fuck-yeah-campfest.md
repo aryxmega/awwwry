@@ -9,7 +9,7 @@ tags:   [personal, road-trip]
 
 ***
 
-### When's did this happen?
+### When did this happen?
 - Saturday, March 7th - Sunday, March 8th
 
 ![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-01.JPG)
@@ -25,7 +25,7 @@ tags:   [personal, road-trip]
 9804 E Flair Dr, El Monte, CA 91731  
 [Directions][url-dennys]
 
-- Kickstands up and hittin' the road at 9 AM
+- Kickstands up and hit the road at 9:30 AM
 
 ***
 
@@ -33,7 +33,7 @@ tags:   [personal, road-trip]
 
 - [North Joshua Tree BLM][url-blm] in Joshua Tree
 
-> Jumbo Rocks and the other campsites that allow reservations were all booked up on Saturday, so once we hit Joshua Tree, we went straight to **Hidden Valley Campground** to find and secure a spot but they were all full.
+> Jumbo Rocks and the other campsites were all booked up on Saturday, so after we met up at Applebee's, we trekked it to the BLM of North Joshua Tree.
 
 
 ![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-03.JPG)
@@ -48,7 +48,7 @@ tags:   [personal, road-trip]
 
 ### When'd we come back?
 - Sunday, March 8th
-- Wake up, pack up, grab breakfast at Plant Power Fast Foods in Redlands and headed home
+- Woke up, packed up, grabbed breakfast at Plant Power Fast Foods in Redlands and headed home
 
 ***
 
