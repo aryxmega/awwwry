@@ -2,7 +2,7 @@
 layout: post
 title:  "Fuck Yeah, Campfest ⛺️"
 image:  'https://media.giphy.com/media/HQyLIG132Y836/giphy.gif'
-tags:   [personal, road-trip]
+tags:   [life]
 ---
 
 **Fuck Yeah, Campfest** was a weekend camping trip to celebrate my bachelor party out in the desert, spending mad money on firewood and whiskey instead on strippers and a guy named Jeff who can quote, make night best night of life, bro.

@@ -2,7 +2,7 @@
 layout: post
 title:  "New site, who dis? 💅"
 image:  'https://media.giphy.com/media/3o85xrhcwk5SnS8bvi/source.gif'
-tags:   [life, jekyll]
+tags:   [life]
 ---
 
 ### New year, same ol' me.

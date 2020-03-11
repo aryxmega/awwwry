@@ -2,7 +2,7 @@
 layout: post
 title:  "How to be fucking awesome 🤘"
 image:  'https://media.giphy.com/media/fDzM81OYrNjJC/giphy.gif'
-tags:   [personal, books]
+tags:   [life]
 ---
 
 ### I'm currently reading (or rather listening to) How To Be Fucking Awesome, by Dan Meredith, and it's fucking awesome.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Engagement photos 📸"
 image:  'https://media.giphy.com/media/l3mZp1EDTPwLgsXyo/giphy.gif'
-tags:   [life, relationship]
+tags:   [life]
 ---
 
 ### Alexandra and I met up with my buddy, [David][url-david-bowles], and his wife, Nia, to have our engagement photos taken.

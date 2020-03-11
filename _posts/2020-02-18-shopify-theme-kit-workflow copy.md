@@ -2,7 +2,7 @@
 layout: post
 title:  "My workflow with Shopify's Theme Kit 👨‍💻"
 image:  'https://media.giphy.com/media/wZmCr7odNxKP6/giphy.gif'
-tags:   [work, technology, shopify]
+tags:   [work]
 ---
 
 ### Straight up, Theme Kit is a tool used to create and fuck up Shopify themes, not to mention:

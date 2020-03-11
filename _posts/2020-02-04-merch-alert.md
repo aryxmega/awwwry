@@ -2,7 +2,7 @@
 layout: post
 title:  "Merch alert 🚨"
 image:  'https://media.giphy.com/media/1AePCIT6mFG42z996i/giphy.gif'
-tags:   [life, ecommerce]
+tags:   [life]
 ---
 
 Made some [merch for shits and gigs][url-teespring]; planning to make more whenever I find the time. They'll mostly be about web jokes and living that ratchet life. Launched a few last night:

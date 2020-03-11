@@ -2,7 +2,7 @@
 layout: post
 title:  "How to show, hide and create hidden files and folders on a MacOS 👀"
 image:  'https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif'
-tags:   [life, work, technology, hacks]
+tags:   [work]
 ---
 
 ### Dawg
