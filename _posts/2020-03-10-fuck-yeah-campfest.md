@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Fuck yeah, Campfest ⛺️"
+title:  "Fuck Yeah, Campfest ⛺️"
 image:  'https://media.giphy.com/media/HQyLIG132Y836/giphy.gif'
 tags:   [personal, road-trip]
 ---
 
-**Fuck Yeah, Campfest** was a weekend camping trip to celebrate my bachelor party of good times with legit homies.
+**Fuck Yeah, Campfest** was a weekend camping trip to celebrate my bachelor party out in the desert, spending mad money on firewood and whiskey instead on strippers and a guy named Jeff who can quote, make night best night of life, bro.
 
 ***
 
@@ -18,8 +18,8 @@ tags:   [personal, road-trip]
 
 ***
 
-### Where'd we meet up?
-- Saturday, March 7th, between 8-8:30 AM at Denny's in El Monte, CA
+### Where did we meet up?
+- Denny's in El Monte, CA, on Saturday, March 7th, between 8-8:30 AM
 
 > **Denny's**  
 9804 E Flair Dr, El Monte, CA 91731  
@@ -29,11 +29,11 @@ tags:   [personal, road-trip]
 
 ***
 
-### Where'd we go?
+### Where did we go?
 
 - [North Joshua Tree BLM][url-blm] in Joshua Tree
 
-> Jumbo Rocks and the other campsites were all booked up on Saturday, so after we met up at Applebee's, we trekked it to the BLM of North Joshua Tree.
+> Jumbo Rocks and the other campsites were all booked up, so after we met up at Applebee's, we trekked it to the BLM of North Joshua Tree.
 
 
 ![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-03.JPG)
@@ -46,7 +46,7 @@ tags:   [personal, road-trip]
 
 ***
 
-### When'd we come back?
+### When did we come back?
 - Sunday, March 8th
 - Woke up, packed up, grabbed breakfast at Plant Power Fast Foods in Redlands and headed home
 
@@ -72,11 +72,11 @@ tags:   [personal, road-trip]
 - Ary, Chris and Michael drove in Ary's truck
 - Bryan, Dennis, and Saul brapped it
 - Ary brought a ramp in case anyone broke down and needed a tow
-- We bought food/drinks/firewood and took a 💩 at the Walmart Supercenter in Joshua Tree
+- Bought food/drinks/firewood and took a 💩 at the Walmart Supercenter in Yucca Valley
 
 ![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-07.JPG)
 
-### Things we (should've) brought:
+### Things we brought:
 - Toilet paper (2 ply, cause dat ass deserved it)
 - Coffee mug
 - Coffee
@@ -91,6 +91,11 @@ tags:   [personal, road-trip]
 ### It was also [Chris][url-seablack]' birthday that weekend (Sunday, March 8th) so we got twice as rowdy 🕺
 
 ![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-08.JPG)
+
+***
+
+### Why all the details?
+- Alibi 🤫
 
 ***
 
