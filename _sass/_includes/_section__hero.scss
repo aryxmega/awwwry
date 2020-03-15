@@ -16,9 +16,19 @@
 	.title {
 		margin-bottom: 24px;
 		max-width: 380px;
+
+		h1 {
+			span {
+				background-image: -webkit-linear-gradient(0deg,rgba(255, 204, 0, .2) 50%,transparent 50%);
+				background-image: linear-gradient(0deg,rgba(255, 204, 0, .2) 50%,transparent 50%);
+				padding-left: .075em;
+				padding-right: .075em;
+			}
+		}
 	}
 
 	.title .subtitle {
+		font-style: italic;
 		margin-bottom: 8px;
 	}
 

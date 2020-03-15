@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Work'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -67,14 +67,14 @@ color_settings:
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
-  accent_color: '#FFCC00'
+  accent_color: '#ffcc00'
   border_color: '#ECEDEF'
-  error_color: '#D64541'
+  error_color: '#E60000'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&family=Roboto+Mono&family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">'
-  title_font: '"Rubik", sans-serif'
-  body_font: '"Rubik", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">'
+  title_font: '"IBM Plex Serif", serif'
+  body_font: '"IBM Plex Mono", monospace'
   regular_weight: 500
   bold_weight: 700
   site_title:
@@ -176,8 +176,8 @@ font_settings:
     letter_spacing: -0.02
     line_height: 1.6
   buttons:
-    weight: 500
-    letter_spacing: 0.4
+    weight: 700
+    letter_spacing: 1.6
 
 advanced_settings:
   ajax_loading: true

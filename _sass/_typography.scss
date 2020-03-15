@@ -195,12 +195,12 @@ a {
 }
 
 .label {
-  font-family: $title-font;
+  font-family: $body-font;
   font-size: $label-size;
   font-weight: $label-weight;
   line-height: $label-lineheight;
   letter-spacing: $label-spacing;
-  color: $text-light-color;
+  color: $text-dark-color;
   text-transform: uppercase;
 
   &--small {
@@ -246,9 +246,9 @@ code {
 
 ::selection {
   background: $accent-color;
-  color: $background-color;
+  color: $text-dark-color;
 }
 ::-moz-selection {
   background: $accent-color;
-  color: $background-color;
+  color: $text-dark-color;
 }

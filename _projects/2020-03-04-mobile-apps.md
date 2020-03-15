@@ -1,6 +1,6 @@
 ---
 title: Mobile Apps
-subtitle: From sketches, to prototypes and final mobile app designs.
+subtitle: "From user research, to prototypes and final designs."
 date: 2020-03-04 00:00:00
 description: "#Mobile #Visual-Designs #Wireframes"
 featured_image: '/mobile-app/mobile-app-01.png'
@@ -17,7 +17,6 @@ As a mobile app designer (primarily for iOS), I follow three main design princip
 - Aesthetic Integrity
 - Consistency
 - User Control
-{: .lead}
 
 #### Wireframes help put the idea together as quickly as possible.
 

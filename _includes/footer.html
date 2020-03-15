@@ -10,10 +10,17 @@
 		{% endif %}
 
 		<div class="footer__copyright">
+			{% comment %}
 			{% if site.data.settings.footer_settings.tagline %}
 			<p>{{ site.data.settings.footer_settings.tagline }}</p>
 			{% endif %}
+			{% endcomment %}
+
+			{% include component-socials.html %}
+
+			{% comment %}
 			<span class="footnote">Powered by the homies: <a href="https://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="https://github.com/" title="GitHub" target="_blank">GithHub</a> &amp; <a href="https://www.netlify.com/" title="Netlify" target="_blank">Netlify</a></span>
+			{% endcomment %}
 		</div>
 
 	</div>

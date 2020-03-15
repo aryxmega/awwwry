@@ -9,7 +9,7 @@
 
 .button {
   &--text {
-    font-family: $title-font;
+    font-family: $body-font;
     line-height: 18px;
     display: inline-block;
     font-size: 13px;
@@ -77,14 +77,17 @@
 
   &--fill {
     @extend .button--text;
-    color: black;
+    color: $text-dark-color;
     background-color: $accent-color;
     padding: 13px 20px 14px;
     border-radius: 40px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .2);
+    transition: all 500ms;
 
     &:hover {
-      color: white;
+      color: $text-dark-color;
       background-color: darken($color: $accent-color, $amount: 5);
+      box-shadow: none;
     }
 
     &:active {
