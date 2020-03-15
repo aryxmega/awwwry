@@ -1,0 +1,25 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/awwwry.png' | relative_url }}" alt="">
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">👋 I'm Ary.</h2>
+
+      <p class="subtitle subtitle--light">American-Indonesian from Los Angeles, California.</p>
+
+      <p><strong>During business hours</strong>, I'm a digital designer and developer with experience helping advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.</p>
+      
+      <p><strong>After hours</strong>, I'm either spending time with my fiancée and my son or working on my recent venture, <a href="https://candymotor.co" title="Candy" target="_blank">Candy</a>.</p>
+
+      <p><a href="https://awwwry.com" title="Ary Mega" target="_blank">You can read my blog</a> or, if you need to holler, you can find me all over:</p>
+
+      {% include component-socials.html %}
+    </div>
+  </div>
+</section>
