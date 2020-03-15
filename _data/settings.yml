@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: "👋 I'm Ary."
+  site_title: "@AWWWRY"
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,11 +12,13 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'About'
+      url: '/about/'
 
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: "Read my blog over <a href='https://awwwry.com' target='_blank'>@AWWWRY</a>"
+  tagline: "<a href='https://www.google.com/search?sxsrf=ALeKk00IwGUmQE9Y-hJSstVeLIrysRnptg%3A1583135503972&source=hp&ei=D7tcXv-NOdb3-gSCz4CIBA&q=awwwry&oq=awwwry&gs_l=psy-ab.3..35i39l2j0i10l8.406.1256..1343...1.0..0.159.467.4j1......0....1..gws-wiz.......0i131j0.P6nl9yRwUrA&ved=0ahUKEwi_0d-qp_vnAhXWu54KHYInAEEQ4dUDCAc&uact=5' target='_blank'>Find me online.</a>"
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg

@@ -6,20 +6,14 @@
 			<img src="{{ site.data.settings.footer_settings.logo_image | relative_url }}" class="footer__logo__img">
 		</a>
 		{% else %}
-		<a href="{{ site.baseurl }}/" class="footer__title">
-			{% comment %}
-			{{ site.data.settings.basic_settings.site_title }}
-			{% endcomment %}
-
-			&copy; {{ 'now' | date: "%Y" }}
-		</a>
+		<a href="{{ site.baseurl }}/" class="footer__title">&copy; {{ 'now' | date: "%Y" }}</a>
 		{% endif %}
 
 		<div class="footer__copyright">
 			{% if site.data.settings.footer_settings.tagline %}
 			<p>{{ site.data.settings.footer_settings.tagline }}</p>
 			{% endif %}
-			<span class="footnote">Powered by <a href="https://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="https://github.com/" title="GitHub" target="_blank">GithHub</a> &amp; <a href="https://www.netlify.com/" title="Netlify" target="_blank">Netlify</a></span>
+			<span class="footnote">Powered by the homies: <a href="https://jekyllrb.com/" title="Jekyll" target="_blank">Jekyll</a>, <a href="https://github.com/" title="GitHub" target="_blank">GithHub</a> &amp; <a href="https://www.netlify.com/" title="Netlify" target="_blank">Netlify</a></span>
 		</div>
 
 	</div>
