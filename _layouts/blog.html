@@ -32,7 +32,7 @@ layout: default
                         <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
                     </div>
                     
-                    <!--<a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read story</a>-->
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read</a>
                 </div>
             </div>
             {% endfor %}
@@ -43,6 +43,6 @@ layout: default
     <hr>
 
     <div class="author__more">
-        <a href="https://arymega.com" class="say-hello">My work</a>
+        <a href="https://www.linkedin.com/in/awwwry" class="say-hello">My work</a>
     </div>
 </div>
