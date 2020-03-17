@@ -8,9 +8,11 @@ featured_image: "https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif"
 
 <div class="page-home">
 
+	{% comment %}
 	{% if site.data.settings.hero_settings.background_image %}
 	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
 	{% endif %}
+	{% endcomment %}
 
 	<section class="hero">
 		<div class="wrap grid">

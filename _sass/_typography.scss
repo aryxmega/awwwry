@@ -135,6 +135,7 @@ p,
   font-size: $p-size-small;
   line-height: $p-lineheight;
   letter-spacing: $p-spacing;
+  color: $text-medium-color;
 
   &.--small {
     font-weight: $p-weight;
@@ -145,6 +146,7 @@ p,
 
   strong {
     font-weight: $bold-weight;
+    color: $text-dark-color;
   }
 
   @include mq(tabletp) {
@@ -162,9 +164,29 @@ p,
   background-image: linear-gradient(0deg, rgba(255,204,0,0.2) 50%, transparent 50%);
 }
 
+.small {
+  color: $text-medium-color;
+  font-size: 14px;
+  line-height: 2;
+}
+
 ul,
 ol {
   list-style-position: inside;
+
+  /*li {
+    list-style: none;
+
+    &::before {
+      background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23000000' d='M3.8 10.8l7-7L12.3 5l-7.1 7z'/%3E%3Cpath fill='%23000000' d='M5.2 3.8l7 7-1.4 1.5-7-7z'/%3E%3C/svg%3E");
+      content: "";
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 16px;
+    }
+  }*/
 }
 
 blockquote {
@@ -227,7 +249,7 @@ label {
   letter-spacing: $footnote-spacing;
 
   a {
-    border-bottom: 2px solid $accent-color;
+    border-bottom: 4px solid $accent-color;
   }
 }
 

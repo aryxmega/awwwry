@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 100
+  logo_image:
+  logo_width:
 
 menu_settings:
   menu_items:
@@ -64,15 +64,15 @@ social_settings:
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#202224'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#AEB3BB'
-  accent_color: '#ffcc00'
-  border_color: '#ECEDEF'
-  error_color: '#E60000'
+  text_dark_color: '#0D0D0D'
+  text_medium_color: '#888888'
+  text_light_color: '#D9D9D9'
+  accent_color: '#F2D022'
+  border_color: '#F2F2F2'
+  error_color: '#F26241'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">'
   title_font: '"IBM Plex Serif", serif'
   body_font: '"IBM Plex Mono", monospace'
   regular_weight: 500
@@ -144,16 +144,16 @@ font_settings:
     line_height: 32
     line_height_small: 28
   p:
-    size: 18
+    size: 16
     size_small: 16
     weight: 400
     letter_spacing: 0.04
     letter_spacing_small: 0
-    line_height: 28.8
+    line_height: 26
   p_small:
     size: 16
     size_small: 14
-    weight: 500
+    weight: 400
     letter_spacing: 0
     line_height: 24
   label:

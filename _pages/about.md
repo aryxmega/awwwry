@@ -26,6 +26,7 @@ Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics]
 
 *Known as Lunchbox at the time  
 **Closed due to personal matters
+{: .small}
 
 ### The reasoning behind 'AWWWRY'
 

@@ -77,16 +77,16 @@
 
   &--fill {
     @extend .button--text;
-    color: $text-dark-color;
-    background-color: $accent-color;
+    color: white;
+    background-color: $text-dark-color;
     padding: 13px 20px 14px;
     border-radius: 40px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .2);
     transition: all 500ms;
 
     &:hover {
-      color: $text-dark-color;
-      background-color: darken($color: $accent-color, $amount: 5);
+      color: white;
+      background-color: darken($color: $text-dark-color, $amount: 5);
       box-shadow: none;
     }
 
