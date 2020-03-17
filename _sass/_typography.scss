@@ -157,6 +157,11 @@ p,
   }
 }
 
+.highlighted {
+  -webkit-background-image: linear-gradient(0deg, rgba(255,204,0,0.2) 50%, transparent 50%);
+  background-image: linear-gradient(0deg, rgba(255,204,0,0.2) 50%, transparent 50%);
+}
+
 ul,
 ol {
   list-style-position: inside;
