@@ -86,7 +86,7 @@ abbr[title] {
 
 b,
 strong {
-  color: $white;
+  color: black;
   font-weight: 500;
 }
 
@@ -101,8 +101,8 @@ samp {
   font-family: $code; /* 1 */
   font-size: 0.875em; /* 2 */
   line-height: 1.6;
-  color: $white;
-  background-color: transparent;
+  color: white;
+  background-color: black;
 }
 
 /**
