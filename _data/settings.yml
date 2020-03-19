@@ -177,7 +177,7 @@ font_settings:
     line_height: 1.6
   buttons:
     weight: 700
-    letter_spacing: 1.6
+    letter_spacing: 0.8
 
 advanced_settings:
   ajax_loading: true

@@ -220,7 +220,7 @@ a {
   @include transition(all 500ms ease-in-out);
 
   &:hover {
-    color: $accent-color;
+    color: $text-dark-color;
   }
 }
 
@@ -272,6 +272,22 @@ code {
   padding: 2px 4px;
   border-radius: 2px;
   //box-shadow: 0 12px 24px rgba(0, 0, 0, .2);
+}
+
+table,
+blockquote {
+
+  a {
+    background-color: transparentize($color: $accent-color, $amount: 0.4);
+    border-radius: 4px;
+    padding: 2px 8px 4px;
+
+    &:hover {
+      background-color: $accent-color;
+      color: $text-dark-color;
+    }
+  }
+
 }
 
 ::selection {

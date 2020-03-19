@@ -1,8 +1,8 @@
 ---
 title: "How to show, hide and create hidden files"
-date: 2020-03-05 00:00:00
+date: 2020-03-01 00:00:00
 description: "If you make changes locally, on your machine, does a bear really shit in the woods?"
-featured_image: 'https://media.giphy.com/media/ZltMhhciMVpK0/giphy.gif'
+featured_image: 'https://media.giphy.com/media/a6GhnspYLkSBy/giphy.gif'
 cta: "Let's find out"
 ---
 

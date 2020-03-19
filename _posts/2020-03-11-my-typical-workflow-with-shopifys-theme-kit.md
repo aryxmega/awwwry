@@ -2,7 +2,7 @@
 title: "My typical workflow with Shopify's Theme Kit"
 date: 2020-03-11 00:00:00
 description: "If you make changes locally, on your machine, does a bear really shit in the woods?"
-featured_image: 'https://media.giphy.com/media/ZltMhhciMVpK0/giphy.gif'
+featured_image: 'https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif'
 cta: "Let's find out"
 ---
 
