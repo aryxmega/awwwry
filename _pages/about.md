@@ -8,9 +8,9 @@ featured_image: ""
 
 **During business hours**, I'm a digital product designer having experience working with advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.
 
-Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
-
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
+
+Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
 **After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, Alexandra, with our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
 

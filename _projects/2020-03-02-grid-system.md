@@ -47,12 +47,14 @@ Maybe you want to kick-it old school and create a two-column layout based on per
 </div>
 ```
 
+{% comment %}
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
 	images = "/images/projects/grid-system/desktop.png,/images/projects/grid-system/desktop-mobile.png,/images/projects/grid-system/files.png
 	"
 %}
+{% endcomment %}
 
 #### That's it.
 

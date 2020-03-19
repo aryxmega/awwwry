@@ -8,16 +8,12 @@ cta: "Let's find out"
 
 **Fuck Yeah, Campfest** was a weekend camping trip to celebrate my bachelor party out in the desert, spending mad money on firewood and whiskey instead on strippers and a guy named Jeff who can quote, make night best night of life, bro.
 
-***
-
 ### When did this happen?
 - Saturday, March 7th - Sunday, March 8th
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-01.JPG)
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-01.jpg)
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-02.JPG)
-
-***
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-02.jpg)
 
 ### Where did we meet up?
 - Denny's in El Monte, CA, on Saturday, March 7th, between 8-8:30 AM
@@ -28,8 +24,6 @@ cta: "Let's find out"
 
 - Kickstands up and hit the road at 9:30 AM
 
-***
-
 ### Where did we go?
 
 - [North Joshua Tree BLM][url-blm] in Joshua Tree
@@ -37,21 +31,17 @@ cta: "Let's find out"
 > Jumbo Rocks and the other campsites were all booked up, so after we met up at Applebee's, we trekked it to the BLM of North Joshua Tree.
 
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-03.JPG)
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-03.jpg)
 
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-04.JPG)
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-04.jpg)
 
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-05.JPG)
-
-***
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-05.jpg)
 
 ### When did we come back?
 - Sunday, March 8th
 - Woke up, packed up, grabbed breakfast at Plant Power Fast Foods in Redlands and headed home
-
-***
 
 ### Who went?
 
@@ -63,11 +53,7 @@ cta: "Let's find out"
 | Michael | [@michaeljbal][url-michaeljbal]
 | Saul | [@sauli66][url-sauli66]
 
-***
-
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-06.JPG)
-
-***
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-06.jpg)
 
 ### Other deets:
 - Ary, Chris and Michael drove in Ary's truck
@@ -75,7 +61,7 @@ cta: "Let's find out"
 - Ary brought a ramp in case anyone broke down and needed a tow
 - Bought food/drinks/firewood and took a 💩 at the Walmart Supercenter in Yucca Valley
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-07.JPG)
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-07.jpg)
 
 ### Things we brought:
 - Toilet paper (2 ply, cause dat ass deserved it)
@@ -91,14 +77,10 @@ cta: "Let's find out"
 
 ### It was also [Chris][url-seablack]' birthday that weekend (Sunday, March 8th) so we got twice as rowdy 🕺
 
-![@AWWWRY Joshua Tree](/assets/img/awwwry-joshua-tree-03-10-2020-08.JPG)
-
-***
+![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-08.jpg)
 
 ### Why all the details?
 - Alibi 🤫
-
-***
 
 [url-awwwry]: https://www.instagram.com/awwwry
 [url-brolinger]: https://www.instagram.com/brolinger

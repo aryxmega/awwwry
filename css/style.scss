@@ -101,8 +101,8 @@ $subtitle-weight-regular: {{ site.data.settings.font_settings.subtitle.weight_re
 $subtitle-weight-heavy: {{ site.data.settings.font_settings.subtitle.weight_heavy }};
 $subtitle-spacing: {{ site.data.settings.font_settings.subtitle.letter_spacing }}px;
 $subtitle-spacing-small: {{ site.data.settings.font_settings.subtitle.letter_spacing_small }}px;
-$subtitle-lineheight: {{ site.data.settings.font_settings.subtitle.line_height }}px;
-$subtitle-lineheight-small: {{ site.data.settings.font_settings.subtitle.line_height_small }}px;
+$subtitle-lineheight: {{ site.data.settings.font_settings.subtitle.line_height }};
+$subtitle-lineheight-small: {{ site.data.settings.font_settings.subtitle.line_height_small }};
 
 $p-size: {{ site.data.settings.font_settings.p.size }}px;
 $p-size-small: {{ site.data.settings.font_settings.p.size_small }}px;
