@@ -43,6 +43,10 @@
 
       a {
         border-bottom: 4px solid $accent-color;
+
+        &:hover {
+          border-bottom: 4px solid $text-dark-color;
+        }
       }
     }
 
@@ -71,6 +75,10 @@
 
       a {
         border-bottom: 4px solid $accent-color;
+
+        &:hover {
+          border-bottom: 4px solid $text-dark-color;
+        }
       }
     }
 
