@@ -72,7 +72,7 @@ color_settings:
   error_color: '#F26241'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Rubik:wght@400;700&display=swap" rel="stylesheet">'
   title_font: '"Rubik", sans-serif'
   body_font: '"Rubik", sans-serif'
   regular_weight: 500
@@ -95,8 +95,8 @@ font_settings:
     weight: 700
     letter_spacing: -1.5
     letter_spacing_small: -1.2
-    line_height: 72
-    line_height_small: 48
+    line_height: 1.4
+    line_height_small: 1.2
   h2:
     size: 48
     size_small: 36
@@ -138,7 +138,7 @@ font_settings:
     size: 22
     size_small: 20
     weight_regular: 400
-    weight_heavy: 500
+    weight_heavy: 700
     letter_spacing: 0.16
     letter_spacing_small: 0.2
     line_height: 32
@@ -149,7 +149,7 @@ font_settings:
     weight: 400
     letter_spacing: 0.04
     letter_spacing_small: 0
-    line_height: 32
+    line_height: 1.6
   p_small:
     size: 16
     size_small: 14

@@ -21,8 +21,9 @@
     margin-bottom: 32px;
 
     a {
-
+      border-bottom: 4px solid $accent-color;
       color: $text-dark-color;
+      padding-bottom: 4px;
 
       &:hover {
         color: $accent-color; //var(--accent);
@@ -68,7 +69,7 @@
 
   .project__content {
     padding-bottom: 40px;
-    border-bottom: 4px solid $text-dark-color;
+    //border-bottom: 4px solid $text-dark-color;
     grid-gap: 0;
   }
 

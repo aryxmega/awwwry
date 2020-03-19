@@ -55,8 +55,8 @@ $h1-size-small: {{ site.data.settings.font_settings.h1.size_small }}px;
 $h1-weight: {{ site.data.settings.font_settings.h1.weight }};
 $h1-spacing: {{ site.data.settings.font_settings.h1.letter_spacing }}px;
 $h1-spacing-small: {{ site.data.settings.font_settings.h1.letter_spacing_small }}px;
-$h1-lineheight: {{ site.data.settings.font_settings.h1.line_height }}px;
-$h1-lineheight-small: {{ site.data.settings.font_settings.h1.line_height_small }}px;
+$h1-lineheight: {{ site.data.settings.font_settings.h1.line_height }};
+$h1-lineheight-small: {{ site.data.settings.font_settings.h1.line_height_small }};
 
 $h2-size: {{ site.data.settings.font_settings.h2.size }}px;
 $h2-size-small: {{ site.data.settings.font_settings.h2.size_small }}px;
@@ -108,7 +108,7 @@ $p-size: {{ site.data.settings.font_settings.p.size }}px;
 $p-size-small: {{ site.data.settings.font_settings.p.size_small }}px;
 $p-weight: {{ site.data.settings.font_settings.p.weight }};
 $p-spacing: {{ site.data.settings.font_settings.p.letter_spacing }}px;
-$p-lineheight: {{ site.data.settings.font_settings.p.line_height }}px;
+$p-lineheight: {{ site.data.settings.font_settings.p.line_height }};
 
 $p-small-size: {{ site.data.settings.font_settings.p_small.size }}px;
 $p-small-size-small: {{ site.data.settings.font_settings.p_small.size_small }}px;

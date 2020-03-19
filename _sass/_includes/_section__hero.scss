@@ -28,13 +28,17 @@
 	}
 
 	.title .subtitle {
-		font-style: italic;
 		margin-bottom: 8px;
+		font-weight: 400;
 	}
 
 	.intro {
 		position: relative;
 		max-width: 340px;
+
+		a {
+			font-weight: 700;
+		}
 	}
 
 	.hero__cta {

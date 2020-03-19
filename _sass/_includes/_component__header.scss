@@ -18,6 +18,7 @@
   }
 
   .header__title {
+    align-self: center;
     font-family: $title-font;
     font-size: $sitetitle-small;
     font-weight: $sitetitle-weight;
@@ -74,7 +75,7 @@
       justify-self: center;
       opacity: 1;
       visibility: visible;
-      top: 0;
+      top: 4px;
       align-self: center;
     }
 
@@ -99,8 +100,9 @@
   justify-content: center;
   @include translate(0, -50%);
   cursor: pointer;
-  background-color: transparentize($accent-color, 0.92);
+  background-color: $accent-color; //transparentize($accent-color, 0.92);
   border-radius: 8px;
+  border: 3px solid $text-dark-color;
 
   &:active {
     background-color: transparentize($accent-color, 0.86);
@@ -122,7 +124,7 @@
     width: 18px;
     height: 3px;
     @include transition(all 0.12s);
-    background: $accent-color;
+    background: $text-dark-color;
     border-radius: 4px;
   }
 
@@ -183,7 +185,8 @@
     padding-bottom: 2px;
     border-bottom: 4px solid transparent;
 
-    &.active-link {
+    &.active-link,
+    &:hover {
       color: black;
       border-bottom: 4px solid $accent-color;
     }

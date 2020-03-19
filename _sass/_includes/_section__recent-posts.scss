@@ -5,8 +5,9 @@
 // - - - - - - - - - - - - - - - - - -
 
 .recent-posts {
+  background-color: $accent-color;
+  border-top: 4px solid black;
   padding: 64px 0 80px;
-  background-color: #f8f8f8;
 
   .recent-posts__header {
     margin-bottom: 40px;

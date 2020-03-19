@@ -30,7 +30,7 @@ Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics]
 
 ### The reasoning behind 'AWWWRY'
 
-People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because, being a nerd, I needed the initials from world wide web sandwiched in my name.
+People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because, being a nerd, I needed the initials from world wide web sandwiched in my name.`
 
 ### How I get around
 
@@ -39,11 +39,13 @@ I used to brap around on a '99 Harley-Davidson Sportster, but sold it because af
 - I was seeing/reading more and more accidents on my social feed
 - Straight up, I needed the money at the time — this ninja had bills to pay
 
-![1999 Harley-Davidson Sportster 883](/images/ary-mega-my-life.jpg)
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/ary-mega-my-life.jpg,https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb"
+%}
 
 Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and in compact parking spaces. I have a few more mods to do, but for now she's hella thicc to me.
-
-![Black 2017 Ford F-150](https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb)
 
 ### About this site
 
