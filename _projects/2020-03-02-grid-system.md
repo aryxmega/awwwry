@@ -3,12 +3,11 @@ title: Grid System
 subtitle: A supes-flexible grid template for all of your millenial needs and desires.
 date: 2019-07-24 00:00:00
 description: "#Front-End #HTML #SASS"
-featured_image: '/grid-system/desktop.png'
+featured_image: '/grid-system/grid-system-01.png'
 accent_color: '#000000'
 gallery_images:
-  - /grid-system/desktop.png
-  - /grid-system/desktop-mobile.png
-  - /grid-system/files.png
+  - /grid-system/grid-system-01.png
+  - /grid-system/grid-system-02.png
 ---
 
 Supes Simps Grid Sys (aka SSGS) is a a super simple grid system I whipped up that's mad easy to customize to fit your millennial needs. It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices.
