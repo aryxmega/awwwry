@@ -1,44 +1,81 @@
 ---
 layout: default
+overtitle: "/aw-ree/:"
+title: "American-Indonesian father and fiancé."
+description: "Was Sr. UX <a href='https://www.fabletics.com' title='Fabletics' target='_blank'>@Fabletics</a>. Owned <a href='https://www.instagram.com/cvmpus' title='CVMPUS' target='_blank'>@CVMPUS</a>. Currently WFH <a href='https://awwwry.com' title='COVID-19' target='_blank'>@COVID-19</a>."
+featured_image: "https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif"
 ---
 
-<iframe src="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" height="900" width="100%" scrolling="yes" class="iframe-class" frameborder="0"></frame>
+<div class="page-home">
 
-<div class="container">
-  <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
-    <div class="author__inner">
-      <h1 class="author__job">{{ site.author.job }}</h1>
-      <div class="author__more">
-        <a href="{{site.baseurl}}/about/" class="say-hello">About me</a>
-      </div>
-    </div>
-  </section>
-</div>
+	{% comment %}
+	{% if site.data.settings.hero_settings.background_image %}
+	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
+	{% endif %}
+	{% endcomment %}
 
-<div class="container">
-  <article class="page">
-      <div class="page__contet" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-delay="100" data-aos-duration="700">
-      {% if site.posts.size > 0 %}
-          {% for post in site.posts %}
-          <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
-              {% if post.image %}
-              <div class="article__image-box">
-                  <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
-              </div>
-              {% endif %}
+	<section class="hero">
+		<div class="wrap grid">
+			<div class="title">
+				<p class="subtitle">{{ page.overtitle }}</p>
+				<h1>{{ page.title }}</h1>
+			</div>
 
-              <div class="article__content">
-                  <h2 class="article__title">
-                      <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-                  </h2>
+			<p class="intro subtitle--light">
+				{{ page.description }}
+				<a href="https://www.google.com/search?sxsrf=ALeKk00IwGUmQE9Y-hJSstVeLIrysRnptg%3A1583135503972&source=hp&ei=D7tcXv-NOdb3-gSCz4CIBA&q=awwwry&oq=awwwry&gs_l=psy-ab.3..35i39l2j0i10l8.406.1256..1343...1.0..0.159.467.4j1......0....1..gws-wiz.......0i131j0.P6nl9yRwUrA&ved=0ahUKEwi_0d-qp_vnAhXWu54KHYInAEEQ4dUDCAc&uact=5" target="_blank" class="hero__cta button--fill --right">Find me online</a>
+			</p>
+		</div>
+	</section>
 
-                  <div class="article__meta">
-                      <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
-                  </div>
-              </div>
-          </div>
-          {% endfor %}
-      {% endif %}
-      </div>
-  </article>
+	<section class="listing">
+		<div class="wrap">
+
+			{% for project in site.projects reversed %}
+
+			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
+
+			<article class="project__preview">
+				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+
+				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
+					{% for image in project.gallery_images %}
+					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					{% endfor %}
+				</div>
+
+				<div class="project__content grid" style="border-color: {{ accent_color }}">
+					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
+					<p class="project__description --small">
+						{{ project.description }}
+						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Project</a>
+					</p>
+				</div>
+			</article>
+
+			{% endfor %}
+		</div>
+	</section>
+	
+	{% comment %}
+	{% include section__about.html %}
+	{% endcomment %}
+	
+	<section class="recent-posts">
+		<div class="wrap grid">
+			<header class="recent-posts__header">
+				<h4>Recent posts</h4>
+				<a href="{{ '/blog' | relative_url }}" class="action button--text --right">All Posts</a>
+			</header>
+
+			<div class="recent-posts__list grid">
+				{% for post in site.posts limit: 3 %}
+				{% include component__post-preview.html %}
+				{% endfor %}
+			</div>
+
+			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text --right">All Posts</a>
+		</div>
+	</section>
 </div>

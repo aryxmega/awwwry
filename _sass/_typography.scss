@@ -1,0 +1,284 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Typography
+
+// - - - - - - - - - - - - - - - - - -
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6,
+.subtitle {
+  font-family: $title-font;
+  color: $text-dark-color;
+}
+
+h1,
+.h1 {
+  font-size: $h1-size-small;
+  letter-spacing: $h1-spacing-small;
+  line-height: $h1-lineheight-small;
+  font-weight: $h1-weight;
+
+  @include mq(tabletp) {
+    font-size: $h1-size;
+    line-height: $h1-lineheight;
+    letter-spacing: $h1-spacing;
+  }
+}
+
+h2,
+.h2 {
+  font-size: $h2-size-small;
+  letter-spacing: $h2-spacing-small;
+  line-height: $h2-lineheight-small;
+  font-weight: $h2-weight;
+
+  @include mq(tabletp) {
+    font-size: $h2-size;
+    line-height: $h2-lineheight;
+    letter-spacing: $h2-spacing;
+  }
+}
+
+h3,
+.h3 {
+  font-weight: $h3-weight;
+  font-size: $h3-size-small;
+  letter-spacing: $h3-spacing-small;
+  line-height: $h3-lineheight-small;
+
+  @include mq(tabletp) {
+    font-size: $h3-size;
+    line-height: $h3-lineheight;
+    letter-spacing: $h3-spacing;
+  }
+}
+
+h4,
+.h4 {
+  font-size: $h4-size-small;
+  font-weight: $h4-weight;
+  line-height: $h4-lineheight;
+  letter-spacing: $h4-spacing-small;
+
+  @include mq(tabletp) {
+    font-size: $h4-size;
+    letter-spacing: $h4-spacing;
+  }
+}
+
+h5,
+.h5 {
+  font-size: $h5-small;
+  font-weight: $h5-weight;
+  line-height: $h5-lineheight;
+  letter-spacing: $h5-spacing;
+
+  @include mq(tabletp) {
+    font-size: $h5-medium;
+  }
+}
+
+h6,
+.h6 {
+  margin-top: 15px;
+  font-size: $h6-small;
+  font-weight: $h6-weight;
+  line-height: $h6-lineheight;
+  letter-spacing: $h6-spacing;
+
+  @include mq(tabletp) {
+    font-size: $h6-medium;
+  }
+
+  @include mq(laptop) {
+    font-size: $h6-large;
+  }
+}
+
+.subtitle {
+  font-weight: $subtitle-weight-heavy;
+  font-size: $subtitle-size-small;
+  letter-spacing: $subtitle-spacing-small;
+  line-height: $subtitle-lineheight-small;
+
+  &--light {
+    @extend .subtitle;
+    font-weight: $subtitle-weight-regular;
+    line-height: 1.6;
+  }
+
+  a {
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: transparentize($color: $accent-color, $amount: 0.8);
+  }
+
+  @include mq(tabletp) {
+    font-size: $subtitle-size;
+    line-height: $subtitle-lineheight;
+    letter-spacing: $subtitle-spacing;
+  }
+}
+
+p,
+.body {
+  font-weight: $p-weight;
+  font-size: $p-size-small;
+  line-height: $p-lineheight;
+  letter-spacing: $p-spacing;
+  color: $text-medium-color;
+
+  &.--small {
+    font-weight: $p-weight;
+    letter-spacing: $p-spacing;
+    font-size: $p-small-size;
+    line-height: $p-small-lineheight;
+  }
+
+  strong {
+    font-weight: $bold-weight;
+    color: $text-dark-color;
+  }
+
+  @include mq(tabletp) {
+    font-size: $p-size;
+  }
+
+  &.lead {
+    color: black;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1.4;
+  }
+}
+
+.highlighted {
+  -webkit-background-image: linear-gradient(0deg, rgba(255,204,0,0.2) 50%, transparent 50%);
+  background-image: linear-gradient(0deg, rgba(255,204,0,0.2) 50%, transparent 50%);
+}
+
+.small {
+  color: $text-medium-color;
+  font-size: 14px;
+  line-height: 2;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+
+  /*li {
+    list-style: none;
+
+    &::before {
+      background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23000000' d='M3.8 10.8l7-7L12.3 5l-7.1 7z'/%3E%3Cpath fill='%23000000' d='M5.2 3.8l7 7-1.4 1.5-7-7z'/%3E%3C/svg%3E");
+      content: "";
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 16px;
+    }
+  }*/
+}
+
+blockquote {
+  margin-top: 16px;
+  border-left: 8px solid $accent-color;
+  padding: 10px 0 10px 32px;
+
+  p {
+    font-family: $title-font;
+    font-size: $blockquote-small;
+    font-weight: $blockquote-weight;
+    letter-spacing: $blockquote-spacing;
+    line-height: $blockquote-lineheight;
+
+    @include mq(tabletp) {
+      font-size: $blockquote-medium;
+    }
+
+    @include mq(laptop) {
+      font-size: $blockquote-large;
+    }
+  }
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  @include transition(all 500ms ease-in-out);
+
+  &:hover {
+    color: $accent-color;
+  }
+}
+
+.label {
+  font-family: $body-font;
+  font-size: $label-size;
+  font-weight: $label-weight;
+  line-height: $label-lineheight;
+  letter-spacing: $label-spacing;
+  color: $text-dark-color;
+  text-transform: uppercase;
+
+  &--small {
+    @extend .label;
+    font-size: $label-small;
+    letter-spacing: $label-spacing-small;
+  }
+}
+
+label {
+  @extend .label--small;
+  color: $text-dark-color;
+}
+
+.footnote {
+  font-size: $footnote-size;
+  font-weight: $footnote-weight;
+  line-height: $footnote-lineheight;
+  letter-spacing: $footnote-spacing;
+
+  a {
+    border-bottom: 4px solid $accent-color;
+  }
+}
+
+a.footnote {
+  font-weight: $bold-weight;
+}
+
+time {
+  @extend .label;
+  display: inline-block;
+}
+
+code {
+  background-color: $background-alt-color;
+  color: $text-dark-color;
+  font-family: 'Roboto Mono', monospace;
+  padding: 2px 4px;
+  border-radius: 2px;
+  //box-shadow: 0 12px 24px rgba(0, 0, 0, .2);
+}
+
+::selection {
+  background: $accent-color;
+  color: $text-dark-color;
+}
+::-moz-selection {
+  background: $accent-color;
+  color: $text-dark-color;
+}

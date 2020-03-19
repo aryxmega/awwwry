@@ -1,0 +1,44 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Component - Post Card
+
+// - - - - - - - - - - - - - - - - - -
+
+.post__card {
+  transition: all 120ms;
+  box-sizing: content-box;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+
+  .post__link {
+    display: block;
+  }
+
+  .post__image {
+    width: 100%;
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0,.2);
+    //border: 4px solid $text-dark-color;
+    transition: all 500ms;
+
+    &:hover {
+      box-shadow: none;
+    }
+  }
+
+  .post__date {
+    margin-bottom: 6px;
+  }
+
+  @include mq("460px") {
+    .post__image {
+      height: 250px;
+    }
+  }
+}

@@ -1,79 +1,64 @@
-title: '@AWWWRY'
-logo: 
-description: American-Indonesian father, fiancé, product designer and front-end developer from Los Angeles, California.
-keywords: Ary Mega, American-Indonesian, Balinese, Product Designer, UX Designer, Front-End Engineer, Web Developer
-baseurl: ""
-url: "https://awwwry.com"
+site: "@AWWWRY"
 
+url: 'https://awwwry.com'
+baseurl: ''
 
-# Author Settings
-author:
-  name: '@AWWWRY'
-  image: https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif
-  job: I'm Ary, an American-Indonesian father, fiancé and product designer from Los Angeles, California.
-  bio: American-Indonesian father, fiancé, product designer and front-end developer from Los Angeles, California.
-  email: arymega@gmail.com
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
-# Contact links
-contact:
-  - name: GitHub
-    link: https://github.com/awwwry
-  - name: Instagram
-    link: https://instagram.com/awwwry
-  - name: LinkedIn
-    link: https://linkedin.com/in/awwwry
-  - name: Merch
-    link: https://teespring.com/stores/awwwry
-  - name: Reddit
-    link: https://reddit.com/u/awwwry
-  - name: Spotify
-    link: https://open.spotify.com/playlist/0hvGuO3GFmX3zNWxaK17sZ
-  - name: Twitter
-    link: https://twitter.com/awwwry
-
-
-# Comment Section (Disqus)
-disqus-identifier:
-
-
-# Google Analytics
-google-analytics: UA-64088985-1
-
-
-# Build settings
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+  
+sass:
+  style: compressed
+
 plugins:
   - jekyll-sitemap
-  - jekyll/tagging
 
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-
-include:
-  - _pages
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag-page
-tag_permalink_style:  pretty
-
-sass:
-  sass_dir: _sass
-  style: compressed
-  sourcemap: never
-
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+paginate: 7
+paginate_path: "/blog/page-:num/"
 
 compress_html:
   clippings: all
