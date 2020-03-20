@@ -6,7 +6,7 @@ featured_image: 'https://media.giphy.com/media/HQyLIG132Y836/giphy.gif'
 cta: "Let's find out"
 ---
 
-**Fuck Yeah, Campfest** was a weekend camping trip to celebrate my bachelor party out in the desert, spending mad money on firewood and whiskey instead on strippers and a guy named Jeff who can quote, make night best night of life, bro.
+**Fuck Yeah, Campfest** was a weekend camping trip to celebrate my bachelor party out in the desert — spending mad money on firewood and whiskey instead on strippers and a guy named Jeff who can quote, make night best night of life, bro.
 
 ### When did this happen?
 - Saturday, March 7th - Sunday, March 8th
