@@ -14,8 +14,6 @@ Or say you're jammin' away on the computer that was provided by your employer (i
 
 > In this post, I'm going to teach you how to show, hide and create hidden files and folders on a MacOS.
 
-***
-
 ### Let's get started
 
 ![Empty Google Drive folder](/images/blog/finder-empty.png)
@@ -24,8 +22,6 @@ Or say you're jammin' away on the computer that was provided by your employer (i
 For the sake of example, here's a screenshot of my Google Drive folder — empty. That's because I moved all my files and folders into a hidden folder.
 
 I'll show you how to do the same.
-
-***
 
 ### Holler at Spotlight and fire-up Terminal
 
@@ -40,8 +36,6 @@ I'll show you how to do the same.
 
 ![Empty Terminal](/images/blog/terminal-empty.png)
 *Empty Terminal*
-
-***
 
 ### This is what I banged out in Terminal
 
@@ -66,8 +60,6 @@ Once you create a hidden directory/folder, you can throw invisible or visible fi
 - `mkdir` creates a folder
 - `touch` creates a file
 
-***
-
 ### How to show and hide hidden folders/files
 
 Here's a screenshot of my **Google Drive** folder after I created my hidden folder and file from above:
@@ -89,8 +81,6 @@ To hide the files, I just smashed the same keys again:
 ![Empty Google Drive folder](/images/blog/finder-empty.png)
 *Bye Felicia 👋*
 
-***
-
 ### Opening, showing and hiding hidden files in an application
 
 Say you're about 5'7" (5'8" when your ego's boosted), tan, tattooed and named Ary. You open a code editor to work on some files, but they inside a hidden folder. What do you do?
@@ -102,7 +92,5 @@ No lie, I would fire-up that program or application (Sketch, Photoshop, Microsof
 
 ![Visual Studio Code showing hidden files](/images/blog/app-open-show.png)
 *Fuck yeah, dawg 🤙*
-
-***
 
 [url-jabroni]: https://www.urbandictionary.com/define.php?term=Jabroni
