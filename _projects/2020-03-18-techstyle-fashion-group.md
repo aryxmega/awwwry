@@ -3,11 +3,12 @@ title: TechStyle Fashion Group
 subtitle: "An online subscription fashion retailer that carries selections of shoes, handbags, jewelry, and denim."
 date: 2020-03-18 00:00:00
 description: "From 2013-2018, I was the Sr. UX Designer at TechStyle Fashion Group — primarily focusing on Fabletics while providing support for the other brands."
-featured_image: '/techstyle-fashion-group/fabletics-01.jpg'
+featured_image: '/techstyle-fashion-group/techstyle-home-page-desktop.png'
 accent_color: '#000000'
 gallery_images:
-  - /techstyle-fashion-group/fabletics-01.jpg
-  - /techstyle-fashion-group/techstyle-cover-01@2x.jpg
+  - /techstyle-fashion-group/techstyle-home-page-desktop.png
+  - /techstyle-fashion-group/shoedazzle-savagex-screens.png
+  - /techstyle-fashion-group/justfab-screens-mobile.png
 ---
 
 TechStyle Fashion Group is comprised of high-value membership driven fashion brands supported by a community of more than 5 million active members.
@@ -19,24 +20,29 @@ In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I bec
 
 #### My time at TechStyle
 
-- I was the ninja who convinced the team to switch from using Photoshop to [Sketch][url-sketch]
+- Convinced the team to switch from using Photoshop to [Sketch][url-sketch]
 - Created the design system for [Fabletics][url-fabletics]
-- Introduced the team to start using [Zeplin][url-zeplin] and [Abstract][url-abstract]
+- Introduced the team to start using [Zeplin][url-zeplin] and [Abstract][url-abstract] to help collaborate with engineers/stakeholders and have a version control process
 - Worked with the product, acqusition, marketing and engineering team on key initiatives and quarterly business goals
 - Worked on [FabKids][url-fabkids], [Fabletics][url-fabletics], [JustFab][url-justfab], [Savage x Fenty][url-savagexfenty], [ShoeDazzle][url-shoedazzle]
 - Heavily exercised my unlimited PTO
 
-![Abstract](/images/projects/techstyle-fashion-group/sketch-01.gif)
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/projects/techstyle-fashion-group/shoedazzle-savagex-screens.png,/images/projects/techstyle-fashion-group/justfab-screens-mobile.png"
+%}
 
 #### Tools used per project
 
-- [Jira, Confluence, HipChat/Slack][url-atlassian]
-- [Sketch][url-sketch]
-- [Origami Studio][url-origami-studio]
-- [Zeplin][url-zeplin]
-- [Abstract][url-abstract]
-
-![Abstract](/images/projects/techstyle-fashion-group/abstract-01.jpg)
+- [Jira, Confluence, HipChat/Slack][url-atlassian] to create and resolve issues
+- [Sketch][url-sketch] to create userflows, wireframes and visual designs
+- [Origami Studio][url-origami-studio] to animate features and interactions for engineers and stakeholders
+- [Zeplin][url-zeplin] to primarily collaborate with engineers, as well as stakeholders
+- [Abstract][url-abstract] to collaborate with other designers while working on the same project
+- [UsabilityHub][url-usabilityhub] to conduct market research and make smarter design decisions by data
+- [Google Analytics][url-ga] to understand the areas of success and where improvements are needed
+- [Clicktale][url-clicktale] to further understand how our users are using our sites
 
 #### Company stats
 
@@ -77,3 +83,6 @@ In October of 2018, I said peace up A-town one last time at TechStyle as I ventu
 [url-cvmpus]: https://www.instagram.com/cvmpus
 [url-atlassian]: https://www.atlassian.com/
 [url-origami-studio]: https://origami.design/
+[url-usabilityhub]: https://usabilityhub.com/
+[url-ga]: https://marketingplatform.google.com/about/analytics/
+[url-clicktale]: https://www.clicktale.com/
