@@ -25,6 +25,9 @@ In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I bec
 - Introduced the team to start using [Zeplin][url-zeplin] and [Abstract][url-abstract] to help collaborate with engineers/stakeholders and have a version control process
 - Worked with the product, acqusition, marketing and engineering team on key initiatives and quarterly business goals
 - Heavily exercised my unlimited PTO
+- Come in on weekends to practice my sick dance moves
+
+[![Dancing at TechStyle Fashion Group](/images/projects/techstyle-fashion-group/techstyle-bruno-mars.png)](https://www.instagram.com/p/BLXNmMfDJ37/)
 
 #### Brands I worked on under TechStyle Fashion Group
 
