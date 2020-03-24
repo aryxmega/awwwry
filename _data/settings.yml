@@ -112,7 +112,7 @@ font_settings:
     letter_spacing: -1.4
     letter_spacing_small: -0.54
     line_height: 1.6
-    line_height_small: 36
+    line_height_small: 1.6
   h4:
     size: 32
     size_small: 28
