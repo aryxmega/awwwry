@@ -18,14 +18,22 @@ In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I bec
 
 ![Fabletics](/images/projects/techstyle-fashion-group/fabletics-02.png)
 
-#### My time at TechStyle
+#### My time at TechStyle Fashion Group
 
 - Convinced the team to switch from using Photoshop to [Sketch][url-sketch]
 - Created the design system for [Fabletics][url-fabletics]
 - Introduced the team to start using [Zeplin][url-zeplin] and [Abstract][url-abstract] to help collaborate with engineers/stakeholders and have a version control process
 - Worked with the product, acqusition, marketing and engineering team on key initiatives and quarterly business goals
-- Worked on [FabKids][url-fabkids], [Fabletics][url-fabletics], [JustFab][url-justfab], [Savage x Fenty][url-savagexfenty], [ShoeDazzle][url-shoedazzle]
 - Heavily exercised my unlimited PTO
+
+#### Brands I worked on under TechStyle Fashion Group
+
+| --- | --- |
+| **FabKids** | [https://www.fabkids.com](https://www.fabkids.com/)
+| **Fabletics** | [https://www.fabletics.com](https://www.fabletics.com/)
+| **JustFab** | [https://www.justfab.com](https://www.justfab.com/)
+| **Savage X Fenty** | [https://www.savagex.com](https://www.savagex.com/)
+| **ShoeDazzle** | [https://www.shoedazzle.com](https://www.shoedazzle.com/)
 
 {% include post-components/gallery.html
 	columns = 2
@@ -33,7 +41,7 @@ In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I bec
 	images = "/images/projects/techstyle-fashion-group/shoedazzle-savagex-screens.png,/images/projects/techstyle-fashion-group/justfab-screens-mobile.png"
 %}
 
-#### Tools used per project
+#### Tools I used per project
 
 - [Jira, Confluence, HipChat/Slack][url-atlassian] to create and resolve issues
 - [Sketch][url-sketch] to create userflows, wireframes and visual designs
