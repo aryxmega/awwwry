@@ -14,7 +14,7 @@ gallery_images:
 TechStyle Fashion Group is comprised of high-value membership driven fashion brands supported by a community of more than 5 million active members.
 {: .lead}
 
-In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I became the Global Sr. User Experience Designer for TechStyle Fashion Group — the parent company.
+In 2013, I slid into ShoeDazzle's DM as their User Experience Designer. By 2015, I bribed my way to become the Global Sr. User Experience Designer for TechStyle Fashion Group — the parent company — with epic fist bumps and flawless dance battles.
 
 ![Fabletics](/images/projects/techstyle-fashion-group/fabletics-02.png)
 
@@ -25,7 +25,7 @@ In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I bec
 - Introduced the team to start using [Zeplin][url-zeplin] and [Abstract][url-abstract] to help collaborate with engineers/stakeholders and have a version control process
 - Worked with the product, acqusition, marketing and engineering team on key initiatives and quarterly business goals
 - Heavily exercised my unlimited PTO
-- Come in on weekends to practice my sick dance moves
+- Came in on weekends to practice my sick dance moves
 
 [![Dancing at TechStyle Fashion Group](/images/projects/techstyle-fashion-group/techstyle-bruno-mars.png)](https://www.instagram.com/p/BLXNmMfDJ37/)
 
@@ -48,12 +48,12 @@ In 2013, I joined as the User Experience Designer for ShoeDazzle. By 2015, I bec
 
 - [Jira, Confluence, HipChat/Slack][url-atlassian] to create and resolve issues
 - [Sketch][url-sketch] to create userflows, wireframes and visual designs
-- [Origami Studio][url-origami-studio] to animate features and interactions for engineers and stakeholders
+- [Origami Studio][url-origami-studio] to animate features and interactions for engineers and stakeholders, rather than just a static `.jpg`
 - [Zeplin][url-zeplin] to primarily collaborate with engineers, as well as stakeholders
-- [Abstract][url-abstract] to collaborate with other designers while working on the same project
-- [UsabilityHub][url-usabilityhub] to conduct market research and make smarter design decisions by data
+- [Abstract][url-abstract] to collaborate with other designers when working on the same project so it don't get too nasty
+- [UsabilityHub][url-usabilityhub] to conduct A/B tests and make smarter design decisions by data, not just by assumptions, Susan
 - [Google Analytics][url-ga] to understand the areas of success and where improvements are needed
-- [Clicktale][url-clicktale] to further understand how our users are using our sites
+- [Clicktale][url-clicktale] to further understand how our users are using our sites, like, fo'real fo'real
 
 #### Company stats
 
