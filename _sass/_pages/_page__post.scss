@@ -37,8 +37,10 @@
       margin-bottom: 32px;
 
       em {
-        color: $text-light-color;
+        color: $text-dark-color;
         font-style: normal;
+        padding-left: 4px;
+        padding-right: 4px;
       }
 
       a {

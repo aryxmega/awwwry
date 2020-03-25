@@ -6,11 +6,12 @@ featured_image: 'https://media.giphy.com/media/a6GhnspYLkSBy/giphy.gif'
 cta: "Let's find out"
 ---
 
-### Dawg
+So imagine you're living in a time where security is the utmost (ut•most? up•most? upt•most? 🤔) important thing in a digital world and you're just like, tryna log into Spotify with the password **Test123**.
+{: .lead}
 
-So imagine you're living in a time where security is the utmost (ut•most? up•most? upt•most? 🤔) important thing in a digital world and you're just like, tryna log into Spotify with the password `Test123`. Bruh, really?
+![Bruh](https://media.giphy.com/media/l2RnrsvCZVexiBlV6/giphy.gif)
 
-Or say you're jammin' away on the computer that was provided by your employer (if you have any class whatsoever, you'd get a Mac) and you got personal shit saved on it. They can easily access it in a number of ways. That's why you need a ninja like me to drop some tips and tricks on dat ass to keep you, at least, 2.75 steps ahead of the game.
+Or say you're jammin' away on the computer that was provided by your employer and you got personal shit saved on it — not saying you should, but, let's be real, we all have personal shit on company property. They can easily access it in a number of ways. That's why you need a ninja like me to drop some tips and tricks on dat ass to keep you, at least, 2.75 steps ahead of the game.
 
 > In this post, I'm going to teach you how to show, hide and create hidden files and folders on a MacOS.
 

@@ -11,9 +11,11 @@ cta: "Let's find out"
 ### When did this happen?
 - Saturday, March 7th - Sunday, March 8th
 
-![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-01.jpg)
-
-![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-02.jpg)
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/blog/awwwry-joshua-tree-03-10-2020-01.jpg,/images/blog/awwwry-joshua-tree-03-10-2020-02.jpg"
+%}
 
 ### Where did we meet up?
 - Denny's in El Monte, CA, on Saturday, March 7th, between 8-8:30 AM
@@ -30,14 +32,11 @@ cta: "Let's find out"
 
 > Jumbo Rocks and the other campsites were all booked up, so after we met up at Applebee's, we trekked it to the BLM of North Joshua Tree.
 
-
-![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-03.jpg)
-
-
-![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-04.jpg)
-
-
-![@AWWWRY Joshua Tree](/images/blog/awwwry-joshua-tree-03-10-2020-05.jpg)
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/blog/awwwry-joshua-tree-03-10-2020-03.jpg,/images/blog/awwwry-joshua-tree-03-10-2020-04.jpg,/images/blog/awwwry-joshua-tree-03-10-2020-05.jpg"
+%}
 
 ### When did we come back?
 - Sunday, March 8th
