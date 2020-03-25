@@ -23,7 +23,8 @@ In 2013, I slid into ShoeDazzle's DM as their User Experience Designer. By 2015,
 - Convinced the team to switch from using Photoshop to [Sketch][url-sketch]
 - Created the design system for [Fabletics][url-fabletics]
 - Introduced the team to start using [Zeplin][url-zeplin] and [Abstract][url-abstract] to help collaborate with engineers/stakeholders and have a version control process
-- Worked with the product, acqusition, marketing and engineering team on key initiatives and quarterly business goals
+- Worked with the product, acqusition, marketing and engineering team on key initiatives and quarterly business goals to help increase conversion and average order value
+- Moved some pixels around home pages, collection pages, product pages, checkout pages and more
 - Heavily exercised my unlimited PTO
 - Came in on weekends to practice my sick dance moves
 
@@ -82,6 +83,11 @@ Our exceptional growth is fueled by our ability to incubate new brands, extend p
 In October of 2018, I said peace up A-town one last time at TechStyle as I ventured off to start my first business, [@CVMPUS][url-cvmpus].
 
 [![Instagram video](/images/projects/techstyle-fashion-group/instagram-video-01.png)](https://www.instagram.com/p/Bo91jw-gXVx/)
+
+#### Interested to learn more about my work at TechStyle Fashion Group?
+
+[Holler at a ninja](https://www.linkedin.com/in/awwwry)
+{: .button--fill}
 
 [url-sketch]: https://www.sketch.com
 [url-fabletics]: https://www.fabletics.com
