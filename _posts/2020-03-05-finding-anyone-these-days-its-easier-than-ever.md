@@ -6,7 +6,8 @@ featured_image: 'https://media.giphy.com/media/2lG8fMhri8Pmw/giphy.gif'
 cta: "Let's find out"
 ---
 
-### Finding almost anyone is gettin' easier these days because of the internet.
+Finding almost anyone is gettin' easier these days because of the internet.
+{: .lead}
 
 All you need is a first and/or last name, city and state — whether it's where they currently live or have lived in the past.
 
@@ -15,7 +16,7 @@ If a person doesn't have a city to input, they can easily Google your first and/
 From there, they can look you up on a search engine, such as [Whitepages](https://www.whitepages.com/) and social media: Instagram, Twitter, Reddit, Twitch, etc.
 
 ### No name? No problem.
-If a person wants to find out your name, one option would be to do a reverse address look-up *(this only works if they know your address; one option is to look at street view on Google Maps to grab your street address if they know what street you live on)*. They can simply type in your address into Whitepages, do a cross-reference of when you live(d) there and boom — there's your name with all your information.
+If a person wants to find out your name, one option would be to do a reverse address look-up *(this only works if they know your address; one option is to look at street view on Google Maps to grab your street address if they know what street you live on).* They can simply type in your address into Whitepages, do a cross-reference of when you live(d) there and boom — there's your name with all your information.
 
 ### Now they know where you live, now what?
 Now, they can look up your home address into [Zillow](https://www.zillow.com/) where, most of the time, your residence information will be available. Particularly useful if you live in a house — shows number of bedrooms, bathrooms, history, etc.
