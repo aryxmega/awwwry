@@ -198,6 +198,7 @@ blockquote {
   padding: 10px 0 10px 32px;
 
   p {
+    color: $text-dark-color;
     font-family: $title-font;
     font-size: $blockquote-small;
     font-weight: $blockquote-weight;
@@ -211,6 +212,10 @@ blockquote {
     @include mq(laptop) {
       font-size: $blockquote-large;
     }
+  }
+
+  li {
+    color: $text-dark-color !important;
   }
 }
 
