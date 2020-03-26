@@ -7,8 +7,7 @@ featured_image: '/personal-ventures/candy-desktop-browser.png'
 accent_color: '#000000'
 gallery_images:
   - /personal-ventures/candy-desktop-browser.png
-  - /personal-ventures/terminally-thirsty.png
-  - /personal-ventures/git-nuts.png
+  - /personal-ventures/work-confessions-desktop-browser.png
 ---
 
 In 2018, I started a do-it-yourself garage. In 2019, I started building my second venture. In 2020, I'm WFH because of COVID-19.
@@ -54,7 +53,21 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 	images = "https://d2g8igdw686xgo.cloudfront.net/37242594_1550735774380419_r.jpeg,https://d2g8igdw686xgo.cloudfront.net/37242594_1550735802199617_r.jpeg"
 %}
 
-[instagram.com/cvmpus][url-cvmpus]
+[instagram.com/cvmpus](https://www.instagram.com/cvmpus)
+{: .button--fill}
+
+## Work Confessions
+
+[Work Confessions][url-work-confessions] is a place where you can anonymously submit vents about the workplace. Make your damn repots, Susan.
+
+[![Work Confessions landing page](/images/projects/personal-ventures/work-confessions-landing-page.jpg)](https://confess.work/)
+
+#### Specs
+- Built with [Jekyll][url-jekyll]
+- Version controlled using [GitHub][url-github]
+- Automatic deployments using [Netlify][url-netlify]
+
+[confess.work](https://confess.work/)
 {: .button--fill}
 
 ## Candy
@@ -63,14 +76,29 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 [![Candy landing page](/images/projects/personal-ventures/candy-landing-page.jpg)](https://candymotor.co)
 
-[candymotor.co][url-candy]
+#### Specs
+- Will launch v1.0 as a web-based and iOS app, Android to follow
+- Landing Page built using [Squarespace][url-squarespace]
+
+[candymotor.co](https://candymotor.co/)
 {: .button--fill}
 
 #### More to come.
 
 Coming end of March, 2020.
 
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/projects/personal-ventures/terminally-thirsty.png,/images/projects/personal-ventures/git-nuts.png"
+%}
+
 [url-alexandra]: https://www.instagram.com/alexandralambros
 [url-candy]: https://candymotor.co/
 [url-cvmpus]: https://www.instagram.com/cvmpus
+[url-github]: https://github.com/
+[url-jekyll]: https://jekyllrb.com/
+[url-netlify]: https://www.netlify.com/
+[url-squarespace]: https://www.squarespace.com/
 [url-techstyle]: https://www.techstyle.com
+[url-work-confessions]: https://confess.work/
