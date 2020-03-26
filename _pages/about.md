@@ -55,12 +55,6 @@ Now I truck around in a 2017 Ford F-150 and I love beastin' it on the road and i
 - Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
 - Deployed automatically using the MVP, [Netlify][url-netlify]
 
-### Brands I fuck with
-
-- [GitHub][url-github]
-- [Mozilla][url-mozilla]
-- [Vans][url-vans]
-
 [url-career]: /career/
 [url-vsc]: https://code.visualstudio.com/
 [url-jekyll]: https://jekyllrb.com/

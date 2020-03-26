@@ -56,6 +56,8 @@ In 2013, I slid into ShoeDazzle's DM as their User Experience Designer. By 2015,
 - [Google Analytics][url-ga] to understand the areas of success and where improvements are needed
 - [Clicktale][url-clicktale] to further understand how our users are using our sites, like, fo'real fo'real
 
+![ShoeDazzle Product Page](/images/projects/techstyle-fashion-group/shoedazzle-product-page-desktop.png)
+
 #### Company stats
 
 | --- | --- |

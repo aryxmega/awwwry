@@ -377,11 +377,11 @@
   }
 
   .prev-post::before {
-    content: "Previous Post";
+    content: "Older Post";
   }
 
   .next-post::before {
-    content: "Next Post";
+    content: "Newer Post";
   }
 
   /*
@@ -409,4 +409,8 @@
   @include mq(tabletp) {
     grid-template-columns: 1fr 1fr;
   }
+}
+
+.page-post .post__content p.button--fill a:hover {
+  border-bottom: none;
 }
