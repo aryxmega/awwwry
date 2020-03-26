@@ -13,6 +13,15 @@ gallery_images:
 An evergrowing archive of open source projects and snippets I've worked on to be used freely.
 {: .lead}
 
+## Mob Dev Temps
+
+A super simple Sketch file of iPhone device templates to showcase all of your Gen-Y needs.
+
+-   Repo: [https://github.com/awwwry/mob-dev-temps](https://github.com/awwwry/mob-dev-temps)
+-   Download latest .sketch file: [https://github.com/awwwry/mob-dev-temps/raw/master/awwwry-mobile-device-templates.sketch](https://github.com/awwwry/mob-dev-temps/raw/master/awwwry-mobile-device-templates.sketch)
+
+![Mobile Device Templates](/images/projects/open-source-projects/mobile-device-templates.png)
+
 ## Supes Simps Grid Sys
 
 Supes Simps Grid Sys (aka SSGS) is a a super simple grid system that's mad easy to customize to fit your millennial needs. It currently supports Chrome, Firefox, Safari, Opera, IE and major mobile devices.
