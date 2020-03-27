@@ -1,5 +1,5 @@
 ---
-title: "Projects & Ventures"
+title: "Side Hustles"
 subtitle: "A collection of personal projects and ventures I am currently working on / have done in the past."
 date: 2020-03-23 00:00:00
 description: "In 2018, I started my first business — a do-it-yourself garage. In 2019, I started my second venture, Candy. In 2020, I'm WFH because of COVID-19."
@@ -59,9 +59,9 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 ## HARDXCODE
 
-[HARDXCODE][url-hardxcode] is a creative club for the misfits. Imagine SoundCloud x Fight Club x Face Tats x Thicc Code & Nasty Designs all chillin' in an underground platform.
+[HardxCode][url-hardxcode] is a creative club for misfits. Imagine SoundCloud x Fight Club x Face Tats x Thicc Code & Nasty Designs all chillin' in an underground platform.
 
-[![HARDXCODE landing page](/images/projects/personal-ventures/hardxcode-desktop.png)](https://hardxcode.cc/)
+[![HardxCode landing page](/images/projects/personal-ventures/hardxcode-desktop.png)](https://hardxcode.cc/)
 
 #### Specs
 - Designed in [Sketch][url-sketch]
