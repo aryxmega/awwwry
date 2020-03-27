@@ -15,7 +15,7 @@ An evergrowing archive of open source projects and snippets I've worked on to be
 
 ## Mob Dev Temps
 
-A super simple Sketch file of iPhone device templates to showcase all of your Gen-Y needs.
+A super simple Sketch file of mobile device templates to showcase all of your Gen-Y needs.
 
 -   Repo: [https://github.com/awwwry/mob-dev-temps](https://github.com/awwwry/mob-dev-temps)
 -   Download latest .sketch file: [https://github.com/awwwry/mob-dev-temps/raw/master/awwwry-mobile-device-templates.sketch](https://github.com/awwwry/mob-dev-temps/raw/master/awwwry-mobile-device-templates.sketch)
