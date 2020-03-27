@@ -1,5 +1,5 @@
 ---
-title: Personal Ventures
+title: "Projects & Ventures"
 subtitle: "A collection of personal projects and ventures I am currently working on / have done in the past."
 date: 2020-03-23 00:00:00
 description: "In 2018, I started my first business — a do-it-yourself garage. In 2019, I started my second venture, Candy. In 2020, I'm WFH because of COVID-19."
