@@ -69,7 +69,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 - Version controlled using [GitHub][url-github]
 - Automatic deployments using [Netlify][url-netlify]
 
-[confess.work](https://confess.work/)
+[hardxcode.cc](https://hardxcode.cc/)
 {: .button--fill}
 
 ## Work Confessions
@@ -83,7 +83,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 - Version controlled using [GitHub][url-github]
 - Automatic deployments using [Netlify][url-netlify]
 
-[hardxcode.cc](https://hardxcode.cc/)
+[confess.work](https://confess.work/)
 {: .button--fill}
 
 ## Candy
