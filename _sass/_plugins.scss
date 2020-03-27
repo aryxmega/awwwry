@@ -56,7 +56,8 @@
   .owl-carousel .owl-item img {
     display: block;
     width: 100%;
-    border-radius: 8px; }
+    border-radius: 8px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .2);}
   .owl-carousel .owl-nav.disabled,
   .owl-carousel .owl-dots.disabled {
     display: none; }

@@ -33,6 +33,15 @@
     .gallery--carousel .owl-dot.active::after {
       background: var(--accent);
     }
+
+    a {
+      
+      img {
+        box-shadow: 0 10px 20px rgba(0, 0, 0, .2);
+        border-radius: 8px;
+      }
+
+    }
   }
 
   @include mq(tabletp) {
