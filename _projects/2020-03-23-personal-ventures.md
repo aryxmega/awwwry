@@ -7,6 +7,7 @@ featured_image: '/personal-ventures/candy-desktop-browser.png'
 accent_color: '#000000'
 gallery_images:
   - /personal-ventures/candy-desktop-browser.png
+  - /personal-ventures/hardxcode-desktop-browser.png
   - /personal-ventures/work-confessions-desktop-browser.png
 ---
 
@@ -56,6 +57,21 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 [instagram.com/cvmpus](https://www.instagram.com/cvmpus)
 {: .button--fill}
 
+## HARDXCODE
+
+[HARDXCODE][url-hardxcode] is a creative club for the misfits. Imagine SoundCloud x Fight Club x Face Tats x Thicc Code & Nasty Designs all chillin' in an underground platform.
+
+[![HARDXCODE landing page](/images/projects/personal-ventures/hardxcode-desktop.png)](https://hardxcode.cc/)
+
+#### Specs
+- Designed in [Sketch][url-sketch]
+- Built with [Jekyll][url-jekyll]
+- Version controlled using [GitHub][url-github]
+- Automatic deployments using [Netlify][url-netlify]
+
+[confess.work](https://confess.work/)
+{: .button--fill}
+
 ## Work Confessions
 
 [Work Confessions][url-work-confessions] is a place where you can anonymously submit vents about the workplace. Make your damn repots, Susan.
@@ -67,7 +83,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 - Version controlled using [GitHub][url-github]
 - Automatic deployments using [Netlify][url-netlify]
 
-[confess.work](https://confess.work/)
+[hardxcode.cc](https://hardxcode.cc/)
 {: .button--fill}
 
 ## Candy
@@ -87,18 +103,16 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 Coming end of March, 2020.
 
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/projects/personal-ventures/terminally-thirsty.png,/images/projects/personal-ventures/git-nuts.png"
-%}
+![More to come](/images/projects/personal-ventures/terminally-thirsty.png)
 
 [url-alexandra]: https://www.instagram.com/alexandralambros
 [url-candy]: https://candymotor.co/
 [url-cvmpus]: https://www.instagram.com/cvmpus
 [url-github]: https://github.com/
+[url-hardxcode]: https://hardxcode.cc
 [url-jekyll]: https://jekyllrb.com/
 [url-netlify]: https://www.netlify.com/
+[url-sketch]: https://sketch.com
 [url-squarespace]: https://www.squarespace.com/
 [url-techstyle]: https://www.techstyle.com
 [url-work-confessions]: https://confess.work/
