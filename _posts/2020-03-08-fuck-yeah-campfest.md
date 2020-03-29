@@ -1,6 +1,6 @@
 ---
 title: "Fuck yeah, Campfest"
-date: 2020-03-08 00:00:00
+date: 2020-03-08
 description: "If you make changes locally, on your machine, does a bear really shit in the woods?"
 featured_image: 'https://media.giphy.com/media/HQyLIG132Y836/giphy.gif'
 cta: "Let's find out"

@@ -1,6 +1,6 @@
 ---
 title: "Free Download: iPhone Device Templates"
-date: 2020-03-26 00:00:00
+date: 2020-03-26
 description: "If you design it @2x, does it come out extra thicc?"
 featured_image: 'https://media.giphy.com/media/irPZPoUOtn2tq/giphy.gif'
 cta: "Let's find out"

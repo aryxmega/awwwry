@@ -16,87 +16,38 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 ## CVMPUS
 
-[CVMPUS][url-cvmpus] was my first business venture I started in 2018 after leaving [TechStyle Fashion Group][url-techstyle]. It was South Bay's first do-it-yourself garage — located in Hawthorne, California. Unfortch, I had to close in 2019.
+[![CVMPUS exterior](/images/projects/personal-ventures/cvmpus-after.jpg)](/blog/cvmpus)
 
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/projects/personal-ventures/cvmpus-before.jpg,/images/projects/personal-ventures/cvmpus-after.jpg"
-%}
+[CVMPUS][url-cvmpus] was my first business venture I started in 2018 after leaving [TechStyle Fashion Group][url-techstyle].
 
-(Photo left, before. Photo right, after)
-{: .small}
-
-#### During my time @CVMPUS
-- Did most of the renovations myself, with help from friends on occassional weekends and watching YouTube videos
-- Funded the entire project with personal funds
-- Made many trips to, and spent lots of money at, Home Depot, Harbor Freight and Sherwin-Williams
-- Had the most [supportive partner][url-alexandra] anyone could ever ask for; taking care of our infant while I was tryna make my dreams come to life 10-12 hours a day, 6 days a week
-
-| --- | --- |
-| The Before | [Watch on Instagram](https://www.instagram.com/stories/highlights/17954897923201773/)
-| The Remodel | [Watch on Instagram](https://www.instagram.com/stories/highlights/17924606731256062/)
-| The Space | [Watch on Instagram](https://www.instagram.com/stories/highlights/17986571215236680/)
-
-![Inside CVMPUS' garage](https://s3-prod.autoweek.com/s3fs-public/styles/1152x647/public/2019-05/p1180682_1.jpg)
-
-#### Key takeaways
-- This was the most expensive learning experience I ever had
-- I should've raised more capital
-- An undertaking that huge, would've been helpful to have a business partner
-- I learned that I can't do everything (on my own)
-- Start small and scale; build a community first
-- Made me realize how much I missed spending time with my family
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "https://d2g8igdw686xgo.cloudfront.net/37242594_1550735774380419_r.jpeg,https://d2g8igdw686xgo.cloudfront.net/37242594_1550735802199617_r.jpeg"
-%}
-
-[instagram.com/cvmpus](https://www.instagram.com/cvmpus)
+[Learn more about CVMPUS](/blog/cvmpus)
 {: .button--fill}
 
 ## HARDXCODE
 
-[HardxCode][url-hardxcode] is a creative club for misfits. Imagine SoundCloud x Fight Club x Face Tats x Thicc Code & Nasty Designs all chillin' in an underground platform.
+[![HardxCode landing page](/images/projects/personal-ventures/hardxcode-desktop.png)](/blog/hardxcode)
 
-[![HardxCode landing page](/images/projects/personal-ventures/hardxcode-desktop.png)](https://hardxcode.cc/)
+[HardxCode][url-hardxcode] is a creative club I created for misfits who share similar interests in music, design and technology.
 
-#### Specs
-- Designed in [Sketch][url-sketch]
-- Built with [Jekyll][url-jekyll]
-- Version controlled using [GitHub][url-github]
-- Automatic deployments using [Netlify][url-netlify]
-
-[hardxcode.cc](https://hardxcode.cc/)
+[Learn more about HardxCode](/blog/hardxcode)
 {: .button--fill}
 
 ## Work Confessions
 
-[Work Confessions][url-work-confessions] is a place where you can anonymously submit vents about the workplace. Make your damn repots, Susan.
+[![Work Confessions landing page](/images/projects/personal-ventures/work-confessions-landing-page.jpg)](/blog/work-confessions)
 
-[![Work Confessions landing page](/images/projects/personal-ventures/work-confessions-landing-page.jpg)](https://confess.work/)
+[Work Confessions][url-work-confessions] is a site I created where you can anonymously submit vents about the workplace.
 
-#### Specs
-- Built with [Jekyll][url-jekyll]
-- Version controlled using [GitHub][url-github]
-- Automatic deployments using [Netlify][url-netlify]
-
-[confess.work](https://confess.work/)
+[Learn more about Work Confessions](/blog/work-confessions)
 {: .button--fill}
 
 ## Candy
 
-[Candy][url-candy] is a new kind of automotive marketplace I'm currently developing — a platform designed for enthusiasts, by enthusiasts. Keep an eye on my blog for updates.
+[![Candy landing page](/images/projects/personal-ventures/candy-landing-page.jpg)](/blog/candy)
 
-[![Candy landing page](/images/projects/personal-ventures/candy-landing-page.jpg)](https://candymotor.co)
+[Candy][url-candy] is a new kind of automotive marketplace I'm currently developing — a platform designed for enthusiasts, by enthusiasts.
 
-#### Specs
-- Will launch v1.0 as a web-based and iOS app, Android to follow
-- Landing Page built using [Squarespace][url-squarespace]
-
-[candymotor.co](https://candymotor.co/)
+[Learn more about Candy](/blog/candy)
 {: .button--fill}
 
 #### More to come.

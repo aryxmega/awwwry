@@ -1,6 +1,6 @@
 ---
 title: "Finding anyone these days is getting easier than ever"
-date: 2020-03-05 00:00:00
+date: 2020-03-05
 description: "If you make changes locally, on your machine, does a bear really shit in the woods?"
 featured_image: 'https://media.giphy.com/media/2lG8fMhri8Pmw/giphy.gif'
 cta: "Let's find out"
