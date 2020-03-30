@@ -1,18 +1,35 @@
 ---
 layout: page
-title: "I'm Ary, an American-Indonesian father and fiancé from Los Angeles, California."
+title: "I'm Ary, a typical lookin' American-Indonesian father and fiancé from Los Angeles, California."
 permalink: '/about/'
 description: This is where I publish stories about my life, work and everything in between as a designer and developer.
 featured_image: ""
 ---
 
-**During business hours**, I'm a digital product designer having experience working with advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.
+**During business hours**, I'm a front-end designer with experience working with advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.
+
+Currently gettin' thicc and nasty with:
+- Sketch
+- Adobe XD
+- Abstract
+- Zeplin
+- Origami Studio
+- GitHub
+- Visual Studio Code
+- Jekyll
+- React
+- Netlify
+- Shopify
+- Wordpress
+- UsabilityHub
 
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
 Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
 **After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, Alexandra, with our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
+
+![My family](/images/awwwry-family.jpg)
 
 ### Timeline
 
@@ -30,7 +47,7 @@ Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics]
 
 ### The reasoning behind 'AWWWRY'
 
-People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word awry to solve that phonetic issue and added two extra Ws because, being a nerd, I needed the initials from world wide web sandwiched in my name.`
+People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word **awry** to solve that phonetic issue and added two extra Ws because I needed the initials from world wide web sandwiched in my name.
 
 {% include post-components/gallery.html
 	columns = 2
@@ -63,9 +80,9 @@ People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the wo
 [url-vimby]: https://vimby.com
 [url-mirum]: https://www.mirumagency.com/en/home
 [url-shoedazzle]: https://www.shoedazzle.com
-[url-fabletics]: https://www.fabletics.com
+[url-fabletics]: /project/techstyle-fashion-group
 [url-candy]: https://candymotor.co
-[url-cvmpus]: https://www.instagram.com/cvmpus
+[url-cvmpus]: /blog/cvmpus
 [url-ary-mega]: http://arymega.com
 [url-linkedin]: https://www.linkedin.com/in/awwwry
 [url-vans]: https://www.vans.com
