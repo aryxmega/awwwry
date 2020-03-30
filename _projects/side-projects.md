@@ -1,7 +1,7 @@
 ---
-title: "Side Hustles"
+title: "Side Projects"
 subtitle: "A collection of personal projects and ventures I am currently working on / have done in the past."
-date: 2020-03-23 00:00:00
+date: 2020-03-23
 description: "In 2018, I started my first business — a do-it-yourself garage. In 2019, I started my second venture, Candy. In 2020, I'm WFH because of COVID-19."
 featured_image: '/personal-ventures/candy-desktop-browser.png'
 accent_color: '#000000'
@@ -16,14 +16,14 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 ## CVMPUS
 
-[![CVMPUS exterior](/images/projects/personal-ventures/cvmpus-after.jpg)](/blog/cvmpus)
-
 [CVMPUS][url-cvmpus] was my first business venture I started in 2018 after leaving [TechStyle Fashion Group][url-techstyle].
+
+[![CVMPUS exterior](/images/projects/personal-ventures/cvmpus-after.jpg)](/blog/cvmpus)
 
 [Learn more about CVMPUS](/blog/cvmpus)
 {: .button--fill}
 
-## HARDXCODE
+## HardxCode
 
 [![HardxCode landing page](/images/projects/personal-ventures/hardxcode-desktop.png)](/blog/hardxcode)
 
@@ -65,5 +65,5 @@ Coming end of March, 2020.
 [url-netlify]: https://www.netlify.com/
 [url-sketch]: https://sketch.com
 [url-squarespace]: https://www.squarespace.com/
-[url-techstyle]: https://www.techstyle.com
+[url-techstyle]: /project/techstyle-fashion-group
 [url-work-confessions]: https://confess.work/

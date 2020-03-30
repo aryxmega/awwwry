@@ -1,7 +1,7 @@
 ---
 title: Open Source Projects
 subtitle: From a grid system, to a supes simps scrolling progress bar, design kits and anything in between.
-date: 2020-03-02 00:00:00
+date: 2020-03-02
 description: "An evergrowing archive of open source projects and snippets I've worked on to be used freely."
 featured_image: '/grid-system/grid-system-01.png'
 accent_color: '#000000'
@@ -13,7 +13,7 @@ gallery_images:
 An evergrowing archive of open source projects and snippets I've worked on to be used freely.
 {: .lead}
 
-## Mob Dev Temps
+## Mobe Dev Temps
 
 A super simple Sketch file of mobile device templates to showcase all of your Gen-Y needs.
 

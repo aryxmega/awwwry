@@ -1,7 +1,7 @@
 ---
 title: TechStyle Fashion Group
 subtitle: "An online subscription fashion retailer that carries selections of shoes, handbags, jewelry, and denim."
-date: 2020-03-18 00:00:00
+date: 2020-03-27
 description: "From 2013-2018, I was the Sr. UX Designer at TechStyle Fashion Group — primarily focusing on Fabletics while providing support for the other brands."
 featured_image: '/techstyle-fashion-group/techstyle-home-page-desktop.png'
 accent_color: '#000000'
@@ -75,7 +75,7 @@ TechStyle Fashion Group was one of the first companies to bring fast fashion onl
 Our exceptional growth is fueled by our ability to incubate new brands, extend product lines, expand internationally and innovate repeatedly in omni-channel commerce.
 
 {% include post-components/gallery.html
-	columns = 1
+	columns = 2
 	full_width = true
 	images = "/images/projects/techstyle-fashion-group/fabletics-01.jpg,/images/projects/techstyle-fashion-group/savage-x-fenty-01.jpg,/images/projects/techstyle-fashion-group/justfab-01.jpg"
 %}
@@ -86,9 +86,7 @@ In October of 2018, I said peace up A-town one last time at TechStyle as I ventu
 
 [![Instagram video](/images/projects/techstyle-fashion-group/instagram-video-01.png)](https://www.instagram.com/p/Bo91jw-gXVx/)
 
-#### Interested to learn more about my work at TechStyle Fashion Group?
-
-[Holler at a ninja](https://www.linkedin.com/in/awwwry)
+[techstyle.com](https://www.techstyle.com)
 {: .button--fill}
 
 [url-sketch]: https://www.sketch.com
