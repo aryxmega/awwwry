@@ -5,8 +5,13 @@
 // - - - - - - - - - - - - - - - - - -
 
 .listing {
-  margin-bottom: 120px;
+  //margin-bottom: 120px;
+  padding-bottom: 120px;
   overflow: hidden;
+
+  h2 {
+    margin-bottom: 48px;
+  }
 }
 
 .project__preview {
@@ -83,7 +88,7 @@
   }
 
   .project__link {
-    display: block;
+    //display: block;
     margin-top: 24px;
   }
 
