@@ -8,6 +8,8 @@ featured_image: ""
 
 **During business hours**, I'm a front-end designer with experience working with advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.
 
+![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
+
 Currently gettin' thicc and nasty with:
 - Sketch
 - Adobe XD
@@ -23,15 +25,15 @@ Currently gettin' thicc and nasty with:
 - Wordpress
 - UsabilityHub
 
-![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
-
 Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
-**After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, Alexandra, with our son, Arro, or working on my newest project, [Candy](https://candymotor.co).
+**After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, Alexandra, with our son, Arro, or working on my newest project, [Candy](/blog/candy).
+
+![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
 
 ![My family](/images/awwwry-family.jpg)
 
-### Timeline
+#### Timeline
 
 * 2002 — 2006, **Student** at Cleveland High School
 * 2005 — 2007, **Barista** at Starbucks
@@ -45,23 +47,27 @@ Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics]
 **Closed due to personal matters
 {: .small}
 
-### The reasoning behind 'AWWWRY'
+#### The reasoning behind 'AWWWRY'
 
 People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word **awry** to solve that phonetic issue and added two extra Ws because I needed the initials from world wide web sandwiched in my name.
 
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/ary-mega-my-life.jpg,https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb"
+	images = "/images/ary-mega-my-life.jpg,/images/awwwry-harley-davidson-motorcycle.jpg,https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb,/images/awwwry-tennis.jpg"
 %}
 
-### About this site
+#### About this site
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
 - Powered by the main dawg, [Jekyll][url-jekyll]
 - Hostin' with the don, [GoDaddy][url-godaddy]
 - Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
 - Deployed automatically using the MVP, [Netlify][url-netlify]
+
+#### Need to holler?
+[Find me online](https://www.google.com/search?sxsrf=ALeKk00IwGUmQE9Y-hJSstVeLIrysRnptg%3A1583135503972&source=hp&ei=D7tcXv-NOdb3-gSCz4CIBA&q=awwwry&oq=awwwry&gs_l=psy-ab.3..35i39l2j0i10l8.406.1256..1343...1.0..0.159.467.4j1......0....1..gws-wiz.......0i131j0.P6nl9yRwUrA&ved=0ahUKEwi_0d-qp_vnAhXWu54KHYInAEEQ4dUDCAc&uact=5)
+{: .button--fill}
 
 [url-career]: /career/
 [url-vsc]: https://code.visualstudio.com/
