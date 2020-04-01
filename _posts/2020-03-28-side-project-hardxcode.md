@@ -1,5 +1,5 @@
 ---
-title: "HardxCode"
+title: "Side Project: HardxCode"
 date: 2020-03-28
 description: "A fight club of SoundCloud and GitHub for creative misfits."
 featured_image: '/images/projects/personal-ventures/hardxcode-desktop.png'

@@ -1,5 +1,5 @@
 ---
-title: "CVMPUS"
+title: "Side Project: CVMPUS"
 date: 2020-03-29
 description: "My first business, South Bay's 1st DIY garage."
 featured_image: '/images/projects/personal-ventures/cvmpus-after.jpg'
