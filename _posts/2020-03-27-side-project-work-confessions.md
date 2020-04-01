@@ -1,5 +1,5 @@
 ---
-title: "Work Confessions"
+title: "Side Project: Work Confessions"
 date: 2020-03-27
 description: "The #1 place where you can vent about work, anonymously."
 featured_image: '/images/projects/personal-ventures/work-confessions-landing-page.jpg'
