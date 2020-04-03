@@ -11,19 +11,22 @@ featured_image: ""
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
 Currently gettin' thicc and nasty with:
-- Sketch
-- Adobe XD
-- Abstract
-- Zeplin
-- Origami Studio
-- GitHub
-- Visual Studio Code
-- Jekyll
-- React
-- Netlify
-- Shopify
-- Wordpress
-- UsabilityHub
+
+| Name | URL |
+| --- | --- |
+| Abstract | [https://www.abstract.com/](https://www.abstract.com/) |
+| Adobe XD | [https://www.adobe.com/products/xd.html](https://www.adobe.com/products/xd.html) |
+| GitHub | [https://www.github.com](https://www.github.com) |
+| Jekyll | [https://www.jekyllrb.com](https://www.jekyllrb.com) |
+| Netlify | [https://www.netlify.com](https://www.netlify.com) |
+| Origami Studio | [https://origami.design/](https://origami.design/) |
+| React | [https://reactjs.org/](https://reactjs.org/)
+| Shopify | [https://www.shopify.com/](https://www.shopify.com/)
+| Sketch | [https://www.sketch.com/](https://www.sketch.com/)
+| UsabilityHub | [https://www.usabilityhub.com](https://www.usabilityhub.com) |
+| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
+| Wordpress | [https://www.wordpress.org](https://www.wordpress.org) |
+| Zeplin | [https://www.zeplin.io](https://www.zeplin.io) |
 
 Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
@@ -69,7 +72,6 @@ People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the wo
 [Find me online](https://www.google.com/search?sxsrf=ALeKk00IwGUmQE9Y-hJSstVeLIrysRnptg%3A1583135503972&source=hp&ei=D7tcXv-NOdb3-gSCz4CIBA&q=awwwry&oq=awwwry&gs_l=psy-ab.3..35i39l2j0i10l8.406.1256..1343...1.0..0.159.467.4j1......0....1..gws-wiz.......0i131j0.P6nl9yRwUrA&ved=0ahUKEwi_0d-qp_vnAhXWu54KHYInAEEQ4dUDCAc&uact=5)
 {: .button--fill}
 
-[url-career]: /career/
 [url-vsc]: https://code.visualstudio.com/
 [url-jekyll]: https://jekyllrb.com/
 [url-godaddy]: https://www.godaddy.com/
