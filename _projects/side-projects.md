@@ -20,7 +20,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 ![CVMPUS exterior](/images/projects/personal-ventures/cvmpus-after.jpg)
 
-[Learn more about CVMPUS](/blog/cvmpus)
+[Learn more about CVMPUS](/blog/side-project-cvmpus)
 {: .button--fill}
 
 ## HardxCode
@@ -29,7 +29,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 [HardxCode][url-hardxcode] is a creative club I created for misfits who share similar interests in music, design and technology.
 
-[Learn more about HardxCode](/blog/hardxcode)
+[Learn more about HardxCode](/blog/side-project-hardxcode)
 {: .button--fill}
 
 ## Work Confessions
@@ -38,7 +38,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 [Work Confessions][url-work-confessions] is a site I created where you can anonymously submit vents about the workplace.
 
-[Learn more about Work Confessions](/blog/work-confessions)
+[Learn more about Work Confessions](/blog/side-project-work-confessions)
 {: .button--fill}
 
 ## Candy
@@ -47,7 +47,7 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 [Candy][url-candy] is a new kind of automotive marketplace I'm currently developing — a platform designed for enthusiasts, by enthusiasts.
 
-[Learn more about Candy](/blog/candy)
+[Learn more about Candy](/blog/side-project-candy)
 {: .button--fill}
 
 #### More to come.
