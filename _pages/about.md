@@ -38,13 +38,16 @@ Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics]
 
 #### Timeline
 
-* 2002 — 2006, **Student** at Cleveland High School
-* 2005 — 2007, **Barista** at Starbucks
-* 2007 — 2009, **Web Producer** at [VIMBY][url-vimby]
-* 2009 — 2012, **Web Developer** at [Mirum Agency][url-mirum]*
-* 2013 — 2015, **UX Designer** at [ShoeDazzle][url-shoedazzle]
-* 2015 — 2018, **Sr. UX Designer** at [Fabletics][url-fabletics]
-* 2018 — 2019, **Founder & Owner** of [CVMPUS][url-cvmpus]**
+| Time | Title | Location |
+| --- | --- |
+| 2002-2006 | **Student** | Cleveland High School |
+| 2005-2007 | **Barista** | Starbucks |
+| 2007-2009 | **Web Producer** | [VIMBY][url-vimby] |
+| 2009-2012 | **Web Developer** | [Mirum Agency][url-mirum]* |
+| 2013-2015 | **UX Designer** | [ShoeDazzle][url-shoedazzle] |
+| 2015-2018 | **Sr. UX Designer** | [Fabletics][url-fabletics] |
+| 2018-2019 | **Founder & Owner** | [CVMPUS][url-cvmpus]** |
+| 2019-2020 | **Front-End Designer** | [The Walking Company][url-the-walking-company] |
 
 *Known as Lunchbox at the time  
 **Closed due to personal matters
@@ -87,10 +90,11 @@ People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the wo
 [url-twitter]: https://www.twitter.com/awwwry
 [url-vimby]: https://vimby.com
 [url-mirum]: https://www.mirumagency.com/en/home
-[url-shoedazzle]: https://www.shoedazzle.com
+[url-shoedazzle]: /project/techstyle-fashion-group
 [url-fabletics]: /project/techstyle-fashion-group
-[url-candy]: https://candymotor.co
-[url-cvmpus]: /blog/cvmpus
+[url-the-walking-company]: /project/the-walking-company
+[url-candy]: /blog/side-project-candy
+[url-cvmpus]: /blog/side-project-cvmpus
 [url-ary-mega]: http://arymega.com
 [url-linkedin]: https://www.linkedin.com/in/awwwry
 [url-vans]: https://www.vans.com
