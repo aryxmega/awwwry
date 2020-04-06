@@ -1,12 +1,12 @@
 ---
-title: "Finding anyone these days is getting easier than ever"
-date: 2020-03-05
+title: "Finding anyone is getting easier these days"
+date: 2020-04-06
 description: "If you make changes locally, on your machine, does a bear really shit in the woods?"
 featured_image: 'https://media.giphy.com/media/2lG8fMhri8Pmw/giphy.gif'
 cta: "Let's find out"
 ---
 
-Finding almost anyone is gettin' easier these days because of the internet.
+Finding (almost) anyone is gettin' easier these days because of the internet.
 {: .lead}
 
 All you need is a first and/or last name, city and state — whether it's where they currently live or have lived in the past.

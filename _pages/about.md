@@ -1,16 +1,22 @@
 ---
 layout: page
-title: "I'm Ary, a typical lookin' American-Indonesian father and fiancé from Los Angeles, California."
+title: "I'm Ary, American-Indonesian father and fiancé from Los Angeles, California."
 permalink: '/about/'
 description: This is where I publish stories about my life, work and everything in between as a designer and developer.
 featured_image: ""
 ---
 
-**During business hours**, I'm a front-end designer with experience working with advertising agencies, automotive businesses, fashion brands, financial institutions and tech startups.
-
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
-Currently gettin' thicc and nasty with:
+**During business hours**, I'm a front-end designer with over 3,650 days of experience doing lines of code and designing digital experiences. Most recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
+
+**After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, [Alexandra][url-alexandra], with our son, Arro, or working on one of my [projects][url-side-projects].
+
+![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
+
+![My family](/images/awwwry-family.jpg)
+
+#### Currently gettin' thicc and nasty with:
 
 | Name | URL |
 | --- | --- |
@@ -27,14 +33,6 @@ Currently gettin' thicc and nasty with:
 | Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
 | Wordpress | [https://www.wordpress.org](https://www.wordpress.org) |
 | Zeplin | [https://www.zeplin.io](https://www.zeplin.io) |
-
-Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
-
-**After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, Alexandra, with our son, Arro, or working on my newest project, [Candy](/blog/candy).
-
-![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
-
-![My family](/images/awwwry-family.jpg)
 
 #### Timeline
 
@@ -53,10 +51,6 @@ Previously, I was the Sr. User Experience Designer at [Fabletics][url-fabletics]
 **Closed due to personal matters
 {: .small}
 
-#### The reasoning behind 'AWWWRY'
-
-People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the word **awry** to solve that phonetic issue and added two extra Ws because I needed the initials from world wide web sandwiched in my name.
-
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
@@ -66,8 +60,8 @@ People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the wo
 #### About this site
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
-- Powered by the main dawg, [Jekyll][url-jekyll]
-- Hostin' with the don, [GoDaddy][url-godaddy]
+- Powered by J-Dawg, [Jekyll][url-jekyll]
+- Hostin' with the domain papi, [GoDaddy][url-godaddy]
 - Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
 - Deployed automatically using the MVP, [Netlify][url-netlify]
 
@@ -99,3 +93,5 @@ People usually pronounce my name as `/air-eee/` or `/are-eye`, so I chose the wo
 [url-linkedin]: https://www.linkedin.com/in/awwwry
 [url-vans]: https://www.vans.com
 [url-mozilla]: https://www.mozilla.org/en-US/
+[url-alexandra]: https://www.instagram.com/alexandralambros/
+[url-side-projects]: /project/side-projects/
