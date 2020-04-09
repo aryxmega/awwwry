@@ -2,7 +2,7 @@
 title: "Side Project: Candy"
 date: 2020-03-24
 description: "A new automotive marketplace designed for enthusiasts, by enthusiasts."
-featured_image: '/images/projects/personal-ventures/candy-landing-page.jpg'
+featured_image: '/images/projects/personal-ventures/candy-desktop-browser.png'
 cta: "Skrrt skrrt"
 ---
 
