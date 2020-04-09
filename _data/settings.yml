@@ -75,8 +75,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Rubik:wght@400;700&display=swap" rel="stylesheet">'
-  title_font: '"Rubik", sans-serif'
-  body_font: '"Rubik", sans-serif'
+  title_font: '"ff-real-headline-pro", sans-serif'
+  body_font: '"ff-real-headline-pro", sans-serif'
   regular_weight: 500
   bold_weight: 700
   site_title:
