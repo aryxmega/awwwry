@@ -20,11 +20,9 @@ Between 2019-2020, I was brought on to provide design and front-end support with
 
 #### My time at The Walking Company
 
-- Collaborate with remote developers in Europe as a designer and developer
+- Collaborated with remote developers as a designer and developer
 - Created user profiles, user flows and visual designs
-- Helped average $360K/day in sales across all brands with the redesign
 - Created designs for a custom-built API tool
-- Helped set-up the in-house team with version control and Shopify's Theme Kit
 
 ![The Walking Company's collection page](/images/projects/the-walking-company/the-walking-company-collection-page.png)
 
