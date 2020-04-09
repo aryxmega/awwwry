@@ -25,27 +25,27 @@ In 2018, I started a do-it-yourself garage. In 2019, I started building my secon
 
 ## HardxCode
 
-![HardxCode landing page](/images/projects/personal-ventures/hardxcode-desktop.png)
-
 [HardxCode][url-hardxcode] is a creative club I created for misfits who share similar interests in music, design and technology.
+
+![HardxCode landing page](/images/projects/personal-ventures/hardxcode-desktop.png)
 
 [Learn more about HardxCode](/blog/side-project-hardxcode)
 {: .button--fill}
 
 ## Work Confessions
 
-![Work Confessions landing page](/images/projects/personal-ventures/work-confessions-landing-page.jpg)
-
 [Work Confessions][url-work-confessions] is a site I created where you can anonymously submit vents about the workplace.
+
+![Work Confessions landing page](/images/projects/personal-ventures/work-confessions-landing-page.jpg)
 
 [Learn more about Work Confessions](/blog/side-project-work-confessions)
 {: .button--fill}
 
 ## Candy
 
-![Candy landing page](/images/projects/personal-ventures/candy-landing-page.jpg)
-
 [Candy][url-candy] is a new kind of automotive marketplace I'm currently developing — a platform designed for enthusiasts, by enthusiasts.
+
+![Candy landing page](/images/projects/personal-ventures/candy-desktop-browser.png)
 
 [Learn more about Candy](/blog/side-project-candy)
 {: .button--fill}
@@ -57,13 +57,13 @@ Coming end of March, 2020.
 ![More to come](/images/projects/personal-ventures/terminally-thirsty.png)
 
 [url-alexandra]: https://www.instagram.com/alexandralambros
-[url-candy]: /blog/candy
-[url-cvmpus]: /blog/cvmpus
+[url-candy]: /blog/side-project-candy
+[url-cvmpus]: /blog/side-project-cvmpus
 [url-github]: https://github.com/
-[url-hardxcode]: /blog/hardxcode
+[url-hardxcode]: /blog/side-project-hardxcode
 [url-jekyll]: https://jekyllrb.com/
 [url-netlify]: https://www.netlify.com/
 [url-sketch]: https://sketch.com
 [url-squarespace]: https://www.squarespace.com/
 [url-techstyle]: /project/techstyle-fashion-group
-[url-work-confessions]: /blog/work-confessions
+[url-work-confessions]: /blog/side-project-work-confessions
