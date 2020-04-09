@@ -16,6 +16,23 @@ featured_image: ""
 
 ![My family](/images/awwwry-family.jpg)
 
+#### Fun facts
+
+| Strengths | Weaknesses |
+| --- | --- |
+| Progressive | Runs from emotional expression |
+| Original | Temperamental |
+| Humanitarian | Uncompromising |
+|  | Aloof |
+
+| Likes | Dislikes |
+| --- | --- |
+| Gettin' rowdy w/ friends | Limitations |
+| Helping others | Broken promises |
+| Fighting for causes | Being lonely |
+| Intellectual conversations | Boring situations |
+| People who listen | People who disagree w/ me |
+
 #### Currently gettin' thicc and nasty with:
 
 | Name | URL |
