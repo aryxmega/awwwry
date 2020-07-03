@@ -8,32 +8,15 @@ featured_image: ""
 
 ![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 
-**During business hours**, I'm a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and visual designs. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
+**During business hours**, I'm a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and visual designs above the fold. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
-**After hours**, I'm either spending time with my adventure partner, bedroom lover and best fuckin' homie, [Alexandra][url-alexandra], with our son, Arro, or working on one of my [projects][url-side-projects].
+**After hours**, I'm either spending time with my adventure partner, bedroom lover and all-time homie, Alexandra, and our son, Arro, or working on one of my [projects][url-side-projects].
 
 ![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
 
 ![My family](/images/awwwry-family.jpg)
 
-#### Fun facts
-
-| Strengths | Weaknesses |
-| --- | --- |
-| Progressive | Runs from emotional expression |
-| Original | Temperamental |
-| Humanitarian | Uncompromising |
-|  | Aloof |
-
-| Likes | Dislikes |
-| --- | --- |
-| Gettin' rowdy w/ friends | Limitations |
-| Helping others | Broken promises |
-| Fighting for causes | Being lonely |
-| Intellectual conversations | Boring situations |
-| People who listen | People who disagree w/ me |
-
-#### Currently gettin' thicc and nasty with:
+#### Tools:
 
 | Name | URL |
 | --- | --- |
