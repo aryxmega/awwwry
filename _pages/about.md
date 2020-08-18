@@ -1,16 +1,14 @@
 ---
 layout: page
-title: "I'm Ary, American-Indonesian father and fiancé from Los Angeles, California."
+title: "I'm Ary, American-Indonesian father and husband from Los Angeles, California."
 permalink: '/about/'
 description: This is where I publish stories about my life, work and everything in between as a designer and developer.
 featured_image: ""
 ---
 
-![Web developer](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
+**During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and visual designs above the fold. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
-**During business hours**, I'm a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and visual designs above the fold. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
-
-**After hours**, I'm either spending time with my adventure partner, bedroom lover and all-time homie, Alexandra, and our son, Arro, or working on one of my [projects][url-side-projects].
+**After hours**, I'm spending time with my adventure partner, bedroom lover and #1 homie, Alexandra, and our son, Arro.
 
 ![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
 
