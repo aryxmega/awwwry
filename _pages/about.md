@@ -6,9 +6,9 @@ description: This is where I publish stories about my life, work and everything 
 featured_image: ""
 ---
 
-**During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and visual designs above the fold. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
+**During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and designs above the fold. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
-**After hours**, I'm spending time with my adventure partner, bedroom lover and #1 homie, Alexandra, and our son, Arro.
+**After hours**, I'm spending time with my adventure partner and bedroom lover, Alexandra, and our son, Arro.s
 
 ![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
 
