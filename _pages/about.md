@@ -6,15 +6,17 @@ description: This is where I publish stories about my life, work and everything 
 featured_image: ""
 ---
 
-**During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling userflows and designs above the fold. Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
-
-**After hours**, I'm spending time with my adventure partner and bedroom lover, Alexandra, and our son, Arro.
-
 ![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
+
+**During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling designs above the fold.
+
+Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
+
+**After hours**, I spend time with my adventure partner and bedroom lover, Alexandra, and our son, Arro.
 
 ![My family](/images/awwwry-family.jpg)
 
-#### Tools:
+#### Creative tools I use
 
 | Name | URL |
 | --- | --- |
@@ -32,7 +34,7 @@ featured_image: ""
 | Wordpress | [https://www.wordpress.org](https://www.wordpress.org) |
 | Zeplin | [https://www.zeplin.io](https://www.zeplin.io) |
 
-#### Timeline
+#### Timeline of my adult life
 
 | Time | Title | Location |
 | --- | --- |
@@ -58,10 +60,9 @@ featured_image: ""
 #### About this site
 
 - Coded using the homie, [Visual Studio Code][url-vsc]
-- Powered by J-Dawg, [Jekyll][url-jekyll]
-- Hostin' with the domain papi, [GoDaddy][url-godaddy]
-- Git'n it version controlled by the G.O.A.T., [GitHub][url-github] 🐐
-- Deployed automatically using the MVP, [Netlify][url-netlify]
+- Powered by [Jekyll][url-jekyll]
+- Git'n it versioned by the 🐐, [GitHub][url-github]
+- Deployed automatically using [Netlify][url-netlify]
 
 #### Need to holler?
 [Find me online](https://www.google.com/search?sxsrf=ALeKk00IwGUmQE9Y-hJSstVeLIrysRnptg%3A1583135503972&source=hp&ei=D7tcXv-NOdb3-gSCz4CIBA&q=awwwry&oq=awwwry&gs_l=psy-ab.3..35i39l2j0i10l8.406.1256..1343...1.0..0.159.467.4j1......0....1..gws-wiz.......0i131j0.P6nl9yRwUrA&ved=0ahUKEwi_0d-qp_vnAhXWu54KHYInAEEQ4dUDCAc&uact=5)
