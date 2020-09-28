@@ -2,7 +2,7 @@
 title: "Married in Joshua Tree"
 date: 2020-08-28
 description: "The Rona tried cancelling our wedding, but we said, 'Nah, not today, Satan.'"
-featured_image: 'https://media.giphy.com/media/2lG8fMhri8Pmw/giphy.gif'
+featured_image: '/images/preview-01.jpg'
 cta: "I said I did"
 ---
 
@@ -11,55 +11,74 @@ May 16th, 2020, would’ve been the day Alexandra and I became husband and wife.
 
 Fast-forward a few months, we couldn’t wait any longer and decided to get married and say our vows to each other in Joshua Tree, California, in front of our son, Arro, my folks and our friend, David, taking photographs and video — on August 28th, 2020.
 
-If a person doesn't have a city to input, they can easily Google your first and/or last name and the company you work for. 9 out of 10, a person will find treasure within your LinkedIn, especially with the city listed under your name.
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/02.jpg,/images/03.jpg,/images/04.jpg,/images/05.jpg
+	"
+%}
 
-From there, they can look you up on a search engine, such as [Whitepages](https://www.whitepages.com/) and social media: Instagram, Twitter, Reddit, Twitch, etc.
+#### Urban Dictionary defines love as finding somebody you want to share 23 huskies with. I'm about that.
 
-### No name? No problem.
-If a person wants to find out your name, one option would be to do a reverse address look-up *(this only works if they know your address; one option is to look at street view on Google Maps to grab your street address if they know what street you live on).* They can simply type in your address into Whitepages, do a cross-reference of when you live(d) there and boom — there's your name with all your information.
+Alex, before I met you, I thought I had my life figured out. To be honest, I didn't think I'd be a husband — let alone a father. But you gave me both and I wouldn't have it any other way.
 
-### Now they know where you live, now what?
-Now, they can look up your home address into [Zillow](https://www.zillow.com/) where, most of the time, your residence information will be available. Particularly useful if you live in a house — shows number of bedrooms, bathrooms, history, etc.
+I remember seeing you for the first time. You offered me cookies at the office. I knew right then and there I wanted to wife you up. There was something about you that drew me in — like a magnet. I couldn't stay away.
 
-They can also look up your address on [Google Maps](https://www.google.com/maps), go into satellite view and do recon *(AKA creep mode)* of your house and neighborhood, which can let 'em know if you live in a cul-de-sac, apartment complex and more if they're tryna be malicious.
+As we spent more time together, I realized how caring and thoughtful you are. You always think of others with gifts, small gestures and the kindest words. It's one of the reasons that made me fall in love with you.
 
-### Why does this matter?
-Finding your address is one thing — people can come by and creep, or worse — but finding your cell phone number is another.
+The other reason was your cooking. Hot damn can you cook delicious meals. I love that you're a perfectionist. You've probably made over 743 pizzas for us over the last four years and you perfect it every time. Not to mention they're healthy, too.
 
-There's a story about a 20-year-old college student who stole [$5 million in cryptocurrency by hijacking the phone numbers](https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison) of 40 victims.
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/06.jpg,/images/07.jpg,/images/08.jpg,/images/09.jpg
+	"
+%}
 
-**You can read the full story here:**  
-[https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison](https://www.vice.com/en_us/article/gyaqnb/hacker-joel-ortiz-sim-swapping-10-years-in-prison)
+#### Because you care about me; you genuinely care about my well-being.
 
-He basically did a [SIM swap](https://www.vice.com/en_us/article/vbqax3/hackers-sim-swapping-steal-phone-numbers-instagram-bitcoin) that allowed him to gain access to phone numbers, which is an essential gateway for 2-step authentications.
+What I eat, what appointments I need to make, lifting me up when I'm down, believing in me when I don't even believe in myself at times.
 
-![Creeper](https://media.giphy.com/media/QvEGdxylSLTk4/giphy.gif)
+You challenge me; you challenge us.
 
-### What can you do to protect yourself.
-First, call your phone company to make sure that your number is unlisted. Then search online directories, such as Whitepages, and see if your contact information is available, contact them to have you get unlisted.
+You always keep us in check to make sure the flame is still lit between us. Being with you *is* lit. It's crazy how I found my life partner at 800 Apollo Street on a Tuesday afternoon in between meetings. From countless concerts, road trips, comedy shows and more.
 
-To get unlisted from Whitepages:
+I'm so lucky to experience all that with you — especially on May 4th, 2018, when we became parents. I knew long before then I found the future mother of my kids. Everything about you told me you were going to be an amazing mother.
 
-1. Go to [whitepages.com](https://www.whitepages.com/) and search for yourself.
-2. Copy and note the URL for all of your listings — they should look something like **http://www.whitepages.com/name/John-Doe/Seattle-WA/6u3wkef%E2%80%9D.**
-3. Go to Whitepages' [opt-out page](https://www.whitepages.com/suppression_requests).
-4. Paste the URL of your listing(s), one at a time, and click **"Opt-out**.
-5. Verify the cord you want removed and click the **"Remove me"** button. On the next screen, choose the reason for removal from the drop-down menu.
-6. Next, you'll have to enter your phone number to receive via an automated confirmation call. Click **"Call now to verify"**, or whenever you're ready, which will take you to a page with a confirmation code.
-7. Wait for the verification robocall, then follow the directions. Keep in mind that some call blockers may prevent the call from getting through or alert you to possible spam. You'll need the confirmation code to complete your removal request.
+Every time I see how loving you are to our child makes me tear up inside because I finally have it all — a partner who I'm in love with and can now call my wife and a wild, crazy son who makes us laugh constantly. I have my own little family now and that's everything to me.
 
-### That will only remove you from all free searches — you're still listed for premium subscribers.
+Alex, I'm so excited to continue our lives together as husband and wife because after all we've been through — the ups, the downs, the lefts and rights — we always go to bed saying, "I love you", and I know we can get through anything together — as a family.
 
-Premium subscribers are people who pay a monthly fee to access Whitepages' locked content. To remove your data from premium searches on Whitepages, you'll have to put in a support ticket.
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/10.jpg,/images/11.jpg,/images/12.jpg,/images/13.jpg
+	"
+%}
 
-1. In your search results, find the Premium record for the record you want to remove — this is the listing with the blue **"View Full Report"** button next to it.
-2. Right-click (or CTRL + mouse click) that button and select **"Copy link address"**.
-3. Mosey over to Whitepages' [support request page](https://support.whitepages.com/hc/en-us/requests/new).
-4. Select **"I need to edit or remove a listing"** from the dropdown menu and fill out the form. You'll need to provide your first, middle initial (if you have one), last name, city, state and listing URL.
+#### Before I get too emotional, I just want to say...
 
-The process takes about 72 hours and, unfortunately, it doesn't remove it from public records. But it's one less destination where someone can find your information.
+I admire you, I respect you, I'll always protect you and keep our family safe, I'll always keep you laughing and continue to help you grow and I'll always say I love you before bed.
 
-### Hope this helps.
-Sometimes I scare myself how fast and easy I can find information on people. It's best to educate yourself on digital vulnerabilities because the last thing you'd want is to be [social engineered](https://www.imperva.com/learn/application-security/social-engineering-attack/) by someone. More on that in a future post.
+I love you.
 
-Be safe out there, my dudes.
+PS, you want to order Chinese tonight?
+
+{% include post-components/video.html
+	url = "https://player.vimeo.com/video/453826715?color=6c6e95&title=0&byline=0"
+	full_width = true
+%}
+
+#### Photography and video by David Scott Bowles
+
+None of the moments would've been captured if it wasn't for our super rad and talented friend, [David Scott Bowles](https://www.davidscottbowles.com). Thank you so much, homie.
+
+- [davidscottbowles.com](https://www.davidscottbowles.com)
+- [instagram.com/davidscottbowles_](https://www.instagram.com/davidscottbowles_/)
+
+{% include post-components/gallery.html
+	columns = 1
+	full_width = true
+	images = "/images/carousel-01.jpg,/images/carousel-02.jpg,/images/carousel-03.jpg,/images/carousel-04.jpg,/images/carousel-05.jpg,/images/carousel-06.jpg,/images/carousel-07.jpg,/images/carousel-08.jpg
+	"
+%}
