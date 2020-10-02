@@ -1,38 +1,18 @@
 ---
 layout: page
-title: "I'm Ary, American-Indonesian father and husband from Los Angeles, California."
+title: "I'm Ary, an American-Indonesian father and husband from Los Angeles, California."
 permalink: '/about/'
 description: This is where I publish stories about my life, work and everything in between as a designer and developer.
 featured_image: ""
 ---
 
-![@AWWWRY horsing around in hospital](/images/awwwry-horsing-around-hospital.gif)
+![@AWWWRY and a 1999 Harley-Davidson Sportster](/images/ary-mega-my-life.jpg)
 
 **During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling designs above the fold.
 
 Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
-**After hours**, I spend time with my adventure partner and bedroom lover, Alexandra, and our son, Arro.
-
-![My family](/images/awwwry-family.jpg)
-
-#### Creative tools I use
-
-| Name | URL |
-| --- | --- |
-| Abstract | [https://www.abstract.com/](https://www.abstract.com/) |
-| Adobe XD | [https://www.adobe.com/products/xd.html](https://www.adobe.com/products/xd.html) |
-| GitHub | [https://www.github.com](https://www.github.com) |
-| Jekyll | [https://www.jekyllrb.com](https://www.jekyllrb.com) |
-| Netlify | [https://www.netlify.com](https://www.netlify.com) |
-| Origami Studio | [https://origami.design/](https://origami.design/) |
-| React | [https://reactjs.org/](https://reactjs.org/)
-| Shopify | [https://www.shopify.com/](https://www.shopify.com/)
-| Sketch | [https://www.sketch.com/](https://www.sketch.com/)
-| UsabilityHub | [https://www.usabilityhub.com](https://www.usabilityhub.com) |
-| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
-| Wordpress | [https://www.wordpress.org](https://www.wordpress.org) |
-| Zeplin | [https://www.zeplin.io](https://www.zeplin.io) |
+**After hours**, my time is spent with my adventure partner and bedroom lover, Alexandra, and our son, Arro.
 
 #### Timeline of my adult life
 
@@ -46,16 +26,27 @@ Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] b
 | 2015-2018 | **Sr. UX Designer** | [Fabletics][url-fabletics] |
 | 2018-2019 | **Founder & Owner** | [CVMPUS][url-cvmpus]** |
 | 2019-2020 | **Front-End Designer** | [The Walking Company][url-the-walking-company] |
+| 2020-Now | **Sr. UX Designer** | [The Bouqs Co.][url-the-bouqs] |
 
 *Known as Lunchbox at the time  
 **Closed due to personal matters
 {: .small}
 
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/ary-mega-my-life.jpg,/images/awwwry-harley-davidson-motorcycle.jpg,https://preview.redd.it/6pn8knxqq1541.jpg?width=960&crop=smart&auto=webp&s=7f5e35d821927f6dc5f3b793b23564a7389153eb,/images/awwwry-tennis.jpg"
-%}
+#### Creative tools I use
+
+| Name | URL |
+| --- | --- |
+| Abstract | [https://www.abstract.com/](https://www.abstract.com/) |
+| Adobe XD | [https://www.adobe.com/products/xd.html](https://www.adobe.com/products/xd.html) |
+| GitHub | [https://www.github.com](https://www.github.com) |
+| Jekyll | [https://www.jekyllrb.com](https://www.jekyllrb.com) |
+| Netlify | [https://www.netlify.com](https://www.netlify.com) |
+| Origami Studio | [https://origami.design/](https://origami.design/) |
+| React | [https://reactjs.org/](https://reactjs.org/) |
+| Sketch | [https://www.sketch.com/](https://www.sketch.com/)
+| UsabilityHub | [https://www.usabilityhub.com](https://www.usabilityhub.com) |
+| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
+| Zeplin | [https://www.zeplin.io](https://www.zeplin.io) |
 
 #### About this site
 
@@ -94,3 +85,4 @@ Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] b
 [url-mozilla]: https://www.mozilla.org/en-US/
 [url-alexandra]: https://www.instagram.com/alexandralambros/
 [url-side-projects]: /project/side-projects/
+[url-the-bouqs]: https://bouqs.com/
