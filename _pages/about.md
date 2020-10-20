@@ -8,7 +8,9 @@ featured_image: ""
 
 ![@AWWWRY and a 1999 Harley-Davidson Sportster](/images/ary-mega-my-life.jpg)
 
-**During business hours**, I day trade options and swing credit spreads. Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling designs above the fold.
+**Before business hours**, I day trade $SPY options, typically between 6:45 - 8:30 AM (PST), using the Fibonacci Pivot Levels, Session Volume Profile, On-Balance Volume and the 25/64 Hull Moving Average(s) for 16-30% compound gains and a pivot level stop less.
+
+**During business hours**, I provide memes and provide user experience and design recommendations at [The Bouqs Co.][url-the-bouqs] Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling designs above the fold.
 
 Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] before I ventured off to start my first business, [CVMPUS][url-cvmpus].
 
