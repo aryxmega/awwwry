@@ -25,10 +25,10 @@ Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] b
 | 2007-2009 | **Web Producer** | [VIMBY][url-vimby] |
 | 2009-2012 | **Web Developer** | [Mirum Agency][url-mirum]* |
 | 2013-2015 | **UX Designer** | [ShoeDazzle][url-shoedazzle] |
-| 2015-2018 | **Sr. UX Designer** | [Fabletics][url-fabletics] |
+| 2015-2018 | **UX Designer** | [Fabletics][url-fabletics] |
 | 2018-2019 | **Founder & Owner** | [CVMPUS][url-cvmpus]** |
-| 2019-2020 | **Front-End Designer** | [The Walking Company][url-the-walking-company] |
-| 2020-Now | **Sr. UX Designer** | [The Bouqs Co.][url-the-bouqs] |
+| 2019-2020 | **UX, Developer** | [The Walking Company][url-the-walking-company] |
+| 2020-Now | **UX Designer** | [The Bouqs Co.][url-the-bouqs] |
 
 *Known as Lunchbox at the time  
 **Closed due to personal matters
