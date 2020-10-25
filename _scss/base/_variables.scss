@@ -1,11 +1,11 @@
 // Colors
 
-$main-color:        mediumslateblue;  // change this color for further customization 
+$main-color:        #121212;  // change this color for further customization 
                                       // I like http://colours.neilorangepeel.com/! Making colors semantic too ;)
 
-$bg-color:          white; // background-color
+$bg-color:          #121212; // background-color
 
-$text-color:        #333; 
+$text-color:        #ffffff; 
 $link-color:        $main-color; 
 $border-color:      #e0e1e6;
 $smoke-color:       #fafafa;
@@ -13,8 +13,8 @@ $smoke-color:       #fafafa;
 
 // Typography 
 
-$font-family:       'Open Sans', sans-serif;
-$variant-family:    'Lora', Georgia, serif;
+$font-family:       'IBM Plex Mono', monospace;
+$variant-family:    'Lora', serif;
 $font-size-l:       1.25em; // font-size on desktop type screens
 $font-size-m:       $font-size-l * 0.9; // font-size under 942px wide screens
 $font-size-s:       $font-size-l * 0.7; // font-size under 642px wide screens
