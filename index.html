@@ -1,75 +1,43 @@
 ---
 layout: default
-overtitle: "/aw-ree/:"
-title: "American-Indonesian father and husband."
-description: "Was <a href='https://www.fabletics.com' title='Fabletics' target='_blank'>@Fabletics</a>. Owned <a href='https://www.instagram.com/cvmpus' title='CVMPUS' target='_blank'>@CVMPUS</a>. Currently WFH <a href='https://www.linkedin.com/in/awwwry' title='Ary Mega on LinkedIn' target='_blank'>@COVID-19</a>."
-featured_image: "https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif"
+title: Homepage
 ---
 
-<div class="page-home">
-	<section class="hero">
-		<div class="wrap grid">
-			<div class="title">
-				<p class="subtitle">{{ page.overtitle }}</p>
-				<h1>{{ page.title }}</h1>
-			</div>
-
-			<p class="intro subtitle--light">
-				{{ page.description }}
-				<a href="https://arymega.com" target="_blank" class="hero__cta button--fill --right">See what I'm up to</a>
-			</p>
-		</div>
-	</section>
-
-	<section class="listing">
-		<div class="wrap">
-
-			{% for project in site.projects reversed %}
-
-			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
-
-			<article class="project__preview">
-				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
-
-				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
-					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
-					{% endfor %}
-				</div>
-
-				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
-					<p class="project__description --small">
-						{{ project.description }}
-						<br>
-						<a href="{{ project.url | relative_url }}" class="project__link button--fill --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Work</a>
-					</p>
-				</div>
-			</article>
-
-			{% endfor %}
-		</div>
-	</section>
-	
-	{% comment %}
-	{% include section__about.html %}
-	{% endcomment %}
-	
-	<section class="recent-posts">
-		<div class="wrap grid">
-			<header class="recent-posts__header">
-				<h3>Recent posts</h3>
-				<a href="{{ '/blog' | relative_url }}" class="action button--text --right">All Posts</a>
-			</header>
-
-			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 3 %}
-				{% include component__post-preview.html %}
-				{% endfor %}
-			</div>
-
-			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text --right">All Posts</a>
-		</div>
-	</section>
+<div id="home">
+  <ul class="posts">
+    {% for post in paginator.posts %}
+    <li itemscope itemtype="http://schema.org/BlogPosting">
+      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+        <div class="p-wrap">
+          <article class="inner">
+            <time datetime="{{ post.date | date_to_xmlschema }}"
+                itemprop="datePublished">
+              {{ post.date | date: "%B %d, %Y" }}
+            </time>
+            <p itemprop="name headline">{{ post.title }}</p>
+          </article>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.next_page %}
+  <a href="{{ site.baseurl }}/page/{{paginator.next_page}}" class="older">Older</a>
+  {% else %}
+  <span class="next">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+    <a href="{{ site.baseurl }}/" class="newer">Newer</a>
+    {% else %}
+    <a href="{{ site.baseurl }}/page/{{paginator.previous_page}}" class="newer">Newer</a>
+    {% endif %}
+  {% else %}
+  <span class="previous">Newer</span>
+  {% endif %}
+</div>
+{% endif %}

@@ -1,70 +1,42 @@
-site: "@AWWWRY"
+# Title of your blog; shows in the header
+name: "@AWWWRY"
 
-url: 'https://awwwry.com'
-baseurl: ''
+# Description of your content (will only be used on Google Search)
+description: "American-Indonesian father and husband from Los Angeles, California."
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
+# Your name. Will show in your footer + sidebar
+author: "@AWWWRY"
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+url: "https://awwwry.com"
+baseurl: ""
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "American-Indonesian father and husband from Los Angeles, California."
+
+# Social Accounts (mine, as placeholders)
+
+twitter: awwwry
+github: awwwry
+dribbble: 
+instagram: 
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain: 
+ga_tracking_id: 
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
 markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-  
-sass:
-  style: compressed
-
+permalink: pretty
 plugins:
-  - jekyll-sitemap
+  - jekyll-paginate
 
-paginate: 7
-paginate_path: "/blog/page-:num/"
+paginate: 10
+paginate_path: "/page/:num"
 
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: []
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed

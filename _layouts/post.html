@@ -1,55 +1,34 @@
 ---
 layout: default
 ---
-<div class="page-post">
 
-	<header class="post__header header--single">
-		
-		<div class="wrap">
-			<h1 class="post__title">{{ page.title }}</h1>
-			<time class="post__date label">{{ page.date | date: "%B %d, %Y" }}</time>
-		</div>
-
-		<img src="{{ page.featured_image | relative_url }}" class="post__featured-image">
-
-	</header>
-
-	<section class="post-full">
-
-		<div class="wrap">
-
-			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
-				{{ page.content }}
-			</article>
-
-			<div class="post__more grid">
-				{% if page.previous.url %}
-				<a class="prev-post subtitle" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a>
-				{% endif %}
-				{% if page.next.url %}
-				<a class="next-post subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
-				{% endif %}
-			</div>
-
-		</div>
-
-	</section>
-
-</div>
-	
-<section class="recent-posts">
-	<div class="wrap grid">
-		<header class="recent-posts__header">
-			<h3>Recent posts</h3>
-			<a href="{{ '/blog' | relative_url }}" class="action button--text --right">All Posts</a>
-		</header>
-
-		<div class="recent-posts__list grid">
-			{% for post in site.posts limit: 3 %}
-			{% include component__post-preview.html %}
-			{% endfor %}
-		</div>
-
-		<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text --right">All Posts</a>
-	</div>
+<section class="single-wrap">
+  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="feat">
+      <h5 class="page-date">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date_to_long_string }}
+        </time>
+      </h5>
+    </div>
+    <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+    <div itemprop="articleBody">
+      {{ content }}
+    </div>
+    <div class="feat share">
+      <a href="http://twitter.com/share" class="popup">
+        <span class="icon-twitter"></span>
+      </a>
+    </div>
+    {% if page.next %}
+      <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
+        <span class="nav-title nav-title-next">newer</span> &rarr;
+      </a>
+    {% endif %}
+    {% if page.previous %}
+      <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
+        &larr; <span class="nav-title nav-title-prev">older</span>
+      </a>
+    {% endif %}
+  </article>
 </section>
