@@ -8,7 +8,7 @@ featured_image: ""
 
 ![@AWWWRY and a 1999 Harley-Davidson Sportster](/images/ary-mega-my-life.jpg)
 
-**Before business hours**, I day trade $SPY options, typically between 6:45 - 8:30 AM (PST), using the Fibonacci Pivot Levels, Session Volume Profile, On-Balance Volume and the 25/64 Hull Moving Average(s) for 16-30% compound gains and a pivot level stop less.
+**Before business hours**, I flip premiums trading options with the [OptionsSwing][url-optionsswing] community, typically between 6:45 - 9:00 AM (PST), using Price Action, Fibonacci Pivot Levels and the Session Volume Profile.
 
 **During business hours**, I provide memes and provide user experience and design recommendations at [The Bouqs Co.][url-the-bouqs] Previously, I was a front-end designer with over 3,650 days of experience doing lines of code and smuggling designs above the fold.
 
@@ -88,3 +88,4 @@ Recently, I was the Sr. User Experience Designer at [Fabletics][url-fabletics] b
 [url-alexandra]: https://www.instagram.com/alexandralambros/
 [url-side-projects]: /project/side-projects/
 [url-the-bouqs]: https://bouqs.com/
+[url-optionsswing]: https://www.optionsswing.com/
